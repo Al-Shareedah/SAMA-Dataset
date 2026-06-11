@@ -1,0 +1,101 @@
+Generated Questions,Generated Answers,True Answers,map_element_category,Reference Answer
+How many Dining are near Main Lobby / Concierge?,"4 (Whispering Canyon Cafe, Territory Lounge, Artist Point, Roaring Fork)",,dining location,"4 (Whispering Canyon Cafe, Territory Lounge, Artist Point, Roaring Fork)"
+In which map direction is Dining located relative to Main Lobby / Concierge?,North and East,,direction,North and East
+Are there any Dining within a short walk of Copper Creek Villas?,"Yes (Geyser Point Bar & Grill, Roaring Fork)",,dining location,"Yes (Geyser Point Bar & Grill, Roaring Fork)"
+Which Recreation is located in the south of Boulder Ridge Cove Pool?,Cypress Courts (N),Sturdy Branches Health Club (I),attraction,Sturdy Branches Health Club (I)
+Where can I find Dining in the northwest of Boulder Ridge Cove Pool?,In the main Disney's Wilderness Lodge building,,dining location,In the main Disney's Wilderness Lodge building
+Which Recreation can I find from Cacade Cabins Parking towards Cascade Cabins?,Buttons and Bells Game Arcade (J),Spitfire Flats Barbecue Pavillion (O),attraction,Spitfire Flats Barbecue Pavillion (O)
+What location has Dining from Main Lobby / Concierge towards Copper Creek Springs Pool?,The main building / Roaring Fork (F),,dining location,The main building / Roaring Fork (F)
+What lake are the Cascade Cabins directly next to?,Geyser Point Bar & Grill (E),Bay Lake,attraction,Bay Lake
+Where can I find the nearest Dining from Copper Creek Villas?,Geyser Point Bar & Grill (E),,dining location,Geyser Point Bar & Grill (E)
+Where is boat transportation located near?,North / Northeast,Fire Rock Geyser,location,Fire Rock Geyser
+How close is the closest Dining from Main Lobby / Concierge (short/moderate/long walk)?,Short walk,,dining location,Short walk
+What is the closest Dining north of Main Entrance?,Whispering Canyon Cafe (B),,dining location,Whispering Canyon Cafe (B)
+Is the Main Entrance to the Lodge a far walk to the Lobby?,None (Dining is to the North/East),Yes,facility,Yes
+Where are service animal relief areas located?,Whispering Canyon Cafe (B),Located in grassy areas adjacent to parking lots,accessibility feature,Located in grassy areas adjacent to parking lots
+Is there Wifi avaliable throughout the resort?,Roaring Fork (F),"Yes including guest rooms, main lobbies and feature pools (coverage may vary)",map information,"Yes including guest rooms, main lobbies and feature pools (coverage may vary)"
+Where can I find the WiFi Symbol icon on the map?,In the legend only; none are plotted on the map,,map legend,In the legend only; none are plotted on the map
+How many designated smoking locations does this resort provide?,None plotted on the map,2,amenity,2
+Where can the boat transportation take you to?,0,"Magic Kingdom Park, Disney's Contemporary Resort, Disney's Fort Wilderness Resport & Campground",map information,"Magic Kingdom Park, Disney's Contemporary Resort, Disney's Fort Wilderness Resport & Campground"
+What does the red heart with AED mean on the map?,Wi-Fi is available in many areas throughout the Resorts,Automated External Defibrillators,map legend,Automated External Defibrillators
+"Where is the main entrance located relative to the rest of the map (e.g., top, bottom, specific zone)?",Bottom,,location,Bottom
+What room numbers for Cascade Cabins are on the West side of the resort?,Whispering Canyon Cafe (B) and Main Lobby (A),8001-8012,map information,8001-8012
+I am standing at the Main Entrance. List the major zones or areas I can access directly from here?,Disney's Wilderness Lodge and Cascade Cabins Parking,Disney's Wilderness Lodge and Copper Creek Villas,region,Disney's Wilderness Lodge and Copper Creek Villas
+What accessibility amenities are offered according to the map legend?,Elevators and Service animal relief areas,,accessibility feature,Elevators and Service animal relief areas
+Where can I find wheelchair/stroller-friendly services near Main Lobby / Concierge?,Elevators are located next to Check-In (A),,accessibility feature,Elevators are located next to Check-In (A)
+Where are the family/inclusive restrooms (Guest Services) located to the north of the Main Entrance on the map?,Not depicted on the map,,accessibility feature,Not depicted on the map
+Where can I get beverages near Copper Creek Springs Pool?,Geyser Point Bar & Grill (E) or Roaring Fork (F),,dining location,Geyser Point Bar & Grill (E) or Roaring Fork (F)
+What services are near Cypress Courts?,Roaring Fork (F) or Whispering Canyon Cafe (B),Automated External Defibrillators,amenity,Automated External Defibrillators
+What does the Mickey Mouse label stand for?,Whispering Canyon Cafe (B) (if routing through the lobby),Disney's Magical Express Bus Stop,map legend,Disney's Magical Express Bus Stop
+Which Recreation is located in the east of Boulder Ridge Cove Pool?,Spitfire Flats Barbecue Pavilion (O),,attraction,Spitfire Flats Barbecue Pavilion (O)
+What room numbers for Cascade Cabins are on the East side of the resort?,"Whispering Canyon Cafe, Territory Lounge, Artist Point, Roaring Fork",8013-8026,map information,8013-8026
+How many shopping locations does this resort provide?,Whispering Canyon Cafe (B),1 (Wilderness Lodge Mercantile),retail,1 (Wilderness Lodge Mercantile)
+What room numbers are in Boulder Ridge Villas?,The main Disney's Wilderness Lodge building,"1501-1559, 2501-2563, 3501-3563, 4501-4563, 5517-5557",map information,"1501-1559, 2501-2563, 3501-3563, 4501-4563, 5517-5557"
+What is the nearest Dining from Shady Point?,Whispering Canyon Cafe (B),Geyser Point Bar & Grill (E),dining location,Geyser Point Bar & Grill (E)
+Where can I find the nearest shopping from Main Lobby / Concierge?,Just north of the lobby/concierge area,Wilderness Lodge Mercantile (G),retail,Wilderness Lodge Mercantile (G)
+What map direction should I head toward to reach the closest Dining from Copper Creek Springs Pool?,West (to Roaring Fork) or East (to Geyser Point),,direction,West (to Roaring Fork) or East (to Geyser Point)
+How close is the closest Dining from Copper Creek Villas (short/moderate/long walk)?,Short walk,,dining location,Short walk
+What room numbers are in Copper Creek Villas?,Whispering Canyon Cafe (B),"1130-1168, 2107-2137, 3106-3137, 4103-4137, 5100-5137, 6100-6135, 7106-7119",map information,"1130-1168, 2107-2137, 3106-3137, 4103-4137, 5100-5137, 6100-6135, 7106-7119"
+Where is the closest Dining southeast of Cascade Cabins on the West side of the resort?,None,Roaring Fork (F),dining location,Roaring Fork (F)
+Where can I find the Elevator Icon on the map?,"Near Check-In, in Copper Creek Villas, and in Boulder Ridge Villas","Near Check-In and Disney's Wilderness Lodge, in Copper Creek Villas, and in Boulder Ridge Villas",accessibility feature,"Near Check-In and Disney's Wilderness Lodge, in Copper Creek Villas, and in Boulder Ridge Villas"
+"What is the nearest WiFi Symbol (Wi-Fi available in guest rooms, main lobbies and feature pools) icon to Boulder Ridge Cove Pool?",None plotted on the map,,map legend,None plotted on the map
+What does the Compass Rose (Directional indicator: North/South/East/West) icon represent on this map?,Map orientation (North is up),,map legend,Map orientation (North is up)
+Where are the assessible services on the map?,Not depicted on the map,,accessibility feature,Not depicted on the map
+Where can I get beverages near Main Lobby / Concierge?,Territory Lounge (C) or Whispering Canyon Cafe (B),,dining location,Territory Lounge (C) or Whispering Canyon Cafe (B)
+I am currently at Boulder Ridge Cove Pool. Where is the closest place I can get alcohol?,Geyser Point Bar & Grill (E),,dining location,Geyser Point Bar & Grill (E)
+What room numbers are in Disnye's Wilderness Lodge?,0 immediately adjacent; closest are in the main building,"1000-1034, 2000-2034, 3000-3034, 4000-4090, 5000-5089, 6000-6087, 7035-7096",map information,"1000-1034, 2000-2034, 3000-3034, 4000-4090, 5000-5089, 6000-6087, 7035-7096"
+Are there any Recreation within a short walk of Main Lobby / Concierge?,Yes (Buttons and Bells Game Arcade),,attraction,Yes (Buttons and Bells Game Arcade)
+What is located East of Reunion Station?,Whispering Canyon Cafe (B),Teton Boat & Bike Rentals (K),attraction,Teton Boat & Bike Rentals (K)
+Where is the Bus Stop located on the map?,None,Near check-in area,facility,Near check-in area
+What recreation is near Copper Creek Villas?,Whispering Canyon Cafe (B),Salon by the Springs (M),attraction,Salon by the Springs (M)
+How many AED are in the resort?,None plotted on the map,9,amenity,9
+How many Laundry icons are in Copper Creek Springs Pool?,0,,amenity,0
+Does this resort have places I can park my car?,Main Lobby (A),Yes,facility,Yes
+How many Dining are near Boulder Ridge Cove Pool?,0 immediately adjacent; Geyser Point (E) is closest,,dining location,0 immediately adjacent; Geyser Point (E) is closest
+What is Northeast of Copper Creek Springs Pool Area?,North,Fire Rock Geyser,attraction,Fire Rock Geyser
+What services is near Sturdy branches Health Club?,None,"Laundry, AED, Smoking Area",amenity,"Laundry, AED, Smoking Area"
+Where are spitfire flats barbecue pavillion located?,Whispering Canyon Cafe (B),Throughout resort near Cacasde Cabins,location,Throughout resort near Cacasde Cabins
+"If I have questions, what can I do?",Whispering Canyon Cafe (B),Call 407-828-7126 or visit front desk,map information,Call 407-828-7126 or visit front desk
+What is adjacent to Territory Lounge?,0,Artist Point (D),dining location,Artist Point (D)
+"There are Timon and Pumbaa from ""The Lion King"" throughout the park, what are they for?",Wi-Fi availability across the resort,Safety reminders,map legend,Safety reminders
+Where are the Guest Services restrooms near the Main Lobby / Concierge on the map?,Not depicted on the map,,amenity,Not depicted on the map
+Are there any Shopping within a short walk of Main Entrance?,"Yes, a moderate walk to Wilderness Lodge Mercantile (G)",,retail,"Yes, a moderate walk to Wilderness Lodge Mercantile (G)"
+Which Recreation is located in the southeast of Boat Transportation Dock?,Shady Point (P),,attraction,Shady Point (P)
+Where can I find Dining in the northwest of Main Lobby / Concierge?,None,,dining location,None
+How far is the walk from Salon by the Springs to Boulder Ridge Villas?,Disney's Wilderness Lodge main building,Moderate walk,path,Moderate walk
+What direction is the main entrance from Whispering Canyon Cafe?,In the main Disney's Wilderness Lodge building,South,direction,South
+What map direction should I head toward to reach the closest Dining from Boulder Ridge Cove Pool?,Northwest,,direction,Northwest
+Where is the closest Dining northwest of Boulder Ridge Cove Pool?,Territory Lounge (C) or Roaring Fork (F),,dining location,Territory Lounge (C) or Roaring Fork (F)
+Can I smoke anywhere on this resort?,Roaring Fork (F),"No, there are designated smoking areas",map information,"No, there are designated smoking areas"
+Where can I find the Laundry icon on the map?,"Near Check-In, in Copper Creek Villas, and in Boulder Ridge Villas","Near roaring fork, sturdy branches health club, check-in",amenity,"Near roaring fork, sturdy branches health club, check-in"
+How many laundry icons does this resort have?,None plotted on the map,3,amenity,3
+How many major sections does this resort have?,Whispering Canyon Cafe (B) (if routing through the lobby),"4 (Cascade Cabins, Disney's Wilderness Lodge, Copper Creek Villas, Boulder Ridge Villas)",region,"4 (Cascade Cabins, Disney's Wilderness Lodge, Copper Creek Villas, Boulder Ridge Villas)"
+How many Recreation are near Boulder Ridge Cove Pool?,"3 (Sturdy Branches, Spitfire Flats, Cypress Courts)",,attraction,"3 (Sturdy Branches, Spitfire Flats, Cypress Courts)"
+Are there any Attraction within a short walk of Main Lobby / Concierge?,Fire Rock Geyser is nearby (moderate walk),,attraction,Fire Rock Geyser is nearby (moderate walk)
+Is the Wilderness Lodge Resort large?,"Whispering Canyon Cafe, Territory Lounge, Artist Point, Roaring Fork",It is a moderate sized resort,map information,It is a moderate sized resort
+How close is the closest Dining from West Cascade Cabin Parking (short/moderate/long walk)?,Moderate walk,,dining location,Moderate walk
+How many recreation areas does this resort provide?,None,9,attraction,9
+Where is the closest Dining northwest of Boat Transportation?,None,,dining location,None
+What is the nearest Elevator Icon (Elevators) icon to Main Lobby / Concierge?,Next to Check-In (A),,accessibility feature,Next to Check-In (A)
+Where is the Bay Lake located on the map?,0,Top of the map,location,Top of the map
+Does this resort form a loop or is it one path?,Wi-Fi availability across the resort,Loop,path,Loop
+Where can I find wheelchair/stroller-friendly services near Copper Creek Springs Pool?,Elevators inside the adjacent Copper Creek Villas,,accessibility feature,Elevators inside the adjacent Copper Creek Villas
+"If my room is 8019, where is that located?",Roaring Fork (F),East Cascade Cabins,map information,East Cascade Cabins
+Are there any Recreation within a short walk of Boulder Ridge Cove Pool?,"Yes (Sturdy Branches Health Club, Spitfire Flats)",,attraction,"Yes (Sturdy Branches Health Club, Spitfire Flats)"
+How many dining does this resort provide?,Whispering Canyon Cafe (B),5,dining location,5
+How close is the closest Shopping from Fire Rock Geyser (short/moderate/long walk)?,Moderate/long walk,,retail,Moderate/long walk
+How many Disney Vacation Club does Wilderness Lodge have?,None plotted on the map,1,region,1
+"How many WiFi Symbol (Wi-Fi available in guest rooms, main lobbies and feature pools) icons are in Copper Creek Springs Pool?",0,,map legend,0
+Where are the Guest Services family/inclusive restrooms north of the Main Entrance on the map?,Not depicted on the map,,amenity,Not depicted on the map
+Where can I get beverages near Boulder Ridge Cove Pool?,Geyser Point Bar & Grill (E),,dining location,Geyser Point Bar & Grill (E)
+Where can I rent things?,Yes,Teton Boat & Bike Rentals (K),retail,Teton Boat & Bike Rentals (K)
+Which Recreation is located in the southwest of Copper Creek Springs Pool?,Buttons and Bells Game Arcade (J),,attraction,Buttons and Bells Game Arcade (J)
+What is west of Shady Point?,None,Geyser Point Bar & Grill (E),dining location,Geyser Point Bar & Grill (E)
+"I want to bike around the resort, where can I get a bike?",Roaring Fork (F),Teton Boat & Bike Rentals (K),retail,Teton Boat & Bike Rentals (K)
+What is the nearest Recreation from Boulder Ridge Cove Pool?,Sturdy Branches Health Club (I),,attraction,Sturdy Branches Health Club (I)
+What is the closest Recreation north of Main Entrance?,Buttons and Bells Game Arcade (J),,attraction,Buttons and Bells Game Arcade (J)
+What is the closest Dining from West Cascade cabins towards Boulder Ridge Cove Pool?,Whispering Canyon Cafe (B),Roaring Fork (F),dining location,Roaring Fork (F)
+Where can I find the Washing Machine Icon on the map?,"(Laundry) Near Check-In, inside Copper Creek Villas, inside Boulder Ridge Villas",,amenity,"(Laundry) Near Check-In, inside Copper Creek Villas, inside Boulder Ridge Villas"
+Are there places I can withdraw money?,None plotted on the map,No ATMs,amenity,No ATMs
+Where can I find wheelchair/stroller-friendly services near Copper Creek Villas?,Elevators located within Copper Creek Villas,,accessibility feature,Elevators located within Copper Creek Villas
+In which map direction is Dining located relative to East Cascade Cabins Parking?,Northwest,,direction,Northwest

@@ -1,0 +1,108 @@
+Generated Questions,Generated Answers,True Answers,,map_element_category,Reference Answer
+How many Dining / Bar are near Sassagoula Steamboat Co.?,"3 (River Roost, Boatwright's, Riverside Mill)",,,dining location,"3 (River Roost, Boatwright's, Riverside Mill)"
+How many Bell Services are on the map?,East / Northeast,"Sassagoula Steamboat Co., and French Quarter Square",,facility,"Sassagoula Steamboat Co., and French Quarter Square"
+Are there any Dining within a short walk of Magnolia Terrace?,Yes (Muddy Rivers Pool Bar),,,dining location,Yes (Muddy Rivers Pool Bar)
+Which Bus is near River Roost Lounge?,Sassagoula Floatworks & Food Factory,Bus at Blue Bayou Platfrom,,facility,Bus at Blue Bayou Platfrom
+Where can I find Dining in the north of French Quarter Landing?,Sassagoula Floatworks & Food Factory / Scat Cat's Club,"River Roost, Boatwright's, Riverside Mill, Muddy Rivers Pool Bar",,dining location,"River Roost, Boatwright's, Riverside Mill, Muddy Rivers Pool Bar"
+Which Pool can I find from West Depot towards Riverside Levee?,"Quiet pools near Buildings 24/25 and 17/18, and Ol' Man Island Pool","Quiet pools near Buildings 24/25 and 17/18, or Ol' Man Island Pool",,amenity,"Quiet pools near Buildings 24/25 and 17/18, or Ol' Man Island Pool"
+What location has Dining from Parterre Place (Bldg 95) towards Magnolia Terrace?,None directly between them; nearest is Muddy Rivers Pool Bar,"None directly between them; River Roost, Boatwright's, Riverside Mill, and Muddy Rivers Pool Bar are near them",,dining location,"None directly between them; River Roost, Boatwright's, Riverside Mill, and Muddy Rivers Pool Bar are near them"
+How many laundry icon are in Sassagoula Circle?,Riverside Mill Food Court,5,,amenity,5
+Where can I find Automated External Defibrillator Riverside Mill Food Court?,Sassagoula Floatworks & Food Factory,near Disney Vacation Club ,No south depot on the map ,amenity,near Disney Vacation Club 
+What map direction should I head toward to reach the closest Pool from Magnolia Terrace?,East (Quiet Pool) or West (Ol' Man Island),North (Quiet Pool) or West (Ol' Man Island),,direction,North (Quiet Pool) or West (Ol' Man Island)
+How close is the closest Pool from Magnolia Terrace (short/moderate/long walk)?,Short walk,,,amenity,Short walk
+What is the closest Pool north of French Quarter Square?,Doubloon Lagoon,"None, Doubloon Lagoon is northeast of French Quarter Square",,amenity,"None, Doubloon Lagoon is northeast of French Quarter Square"
+Where is the closest Pool southwest of French Quarter Landing?,Doubloon Lagoon,"None, Doubloon Lagoon is west of French Quarter Landing",,amenity,"None, Doubloon Lagoon is west of French Quarter Landing"
+What is the closest Dining from French Quarter Square towards Ol' Man Island?,Sassagoula Floatworks & Food Factory,"Sassagoula Floatworks & Food Factory,  Scat Cat's Club Lounge, River Roost Lounge, Boatwright's Dining Hall, Riverside Mill",,dining location,"Sassagoula Floatworks & Food Factory,  Scat Cat's Club Lounge, River Roost Lounge, Boatwright's Dining Hall, Riverside Mill"
+Where is the closest Pool from Magnolia Terrace towards South Quarter Games Arcade?,Quiet pool near Oak Manor (Bldg 90),,,amenity,Quiet pool near Oak Manor (Bldg 90)
+Where can I find the Swimmer icon on the map?,In the legend and at the 7 pool locations across the resorts,"one at building 17, one at building 24, one at building 36, one at building 85, one at building 90, one at Ol' Man Island, one at Doubloon Lagoon",,amenity,"one at building 17, one at building 24, one at building 36, one at building 85, one at building 90, one at Ol' Man Island, one at Doubloon Lagoon"
+Where can I find playground in French Quarter Zone? ,Doubloon Lagoon,between Doubloon Lagoon and French Quarter Square,No south depot on the map ,attraction,between Doubloon Lagoon and French Quarter Square
+How many Swimmer Icon (Pool) icons are in French Quarter Landing?,0,,,amenity,0
+What does the Swimmer Icon represent on this map?,Pool,,,map legend,Pool
+"Where is Beaux Tie Island located relative to the rest of the map (e.g., top, bottom, specific zone)?",Bottom (French Quarter Entrance/Zone),Center-Right of the map,No south depot on the map ,location,Center-Right of the map
+Where is the nearest Designated Smoking Locations to South Quarter?,"French Quarter Square, Sassagoula Floatworks & Food Factory","one between bldg 1/2/3, , and one near French Quarter Square",No south depot on the map ,amenity,"one between bldg 1/2/3, , and one near French Quarter Square"
+List the Zones that are located on Jogging and Bicycling Trails (0.7 mile),"French Quarter Square, South Quarter Games Arcade",it is a loop in Riverside Zone around Sassagoula River,No south depot on the map ,region,it is a loop in Riverside Zone around Sassagoula River
+What accessibility amenities are offered according to the map legend?,None are explicitly listed in the legend,,,map legend,None are explicitly listed in the legend
+Where can I find wheelchair/stroller-friendly services near Magnolia Terrace?,Not indicated on the map,,,accessibility feature,Not indicated on the map
+Where are the Service restrooms (Man/Woman Figures) north of Sassagoula Circle on the map?,None are located north of the outer circle road,,,amenity,None are located north of the outer circle road
+Where can I get beverages near West Depot?,Riverside Mill Food Court (nearest dining),"Muddy Rivers Pool Bar, Riverside Mill Food Court, Boatwright's Dining Hall, Riverside Mill",,dining location,"Muddy Rivers Pool Bar, Riverside Mill Food Court, Boatwright's Dining Hall, Riverside Mill"
+Where can I find Disney Vacation Club on the map?,Sassagoula Floatworks & Food Factory,"One at Sassagoula Steamboat Co., and One at French Quarter Square",No south depot on the map ,facility,"One at Sassagoula Steamboat Co., and One at French Quarter Square"
+Which Dining are on the way from Acadian House to Blue Bayou Platform?,"Sassagoula Floatworks & Food Factory, Muddy Rivers Pool Bar","Sassagoula Floatworks & Food Factory,  Scat Cat's Club Lounge, River Roost Lounge, Boatwright's Dining Hall, Riverside Mill",No south depot on the map ,dining location,"Sassagoula Floatworks & Food Factory,  Scat Cat's Club Lounge, River Roost Lounge, Boatwright's Dining Hall, Riverside Mill"
+In which map direction is Recreation located relative to Magnolia Terrace?,West (Ol' Man Island),,,direction,West (Ol' Man Island)
+Are there any Recreation within a short walk of Sassagoula Steamboat Co.?,"Yes (Medicine Show Arcade, Marina, Riverside Levee)",,,attraction,"Yes (Medicine Show Arcade, Marina, Riverside Levee)"
+Where can I find Luggage Service on the map?,Ol' Man Island Pool,"Sassagoula Steamboat Co., and French Quarter Square",,facility,"Sassagoula Steamboat Co., and French Quarter Square"
+Where can I find Front Desk on the map?,Quiet pool near Buildings 17/18,"One at Sassagoula Steamboat Co., and One at French Quarter Square",,facility,"One at Sassagoula Steamboat Co., and One at French Quarter Square"
+What location has Pool from North Depot towards South Quarter Games Arcade?,"Quiet pools near Bldgs 35/36 & 39, Ol' Man Island, Doubloon Lagoon","Quiet pools near Bldgs 35/36 & 39, Ol' Man Island, Doubloon Lagoon
+Or, one at building 85, one at building 90, Doubloon Lagoon",,amenity,"Quiet pools near Bldgs 35/36 & 39, Ol' Man Island, Doubloon Lagoon
+Or, one at building 85, one at building 90, Doubloon Lagoon"
+What is the nearest Pool from French Quarter Square?,Doubloon Lagoon,,,amenity,Doubloon Lagoon
+Where can I find the nearest Designated Smoking Location from Boatwright’s Dining Hall Full Service Restaurant?,"Quiet pools near West, North, or East Depots","at the Marina, next to Fulton's General Store, one near Blue Bayou Platform",,amenity,"at the Marina, next to Fulton's General Store, one near Blue Bayou Platform"
+What map direction should I head toward to reach the closest Pool from South Quarter Games Arcade?,East / Northeast,Northeast,,direction,Northeast
+How close is the closest Laundry Drop-off/Pick-up from Oak Manor (short/moderate/long walk)?,Short walk,Moderate walk,No south depot on the map,amenity,Moderate walk
+List the Zones that are located on Jogging and Bicycling Trails (1 mile),Sassagoula Floatworks & Food Factory,"it is a straight path that pass by Riverside Zone and French Quarter Zone, it starts from Sassagoula Steamboat Co., pass by Doubloon Lagoon and ends near Building One at South Quarter ",,region,"it is a straight path that pass by Riverside Zone and French Quarter Zone, it starts from Sassagoula Steamboat Co., pass by Doubloon Lagoon and ends near Building One at South Quarter "
+Where is the closest Pool to Mardi Grogs Pool Bar?,Doubloon Lagoon,,No south depot on the map,amenity,Doubloon Lagoon
+How many Bus icon are in Riverside Zone?,Doubloon Lagoon,4,No south depot on the map,facility,4
+Where is the closest Dining from South Quarter Games Arcade towards Magnolia Terrace?,Sassagoula Floatworks & Food Factory,"Sassagoula Floatworks & Food Factory, Scat Cat's Club",,dining location,"Sassagoula Floatworks & Food Factory, Scat Cat's Club"
+Where can I find the Cocktail Glass (Lounge / Bar) icon on the map?,This icon is not featured in the legend or on the map,,,dining location,This icon is not featured in the legend or on the map
+What is the nearest Swimmer Icon (Pool) to French Quarter Landing?,Doubloon Lagoon,,,amenity,Doubloon Lagoon
+How many Swimmer Icon (Pool) icons are in Sassagoula Steamboat Co.?,0,,,amenity,0
+What does the Riverside Drive lead to on the map?,Not applicable (icon does not exist on map),Sassagoula Steamboat Co.,,path,Sassagoula Steamboat Co.
+Which major Dining or areas are closest to the Entrance?,Sassagoula Steamboat Co. (Riverside) / French Quarter Square (FQ),Entrance isn't specified on the map,,dining location,Entrance isn't specified on the map
+Where can I find the Disney’s Magical Express Bus Stop on the map?,None indicated in legend,"Sassagoula Steamboat Co., and French Quarter Square",No south depot on the map,facility,"Sassagoula Steamboat Co., and French Quarter Square"
+Where can I find a pool near Medicine Show Arcade?,Not indicated on the map,Ol' Man Island,No south depot on the map,amenity,Ol' Man Island
+Where are the family/inclusive restrooms on the map?,Not specifically identified (only general restrooms are marked),,,amenity,Not specifically identified (only general restrooms are marked)
+Where can I get beverages near Merchandise Shop?,Riverside Mill Food Court,"Riverside Mill Food Court, Boatwright's Dining Hall, Riverside Mill",,dining location,"Riverside Mill Food Court, Boatwright's Dining Hall, Riverside Mill"
+How many Designated Smoking Location are in Magnolia Bend Buildings?,Riverside Mill Food Court,5,,amenity,5
+Which Retail are on the way from North Depot to South Quarter Games Arcade?,Fulton's General Store,,,retail,Fulton's General Store
+How many Pool are near West Depot?,1 (Between buildings 24 and 25),,,amenity,1 (Between buildings 24 and 25)
+In which map direction is Pool located relative to French Quarter Square?,East / Northeast,Northeast,,direction,Northeast
+How many Pool are in  Alligator Bayou Buildings?,"Yes, multiple quiet pools border the circle",3,,amenity,3
+Which Dining is located in the north of Riverside Levee?,"Riverside Mill Food Court, Boatwright's Dining Hall",Muddy Rivers Pool Bar,,dining location,Muddy Rivers Pool Bar
+Where can I find Dining in the north of French Quarter Square?,Sassagoula Floatworks & Food Factory,"Sassagoula Floatworks & Food Factory, Scat Cat's Club",,dining location,"Sassagoula Floatworks & Food Factory, Scat Cat's Club"
+Which Retail can I find from West Depot towards Magnolia Terrace?,Fulton's General Store,,,retail,Fulton's General Store
+What is the nearest Pool from Doubloon Lagoon?,Quiet pool near Oak Manor (Building 90),"at Doubloon Lagoon itself, the other nearest one at Quiet pool near Oak Manor (Building 90)",,amenity,"at Doubloon Lagoon itself, the other nearest one at Quiet pool near Oak Manor (Building 90)"
+What map direction should I head toward to reach the closest Pool from Sassagoula Floatworks & Food Factory Food Court?,Inward (towards center) or outward depending on exact location,east(Doubloon Lagoon),,direction,east(Doubloon Lagoon)
+What is the closest Pool north of West Depot?,None (the river bounds the north edge),"None, it is the end of the map",,amenity,"None, it is the end of the map"
+Where is the closest Dining east of French Quarter Landing?,Sassagoula Floatworks & Food Factory,Mardi Grogs Pool Bar,,dining location,Mardi Grogs Pool Bar
+What is the closest pool from Doubloon Lagoon towards West Depot?,Quiet pool near Oak Manor (Bldg 90) or Ol' Man Island,"Doubloon Lagoon, Ol' Man Island Or Quiet pool near Oak Manor (Bldg 90), Quiet pool near Magnolia Terrace (Bldg 85), Quiet pool near Bldg 36/35 Or Quiet pool near Bldg 17/16, Quiet pool near Bldg 24/25",,amenity,"Doubloon Lagoon, Ol' Man Island Or Quiet pool near Oak Manor (Bldg 90), Quiet pool near Magnolia Terrace (Bldg 85), Quiet pool near Bldg 36/35 Or Quiet pool near Bldg 17/16, Quiet pool near Bldg 24/25"
+Where is the closest Pool from French Quarter Landing towards North Depot?,Doubloon Lagoon,,,amenity,Doubloon Lagoon
+Where can I ride Taxi/Limousine afrom the Resort?,"Legend, Doubloon Lagoon, Ol' Man Island, and 5 quiet pools","Sassagoula Steamboat Co., French Quarter Square",,facility,"Sassagoula Steamboat Co., French Quarter Square"
+What is the nearest Man/Woman Figures (Restrooms) icon to French Quarter Landing?,Near Doubloon Lagoon and French Quarter Square,,,amenity,Near Doubloon Lagoon and French Quarter Square
+What is the closest pool from Muddy Rivers Pool Bar towards Scat Cat’s Club Lounge?,0,Ol' Man Island,,amenity,Ol' Man Island
+What is the closest Laundry to Rivera Delta Platform?,Pool,One near Building 27 at Alligator Bayou,,amenity,One near Building 27 at Alligator Bayou
+Which major Retail or areas are closest to the Entrance?,Fulton's General Store (Riverside) / Jackson Square Gifts (FQ),Entrance isn't specified on the map,,retail,Entrance isn't specified on the map
+Where can I find wheelchair/stroller-friendly services near East Depot?,Not indicated on the map,,,accessibility feature,Not indicated on the map
+Where can I find Boat Transportation on the map?,"Sassagoula Floatworks & Food Factory, Scat Cat's Club","Sassagoula Steamboat Co., French Quarter Square",,facility,"Sassagoula Steamboat Co., French Quarter Square"
+Which Dining are on the way from Riverside Levee to Magnolia Terrace?,Muddy Rivers Pool Bar,"Muddy Rivers Pool Bar, Riverside Mill Food Court, Boatwright's Dining Hall, Riverside Mill",,dining location,"Muddy Rivers Pool Bar, Riverside Mill Food Court, Boatwright's Dining Hall, Riverside Mill"
+How many Retail are near French Quarter Landing?,1 (Jackson Square Gifts & Desires),,,retail,1 (Jackson Square Gifts & Desires)
+How many Smoking areas are on the Sassagoula River?,Northeast,9,No south depot on the map,amenity,9
+Are there any Dining within a short walk of South Quarter Games Arcade?,Yes (Sassagoula Floatworks & Food Factory),"Yes, Sassagoula Floatworks & Food Factory, Scat Cat's Club",,dining location,"Yes, Sassagoula Floatworks & Food Factory, Scat Cat's Club"
+Which Pool is located in the northeast of Magnolia Terrace?,Quiet pool near Acadian House (Building 80),None,,amenity,None
+Where can I find Dining in the southwest of French Quarter Square?,None (Parking / Entrance area),,,dining location,None (Parking / Entrance area)
+List the places that we can pass by if we drive on Orleans drive?,"Doubloon Lagoon, Ol' Man Island, Magnolia Bend quiet pools","it pass by all the parking lots in French Quarter, and ends at Sassagoula circle",No south depot on the map,attraction,"it pass by all the parking lots in French Quarter, and ends at Sassagoula circle"
+Where I can find the Information Center on the map?,Sassagoula Floatworks & Food Factory,"Sassagoula Steamboat Co., and French Quarter Square",No south depot on the map,facility,"Sassagoula Steamboat Co., and French Quarter Square"
+Where can I find the nearest Pool from East Depot?,Quiet pool near Acadian House (Building 80),,,amenity,Quiet pool near Acadian House (Building 80)
+What map direction should I head toward to reach the closest Dining from West Depot?,East / Southeast,Southeast,,direction,Southeast
+How close is the closest Pool from French Quarter Landing (short/moderate/long walk)?,Short walk,,,amenity,Short walk
+What is the closest Dining north of Magnolia Terrace?,"Riverside Mill Food Court, Boatwright's Dining Hall",None,it didn't take into considereation the extra info given about the direction,dining location,None
+Where is the closest Pool north of Jackson Square Gifts & Desires?,Doubloon Lagoon,Ol' Man Island,it didn't take into considereation the extra info given about the direction,amenity,Ol' Man Island
+What is the closest Dining from West Depot towards East Depot?,Riverside Mill Food Court,Muddy Rivers Pool Bar,,dining location,Muddy Rivers Pool Bar
+Where is the closest Dining from Parterre Place (Bldg 95) towards South Quarter Games Arcade?,Sassagoula Floatworks & Food Factory,"Sassagoula Floatworks & Food Factory, Scat Cat's Club",,dining location,"Sassagoula Floatworks & Food Factory, Scat Cat's Club"
+Where can I find the Man/Woman Figures (Restrooms) icon on the map?,"Near pools, lobbies, arcades, and depots","Near Pools: near Doobloon Lagoon, Quiet pool  near bldg 90, Quiet pool  near bldg 85, Quiet pool  near bldg 36/35, Quiet pool  near bldg 24/25, Quiet pool  near bldg 16/17, at Ol' Man Island ",,amenity,"Near Pools: near Doobloon Lagoon, Quiet pool  near bldg 90, Quiet pool  near bldg 85, Quiet pool  near bldg 36/35, Quiet pool  near bldg 24/25, Quiet pool  near bldg 16/17, at Ol' Man Island "
+What is the nearest Man/Woman Figures (Restrooms) icon to Jackson Square Gifts & Desires?,In French Quarter Square / near Doubloon Lagoon,near Doubloon Lagoon,,amenity,near Doubloon Lagoon
+How many Swimmer Icon (Pool) icons are in Doubloon Lagoon?,1,,,amenity,1
+What does the Man/Woman Figures icon represent on this map?,Restrooms,,,map legend,Restrooms
+"Where is the entrance located relative to the rest of the map (e.g., top, bottom, specific zone)?",Middle-Left (Riverside) and Bottom-Left (French Quarter),"Middle-Left (Riverside),  Middle-Left (French Quarter) and Bottom-Left (French Quarter)",,location,"Middle-Left (Riverside),  Middle-Left (French Quarter) and Bottom-Left (French Quarter)"
+What are the pool that are near the Carriage path?,None indicated,"Quiet Pool at Building 80/85, Quiet Pool at Building 90/95, Doubloon Lagoon",,amenity,"Quiet Pool at Building 80/85, Quiet Pool at Building 90/95, Doubloon Lagoon"
+Where are the Service restrooms (Man/Woman Figures) north of North Depot on the map?,None are north of North Depot,,,amenity,None are north of North Depot
+Where is the closest Laundry from Blues & Jazz Stations towards Marina?,Sassagoula Floatworks & Food Factory,"None, the Only near one to this path is near Doubloon Lagoon",No south depot on the map,amenity,"None, the Only near one to this path is near Doubloon Lagoon"
+I am currently at East Depot. Where is the closest place I can get coffee?,Riverside Mill Food Court,Muddy Rivers Pool Bar,,dining location,Muddy Rivers Pool Bar
+Which AED are on the way from Fishin’ Hole to North Quarter?,"South Quarter Games Arcade, Doubloon Lagoon","One at Ol'Man island, One at Sassagoula Steamboat Co., and at buildings 4,5,6,7 at North quarter",No south depot on the map,amenity,"One at Ol'Man island, One at Sassagoula Steamboat Co., and at buildings 4,5,6,7 at North quarter"
+How many Retail are near Jackson Square Gifts & Desires?,1 (It is the retail location itself),,,retail,1 (It is the retail location itself)
+Where is the closest Bus from Fulton’s General Store Merchandise Shop towards Bike and Boat Rental?,North / Northeast,"None, the closest  bus is the one at Blue Bayou Platform",No south depot on the map,facility,"None, the closest  bus is the one at Blue Bayou Platform"
+Are there any Retail within a short walk of Magnolia Terrace?,Fulton's General Store (moderate walk),,,retail,Fulton's General Store (moderate walk)
+Which Pool is located in the southwest of Ol' Man Island?,Quiet pool near Buildings 17 & 18,None is at southwest of Ol' Man Island ,,amenity,None is at southwest of Ol' Man Island 
+What is the length of the Carriage path?,,0.7 mile,,map information,0.7 mile
+How many Disney's Magical bus express bus stops are there on the map?,,Two,,facility,Two
+Where can I get boat rental and transportation?,,At the Riverside Levee,,facility,At the Riverside Levee
+Are there any swimming pool in the Parterre Palace?,,No ,,amenity,No 
+How many pool's are there in the French Quarter?,,One ,,amenity,One 
