@@ -1,508 +1,8 @@
 {
   "dataset": "SAMA",
   "category": "resort",
-  "question_count": 726,
+  "question_count": 676,
   "questions": [
-    {
-      "question_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT_Q0001",
-      "image_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT",
-      "image_filename": "crystal_mountain_resort.jpg",
-      "question": "How many Shopping are near Kinlochen?",
-      "reference_answers": [
-        "1"
-      ],
-      "map_element_category": "retail"
-    },
-    {
-      "question_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT_Q0002",
-      "image_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT",
-      "image_filename": "crystal_mountain_resort.jpg",
-      "question": "What is the closest parking space to the Lodge?",
-      "reference_answers": [
-        "Lot H"
-      ],
-      "map_element_category": "facility"
-    },
-    {
-      "question_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT_Q0003",
-      "image_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT",
-      "image_filename": "crystal_mountain_resort.jpg",
-      "question": "What are the restraunts or food options in the winter offered by the Lodge?",
-      "reference_answers": [
-        "Clipper cafe, Wild Tomato, and Betsie River Pizza & Subs"
-      ],
-      "map_element_category": "dining location"
-    },
-    {
-      "question_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT_Q0004",
-      "image_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT",
-      "image_filename": "crystal_mountain_resort.jpg",
-      "question": "Which Parking is located in the north of Ice Rink?",
-      "reference_answers": [
-        "Lot H"
-      ],
-      "map_element_category": "facility"
-    },
-    {
-      "question_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT_Q0005",
-      "image_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT",
-      "image_filename": "crystal_mountain_resort.jpg",
-      "question": "Which part of the map has the most number of parking spaces?",
-      "reference_answers": [
-        "North east edge of the map (Lot L, M, K, and J)"
-      ],
-      "map_element_category": "region"
-    },
-    {
-      "question_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT_Q0006",
-      "image_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT",
-      "image_filename": "crystal_mountain_resort.jpg",
-      "question": "Walking from Crystal Spa towards Ice Rink, will there be a park on my way?",
-      "reference_answers": [
-        "Yes Barr Park"
-      ],
-      "map_element_category": "attraction"
-    },
-    {
-      "question_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT_Q0007",
-      "image_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT",
-      "image_filename": "crystal_mountain_resort.jpg",
-      "question": "I am going from Peritz pond to Park at Water's Edge in the winter, are there any dining options on my way?",
-      "reference_answers": [
-        "No (Beach house only available in summer)"
-      ],
-      "map_element_category": "dining location"
-    },
-    {
-      "question_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT_Q0008",
-      "image_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT",
-      "image_filename": "crystal_mountain_resort.jpg",
-      "question": "What is the nearest Dining from The Crystal Colony?",
-      "reference_answers": [
-        "The Thistle"
-      ],
-      "map_element_category": "dining location"
-    },
-    {
-      "question_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT_Q0009",
-      "image_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT",
-      "image_filename": "crystal_mountain_resort.jpg",
-      "question": "Where can I find the nearest Parking from Ice Rink?",
-      "reference_answers": [
-        "Lot H"
-      ],
-      "map_element_category": "facility"
-    },
-    {
-      "question_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT_Q0010",
-      "image_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT",
-      "image_filename": "crystal_mountain_resort.jpg",
-      "question": "What map direction should I head toward to reach the closest Shopping from Ice Rink?",
-      "reference_answers": [
-        "west (The Lodge) or South (Mountain Market)"
-      ],
-      "map_element_category": "direction"
-    },
-    {
-      "question_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT_Q0011",
-      "image_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT",
-      "image_filename": "crystal_mountain_resort.jpg",
-      "question": "How close is the closest security station from Crystal Center (short/moderate/long walk)?",
-      "reference_answers": [
-        "Short walk"
-      ],
-      "map_element_category": "facility"
-    },
-    {
-      "question_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT_Q0012",
-      "image_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT",
-      "image_filename": "crystal_mountain_resort.jpg",
-      "question": "What is the closest Dining northeast of The Lodge?",
-      "reference_answers": [
-        "Waffle Cabin"
-      ],
-      "map_element_category": "dining location"
-    },
-    {
-      "question_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT_Q0013",
-      "image_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT",
-      "image_filename": "crystal_mountain_resort.jpg",
-      "question": "Where can i find a parking lot with an electrical charging station?",
-      "reference_answers": [
-        "Lot F"
-      ],
-      "map_element_category": "facility"
-    },
-    {
-      "question_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT_Q0014",
-      "image_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT",
-      "image_filename": "crystal_mountain_resort.jpg",
-      "question": "Are there any restrooms in the Crystal Colony?",
-      "reference_answers": [
-        "No"
-      ],
-      "map_element_category": "amenity"
-    },
-    {
-      "question_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT_Q0015",
-      "image_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT",
-      "image_filename": "crystal_mountain_resort.jpg",
-      "question": "Where is the closest disabled Parking near the Crystal Center?",
-      "reference_answers": [
-        "Lot L"
-      ],
-      "map_element_category": "accessibility feature"
-    },
-    {
-      "question_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT_Q0016",
-      "image_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT",
-      "image_filename": "crystal_mountain_resort.jpg",
-      "question": "Where is the playground located at?",
-      "reference_answers": [
-        "Near Mountain Adventure Zone"
-      ],
-      "map_element_category": "location"
-    },
-    {
-      "question_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT_Q0017",
-      "image_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT",
-      "image_filename": "crystal_mountain_resort.jpg",
-      "question": "Are there any disabled parking in Wintergreen area?",
-      "reference_answers": [
-        "No"
-      ],
-      "map_element_category": "accessibility feature"
-    },
-    {
-      "question_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT_Q0018",
-      "image_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT",
-      "image_filename": "crystal_mountain_resort.jpg",
-      "question": "I am looking for cottage 315, where can I find it?",
-      "reference_answers": [
-        "West of Lot G"
-      ],
-      "map_element_category": "location"
-    },
-    {
-      "question_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT_Q0019",
-      "image_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT",
-      "image_filename": "crystal_mountain_resort.jpg",
-      "question": "What does the Fork and Knife (Red) icon represent on this map?",
-      "reference_answers": [
-        "Food Service"
-      ],
-      "map_element_category": "map legend"
-    },
-    {
-      "question_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT_Q0020",
-      "image_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT",
-      "image_filename": "crystal_mountain_resort.jpg",
-      "question": "Where is the main entrance located relative to the rest of the map (e.g., top, bottom, specific zone)?",
-      "reference_answers": [
-        "Main entrance is not labeled, roads leading to the resort are south and east"
-      ],
-      "map_element_category": "location"
-    },
-    {
-      "question_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT_Q0021",
-      "image_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT",
-      "image_filename": "crystal_mountain_resort.jpg",
-      "question": "Is Hamlet a cottage or a townhome?",
-      "reference_answers": [
-        "Hamlet is a Hotel"
-      ],
-      "map_element_category": "map information"
-    },
-    {
-      "question_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT_Q0022",
-      "image_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT",
-      "image_filename": "crystal_mountain_resort.jpg",
-      "question": "Is Crystal Coaster Alpine Slide open in winter?",
-      "reference_answers": [
-        "No"
-      ],
-      "map_element_category": "map information"
-    },
-    {
-      "question_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT_Q0023",
-      "image_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT",
-      "image_filename": "crystal_mountain_resort.jpg",
-      "question": "What are the condominiums on Washtenaw Rd. called?",
-      "reference_answers": [
-        "Pinehurst"
-      ],
-      "map_element_category": "region"
-    },
-    {
-      "question_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT_Q0024",
-      "image_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT",
-      "image_filename": "crystal_mountain_resort.jpg",
-      "question": "I am coming from Washtenaw road and I take a left to Mountain center road, where will this road lead me to?",
-      "reference_answers": [
-        "Cross country & Golf learning center"
-      ],
-      "map_element_category": "location"
-    },
-    {
-      "question_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT_Q0025",
-      "image_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT",
-      "image_filename": "crystal_mountain_resort.jpg",
-      "question": "I am standing at the Crystal Center. What are the services offered?",
-      "reference_answers": [
-        "Tickets, Ski equipment rentals, snowboard tuning, and meeting and conference facilities"
-      ],
-      "map_element_category": "map information"
-    },
-    {
-      "question_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT_Q0026",
-      "image_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT",
-      "image_filename": "crystal_mountain_resort.jpg",
-      "question": "What accessibility amenities are offered according to the map legend?",
-      "reference_answers": [
-        "Disability Parking"
-      ],
-      "map_element_category": "map legend"
-    },
-    {
-      "question_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT_Q0027",
-      "image_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT",
-      "image_filename": "crystal_mountain_resort.jpg",
-      "question": "What building has an indoor pool?",
-      "reference_answers": [
-        "Peak Fitness Center"
-      ],
-      "map_element_category": "facility"
-    },
-    {
-      "question_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT_Q0028",
-      "image_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT",
-      "image_filename": "crystal_mountain_resort.jpg",
-      "question": "Where is the Real state office located at?",
-      "reference_answers": [
-        "Inn at the Mountain building"
-      ],
-      "map_element_category": "facility"
-    },
-    {
-      "question_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT_Q0029",
-      "image_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT",
-      "image_filename": "crystal_mountain_resort.jpg",
-      "question": "Where can I get beverages near The Lodge?",
-      "reference_answers": [
-        "Clipper Cafe, Wild Tomato, Bru Bar"
-      ],
-      "map_element_category": "dining location"
-    },
-    {
-      "question_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT_Q0030",
-      "image_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT",
-      "image_filename": "crystal_mountain_resort.jpg",
-      "question": "I am currently at Crystal Spa. Where is the closest place I can get hot chocolate?",
-      "reference_answers": [
-        "Waffle Cabin or Bru Bar"
-      ],
-      "map_element_category": "dining location"
-    },
-    {
-      "question_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT_Q0031",
-      "image_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT",
-      "image_filename": "crystal_mountain_resort.jpg",
-      "question": "Which hotel has ATM?",
-      "reference_answers": [
-        "Inn at the Mountain"
-      ],
-      "map_element_category": "facility"
-    },
-    {
-      "question_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT_Q0032",
-      "image_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT",
-      "image_filename": "crystal_mountain_resort.jpg",
-      "question": "I am at the Beach house, where should I go to reach a public restroom?",
-      "reference_answers": [
-        "Walk to Park at Water's Edge"
-      ],
-      "map_element_category": "path"
-    },
-    {
-      "question_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT_Q0033",
-      "image_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT",
-      "image_filename": "crystal_mountain_resort.jpg",
-      "question": "What are the winter activities in the Mountain Adventure zone?",
-      "reference_answers": [
-        "Ski and snowboard lessons, also, waffle cabins are available"
-      ],
-      "map_element_category": "map information"
-    },
-    {
-      "question_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT_Q0034",
-      "image_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT",
-      "image_filename": "crystal_mountain_resort.jpg",
-      "question": "What is the name of the shop that offers ice cream?",
-      "reference_answers": [
-        "crystal scoops ice cream"
-      ],
-      "map_element_category": "dining location"
-    },
-    {
-      "question_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT_Q0035",
-      "image_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT",
-      "image_filename": "crystal_mountain_resort.jpg",
-      "question": "Which lots are the closest to the Crystal Coaster Dual Alpine Slide?",
-      "reference_answers": [
-        "Lot M and Lot L"
-      ],
-      "map_element_category": "facility"
-    },
-    {
-      "question_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT_Q0036",
-      "image_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT",
-      "image_filename": "crystal_mountain_resort.jpg",
-      "question": "What is the nearest restraunt to the Indoor Pool & Hot Tub?",
-      "reference_answers": [
-        "Wild Tomato Restaurant & Bar and Betsie River Pizza both located at the lodge"
-      ],
-      "map_element_category": "dining location"
-    },
-    {
-      "question_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT_Q0037",
-      "image_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT",
-      "image_filename": "crystal_mountain_resort.jpg",
-      "question": "Where should I go to practice Archery?",
-      "reference_answers": [
-        "Park at Water's edge"
-      ],
-      "map_element_category": "attraction"
-    },
-    {
-      "question_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT_Q0038",
-      "image_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT",
-      "image_filename": "crystal_mountain_resort.jpg",
-      "question": "If I walk from Crystal Center towards The Lodge, will I pass by the Vertical Edge Climbing Wall?",
-      "reference_answers": [
-        "No"
-      ],
-      "map_element_category": "attraction"
-    },
-    {
-      "question_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT_Q0039",
-      "image_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT",
-      "image_filename": "crystal_mountain_resort.jpg",
-      "question": "Is there a gate at the entrance to lot D?",
-      "reference_answers": [
-        "Yes"
-      ],
-      "map_element_category": "facility"
-    },
-    {
-      "question_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT_Q0040",
-      "image_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT",
-      "image_filename": "crystal_mountain_resort.jpg",
-      "question": "Is the Laser Tag on the way to any food or rest areas if I start from Lot G?",
-      "reference_answers": [
-        "Yes, Beach House"
-      ],
-      "map_element_category": "path"
-    },
-    {
-      "question_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT_Q0041",
-      "image_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT",
-      "image_filename": "crystal_mountain_resort.jpg",
-      "question": "Which Parking is located in the south of the Bungalows at Crystal Glen?",
-      "reference_answers": [
-        "Lot C"
-      ],
-      "map_element_category": "facility"
-    },
-    {
-      "question_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT_Q0042",
-      "image_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT",
-      "image_filename": "crystal_mountain_resort.jpg",
-      "question": "Are there any disabled parking South of Crystal Spa?",
-      "reference_answers": [
-        "Lot B (Southwest)"
-      ],
-      "map_element_category": "accessibility feature"
-    },
-    {
-      "question_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT_Q0043",
-      "image_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT",
-      "image_filename": "crystal_mountain_resort.jpg",
-      "question": "Are there any disbaled parking in Wintergreen condominiums?",
-      "reference_answers": [
-        "No"
-      ],
-      "map_element_category": "accessibility feature"
-    },
-    {
-      "question_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT_Q0044",
-      "image_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT",
-      "image_filename": "crystal_mountain_resort.jpg",
-      "question": "Are there any gates in the entrance of Lot I according to the map?",
-      "reference_answers": [
-        "Yes, two gates"
-      ],
-      "map_element_category": "facility"
-    },
-    {
-      "question_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT_Q0045",
-      "image_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT",
-      "image_filename": "crystal_mountain_resort.jpg",
-      "question": "Is there a defibrillator at the Mountain Adventure Zone?",
-      "reference_answers": [
-        "No"
-      ],
-      "map_element_category": "amenity"
-    },
-    {
-      "question_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT_Q0046",
-      "image_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT",
-      "image_filename": "crystal_mountain_resort.jpg",
-      "question": "Is Disc golf activity offered at summer or winter?",
-      "reference_answers": [
-        "at summer"
-      ],
-      "map_element_category": "map information"
-    },
-    {
-      "question_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT_Q0047",
-      "image_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT",
-      "image_filename": "crystal_mountain_resort.jpg",
-      "question": "How many parking lots around Crystal Colony hotel?",
-      "reference_answers": [
-        "three (Lot D, Lot C, and Lot E)"
-      ],
-      "map_element_category": "facility"
-    },
-    {
-      "question_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT_Q0048",
-      "image_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT",
-      "image_filename": "crystal_mountain_resort.jpg",
-      "question": "What is the name of the retail shop in the Kinlochen building?",
-      "reference_answers": [
-        "Kinlochen shop"
-      ],
-      "map_element_category": "retail"
-    },
-    {
-      "question_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT_Q0049",
-      "image_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT",
-      "image_filename": "crystal_mountain_resort.jpg",
-      "question": "What is the name of the lounge in the Lodge?",
-      "reference_answers": [
-        "Vista lounge"
-      ],
-      "map_element_category": "dining location"
-    },
-    {
-      "question_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT_Q0050",
-      "image_id": "SAMA_RESORT_CRYSTAL_MOUNTAIN_RESORT",
-      "image_filename": "crystal_mountain_resort.jpg",
-      "question": "Where should I go to play pickleball in Crystal Mountain resort?",
-      "reference_answers": [
-        "Crystal Spa/Peak fitness"
-      ],
-      "map_element_category": "attraction"
-    },
     {
       "question_id": "SAMA_RESORT_KAHNEETA_RESORT_Q0001",
       "image_id": "SAMA_RESORT_KAHNEETA_RESORT",
@@ -569,7 +69,7 @@
       "image_filename": "Kahneeta resort.jpg",
       "question": "Where can I find the nearest Mini Golf from Tribal Arts & Crafts?",
       "reference_answers": [
-        "South across the bridge (Zone D)"
+        "Northwest near guest service office"
       ],
       "map_element_category": "attraction"
     },
@@ -589,7 +89,7 @@
       "image_filename": "Kahneeta resort.jpg",
       "question": "How close is the closest Food & Beverage from Resort Entrance (short/moderate/long walk)?",
       "reference_answers": [
-        "Moderate walk"
+        "short walk"
       ],
       "map_element_category": "dining location"
     },
@@ -669,7 +169,7 @@
       "image_filename": "Kahneeta resort.jpg",
       "question": "Which major Food & Beverage are closest to Wellness Hot Springs Leisure Pool?",
       "reference_answers": [
-        "Zone D(Chinook Restaurant & Appaloosa Bar (1), Restaurant Food Pick-up Window Outside(2), Restaurant Event Rental (3), Pool Snack Bar(4), Pool Clubhouse with Wanapine Grab & Go (5),Food Cart(6))"
+        "Zone D(Pool Snack Bar(4) is the closest, but Restaurant Food Pick-up Window Outside(2) is also correct)"
       ],
       "map_element_category": "dining location"
     },
@@ -877,7 +377,7 @@
       "question_id": "SAMA_RESORT_KAHNEETA_RESORT_Q0038",
       "image_id": "SAMA_RESORT_KAHNEETA_RESORT",
       "image_filename": "Kahneeta resort.jpg",
-      "question": "What are the Workout Equipment from Brown Bag Picnic Area towards Pool Clubhouse with Wanapine Grab & Go Store?",
+      "question": "What are the nearest Workout Equipment from Brown Bag Picnic Area towards Pool Clubhouse with Wanapine Grab & Go Store?",
       "reference_answers": [
         "on the Riverside near Brown Bag Picnic Area"
       ],
@@ -889,7 +389,7 @@
       "image_filename": "Kahneeta resort.jpg",
       "question": "How many Food & Beverage are near Pool Clubhouse?",
       "reference_answers": [
-        "1 (Pool Clubhouse with Wanapine Grab & Go (D5))"
+        "5 (Chinook Restaurant & Appaloosa Bar, Restaurant Food Pick-up Window Outside, Restaurant Event Rental, Pool Snack Bar, and Pool Clubhouse with Wanapine Grab & Go Store)"
       ],
       "map_element_category": "dining location"
     },
@@ -1137,7 +637,7 @@
       "question_id": "SAMA_RESORT_KAHNEETA_RESORT_Q0064",
       "image_id": "SAMA_RESORT_KAHNEETA_RESORT",
       "image_filename": "Kahneeta resort.jpg",
-      "question": "Which major Activity or areas are closest to the Entrance?",
+      "question": "Which major activity are closest to the Entrance?",
       "reference_answers": [
         "Tube & Kayak Float Put-In"
       ],
@@ -1699,7 +1199,7 @@
       "image_filename": "PortOrleansMap.webp",
       "question": "Where is Beaux Tie Island located relative to the rest of the map (e.g., top, bottom, specific zone)?",
       "reference_answers": [
-        "Center-Right of the map"
+        "lower-central"
       ],
       "map_element_category": "location"
     },
@@ -1859,7 +1359,7 @@
       "image_filename": "PortOrleansMap.webp",
       "question": "What map direction should I head toward to reach the closest Pool from South Quarter Games Arcade?",
       "reference_answers": [
-        "Northeast"
+        "East / Northeast"
       ],
       "map_element_category": "direction"
     },
@@ -1869,7 +1369,7 @@
       "image_filename": "PortOrleansMap.webp",
       "question": "How close is the closest Laundry Drop-off/Pick-up from Oak Manor (short/moderate/long walk)?",
       "reference_answers": [
-        "Moderate walk"
+        "Short walk"
       ],
       "map_element_category": "amenity"
     },
@@ -1999,7 +1499,7 @@
       "image_filename": "PortOrleansMap.webp",
       "question": "Where can I get beverages near Merchandise Shop?",
       "reference_answers": [
-        "Riverside Mill Food Court, Boatwright's Dining Hall, Riverside Mill"
+        "Riverside Mill Food Court, Boatwright's Dining Hall, Riverside Mill, and Fulton's General Store"
       ],
       "map_element_category": "dining location"
     },
@@ -2019,7 +1519,7 @@
       "image_filename": "PortOrleansMap.webp",
       "question": "Which Retail are on the way from North Depot to South Quarter Games Arcade?",
       "reference_answers": [
-        "Fulton's General Store"
+        "Fulton's General Store and Jackson Square Gifts"
       ],
       "map_element_category": "retail"
     },
@@ -2087,7 +1587,7 @@
       "question_id": "SAMA_RESORT_PORTORLEANSMAP_Q0059",
       "image_id": "SAMA_RESORT_PORTORLEANSMAP",
       "image_filename": "PortOrleansMap.webp",
-      "question": "What is the nearest Pool from Doubloon Lagoon?",
+      "question": "What is the nearest Disney Vacation club information center from Doubloon Lagoon?",
       "reference_answers": [
         "at Doubloon Lagoon itself, the other nearest one at Quiet pool near Oak Manor (Building 90)"
       ],
@@ -2099,7 +1599,7 @@
       "image_filename": "PortOrleansMap.webp",
       "question": "What map direction should I head toward to reach the closest Pool from Sassagoula Floatworks & Food Factory Food Court?",
       "reference_answers": [
-        "east(Doubloon Lagoon)"
+        "Northeast(Doubloon Lagoon)"
       ],
       "map_element_category": "direction"
     },
@@ -2209,7 +1709,7 @@
       "image_filename": "PortOrleansMap.webp",
       "question": "Where can I find Boat Transportation on the map?",
       "reference_answers": [
-        "Sassagoula Steamboat Co., French Quarter Square"
+        "Sassagoula Steamboat Co., French Quarter landing, and Riverside Levee"
       ],
       "map_element_category": "facility"
     },
@@ -2269,7 +1769,7 @@
       "image_filename": "PortOrleansMap.webp",
       "question": "Where can I find Dining in the southwest of French Quarter Square?",
       "reference_answers": [
-        "None (Parking / Entrance area)"
+        "Scat Cat's Club or Sassagoula Floatworks & food factory"
       ],
       "map_element_category": "dining location"
     },
@@ -2299,7 +1799,7 @@
       "image_filename": "PortOrleansMap.webp",
       "question": "Where can I find the nearest Pool from East Depot?",
       "reference_answers": [
-        "Quiet pool near Acadian House (Building 80)"
+        "Quiet pool near Acadian House (Building 80) or Magnolia bend pools"
       ],
       "map_element_category": "amenity"
     },
@@ -2339,7 +1839,7 @@
       "image_filename": "PortOrleansMap.webp",
       "question": "Where is the closest Pool north of Jackson Square Gifts & Desires?",
       "reference_answers": [
-        "Ol' Man Island"
+        "The pool near building 90 (Oak Manor)"
       ],
       "map_element_category": "amenity"
     },
@@ -2349,7 +1849,7 @@
       "image_filename": "PortOrleansMap.webp",
       "question": "What is the closest Dining from West Depot towards East Depot?",
       "reference_answers": [
-        "Muddy Rivers Pool Bar"
+        "Muddy Rivers Pool Bar, Riverside Mill Food Court, Boatwright's dining hall"
       ],
       "map_element_category": "dining location"
     },
@@ -2439,7 +1939,7 @@
       "image_filename": "PortOrleansMap.webp",
       "question": "Where is the closest Laundry from Blues & Jazz Stations towards Marina?",
       "reference_answers": [
-        "None, the Only near one to this path is near Doubloon Lagoon"
+        "One, near the Doubloon Lagoon"
       ],
       "map_element_category": "amenity"
     },
@@ -2837,9 +2337,9 @@
       "question_id": "SAMA_RESORT_SARATOGA_MAP_Q0029",
       "image_id": "SAMA_RESORT_SARATOGA_MAP",
       "image_filename": "saratoga-map.jpg",
-      "question": "In which map direction is Dining located relative to Lobby/Concierge/Disney Vacation Club Info?",
+      "question": "In which map direction is the Treehouse Villas located relative to Lobby/Concierge/Disney Vacation Club Info?",
       "reference_answers": [
-        "South: The Turf Club Bar and Grill (D), The Artist's Palette (E)\nEast: On the Rocks Pool Bar at High Rock Spring Pool Area (F)\nNorthwest: BBQ Grill, Backstretch Pool Bar at the Grandstand Pool Area (G)\nNortheast: The Paddock Grill at Paddock Pool Area (H)"
+        "West"
       ],
       "map_element_category": "direction"
     },
@@ -2999,7 +2499,7 @@
       "image_filename": "saratoga-map.jpg",
       "question": "Which major Recreation are closest to the Carriage House?",
       "reference_answers": [
-        "Lake Buena Vista Golf Course (M), High Rock Spring Pool Area (F), Win, Place or Show Arcade"
+        "Lake Buena Vista Golf Course (M), High Rock Spring Pool Area (F), Win, Place or Show Arcade (N)"
       ],
       "map_element_category": "attraction"
     },
@@ -3009,7 +2509,7 @@
       "image_filename": "saratoga-map.jpg",
       "question": "List the Zones/areas that the New balance running trail (0.75 mile) goes into.",
       "reference_answers": [
-        "The Paddock and The Springs"
+        "The Paddock, the Springs, and the Carousel"
       ],
       "map_element_category": "region"
     },
@@ -3129,7 +2629,7 @@
       "image_filename": "saratoga-map.jpg",
       "question": "What is the closest Dining north of The Carousel?",
       "reference_answers": [
-        "None"
+        "BBQ grill"
       ],
       "map_element_category": "dining location"
     },
@@ -3459,7 +2959,7 @@
       "image_filename": "saratoga-map.jpg",
       "question": "Are there any Amenities within a short walk of The Paddock Pool?",
       "reference_answers": [
-        "Yes (AED)"
+        "Yes (Laundry, Bus Stop, AED)"
       ],
       "map_element_category": "amenity"
     },
@@ -3859,7 +3359,7 @@
       "image_filename": "waterville.webp",
       "question": "Which Recreation is located in the north of Waterville Valley Welcome Center?",
       "reference_answers": [
-        "White Mountain Athletic Club"
+        "White Mountain Athletic Club, Rey Cultural center, and Rec. Dept."
       ],
       "map_element_category": "attraction"
     },
@@ -4087,7 +3587,7 @@
       "question_id": "SAMA_RESORT_WATERVILLE_Q0054",
       "image_id": "SAMA_RESORT_WATERVILLE",
       "image_filename": "waterville.webp",
-      "question": "Which Service is located in the southwest of Conference Center?",
+      "question": "Which Service is located in the south of Conference Center?",
       "reference_answers": [
         "Silver Fox Inn (Lodging)"
       ],
@@ -4129,7 +3629,7 @@
       "image_filename": "waterville.webp",
       "question": "I am at Snow's Brook, which way should I go to reach Black Bear Lodge?",
       "reference_answers": [
-        "Walk south along the Snow's Brook Road."
+        "Walk west along the Snow's Brook Road."
       ],
       "map_element_category": "path"
     },
@@ -4239,7 +3739,7 @@
       "image_filename": "waterville.webp",
       "question": "What is the name of the road that leads to the Waterville Valley welcome Center?",
       "reference_answers": [
-        "Route 49"
+        "Route 49, or Jennings Peak Rd, or Tecumseh Rd."
       ],
       "map_element_category": "path"
     },
@@ -4549,7 +4049,7 @@
       "image_filename": "wilderness-lodge-map.webp",
       "question": "Which Recreation is located in the east of Boulder Ridge Cove Pool?",
       "reference_answers": [
-        "Spitfire Flats Barbecue Pavilion (O)"
+        "Teton Boat & bike rentals (K)"
       ],
       "map_element_category": "attraction"
     },
@@ -4697,7 +4197,7 @@
       "question_id": "SAMA_RESORT_WILDERNESS_LODGE_MAP_Q0044",
       "image_id": "SAMA_RESORT_WILDERNESS_LODGE_MAP",
       "image_filename": "wilderness-lodge-map.webp",
-      "question": "I am currently at Boulder Ridge Cove Pool. Where is the closest place I can get alcohol?",
+      "question": "I am currently at Boulder Ridge Cove Pool. Where is the closest place I can get beverages?",
       "reference_answers": [
         "Geyser Point Bar & Grill (E)"
       ],
@@ -4729,7 +4229,7 @@
       "image_filename": "wilderness-lodge-map.webp",
       "question": "What is located East of Reunion Station?",
       "reference_answers": [
-        "Teton Boat & Bike Rentals (K)"
+        "Teton Boat & Bike Rentals (K), Shady Point (P), and Bay lake"
       ],
       "map_element_category": "attraction"
     },
@@ -4919,7 +4419,7 @@
       "image_filename": "wilderness-lodge-map.webp",
       "question": "What map direction should I head toward to reach the closest Dining from Boulder Ridge Cove Pool?",
       "reference_answers": [
-        "Northwest"
+        "Northeast"
       ],
       "map_element_category": "direction"
     },
@@ -5029,7 +4529,7 @@
       "image_filename": "wilderness-lodge-map.webp",
       "question": "Where is the closest Dining northwest of Boat Transportation?",
       "reference_answers": [
-        "None"
+        "Geyser Point Bar & Grill (E) and Roaring Fork (F)"
       ],
       "map_element_category": "dining location"
     },
@@ -5049,7 +4549,7 @@
       "image_filename": "wilderness-lodge-map.webp",
       "question": "Where is the Bay Lake located on the map?",
       "reference_answers": [
-        "Top of the map"
+        "east side of the map"
       ],
       "map_element_category": "location"
     },
@@ -5309,7 +4809,7 @@
       "image_filename": "winter_park_resort.jpg",
       "question": "Where can I find Food & Beverage in the north of The Gondola?",
       "reference_answers": [
-        "The Lodge at Sunspot (17) (Off-map/up mountain)"
+        "The Lodge at Sunspot (17) (Off-map/up mountain)\nNot explicitly shown on the map"
       ],
       "map_element_category": "dining location"
     },
@@ -5439,7 +4939,7 @@
       "image_filename": "winter_park_resort.jpg",
       "question": "How many Lock Icon (Lockers) icons are in The Gondola?",
       "reference_answers": [
-        "0 (Nearest is in Balcony House)"
+        "1"
       ],
       "map_element_category": "amenity"
     },
@@ -5459,7 +4959,7 @@
       "image_filename": "winter_park_resort.jpg",
       "question": "Where is the main entrance located relative to the rest of the map (e.g., top, bottom, specific zone)?",
       "reference_answers": [
-        "Bottom (along Winter Park Drive)"
+        "not explicitly shown on the map"
       ],
       "map_element_category": "location"
     },
@@ -5819,7 +5319,7 @@
       "image_filename": "winter_park_resort.jpg",
       "question": "What map direction should I head toward to reach the closest Food & Beverage from Parking Garage?",
       "reference_answers": [
-        "East / Southeast"
+        "south"
       ],
       "map_element_category": "direction"
     },
@@ -5869,7 +5369,7 @@
       "image_filename": "winter_park_resort.jpg",
       "question": "What is the nearest Lock Icon (Lockers) icon to The Gondola?",
       "reference_answers": [
-        "Balcony House"
+        "Zephyr Mountain Lodge - slopeside"
       ],
       "map_element_category": "amenity"
     },
@@ -5969,7 +5469,7 @@
       "image_filename": "winter_park_resort.jpg",
       "question": "If I am at WPR Rentals - Village, which direction is the closest restroom?",
       "reference_answers": [
-        "North"
+        "North / Northeast"
       ],
       "map_element_category": "direction"
     },
@@ -6019,7 +5519,7 @@
       "image_filename": "winter_park_resort.jpg",
       "question": "Where is security located at?",
       "reference_answers": [
-        "Gondola Bus Circle"
+        "Balcony House"
       ],
       "map_element_category": "location"
     },
@@ -6199,7 +5699,7 @@
       "image_filename": "winter_park_resort.jpg",
       "question": "What is the nearest Heart with Flash (Red) (AED - Automated External Defibrillator) icon to The Gondola?",
       "reference_answers": [
-        "Balcony House"
+        "Zephyr Mountain Lodge - Slopeside"
       ],
       "map_element_category": "amenity"
     },
@@ -6297,7 +5797,7 @@
       "question_id": "SAMA_RESORT_YACHT_BEACH_MAP_Q0004",
       "image_id": "SAMA_RESORT_YACHT_BEACH_MAP",
       "image_filename": "yacht-beach-map.webp",
-      "question": "Is there a laundary room in the fountain east of the Volleyball court?",
+      "question": "Is there a laundary room close to the fountain east of the Volleyball court?",
       "reference_answers": [
         "yes"
       ],
@@ -6379,7 +5879,7 @@
       "image_filename": "yacht-beach-map.webp",
       "question": "What is the closest recreation activities north of Stormalong Bay?",
       "reference_answers": [
-        "Lafferty Place Arcade(P)"
+        "Ship Shape Massage, Salon and Fitness"
       ],
       "map_element_category": "attraction"
     },
@@ -6459,7 +5959,7 @@
       "image_filename": "yacht-beach-map.webp",
       "question": "Where is Disney's Yacht Club Entrance located relative to the Guest Services area on the map (e.g., north, south, east, or west)?",
       "reference_answers": [
-        "West"
+        "North / Northwest"
       ],
       "map_element_category": "direction"
     },
@@ -6589,7 +6089,7 @@
       "image_filename": "yacht-beach-map.webp",
       "question": "Where can I find the closest bus stop near Yatch Club Resort?",
       "reference_answers": [
-        "To the east of the Check-in Kiosk for the Yacht Club Resort"
+        "To the west of the Check-in Kiosk for the Yacht Club Resort"
       ],
       "map_element_category": "facility"
     },
@@ -6659,7 +6159,7 @@
       "image_filename": "yacht-beach-map.webp",
       "question": "What is the nearest Swimming place Icon to Tennis Courts?",
       "reference_answers": [
-        "The quiet pool located immediately east of the Tennis Courts"
+        "Pools around Stormalong Bay N"
       ],
       "map_element_category": "attraction"
     },
@@ -6729,7 +6229,7 @@
       "image_filename": "yacht-beach-map.webp",
       "question": "I am currently at Stormalong Bay. Where is the closest place I can get coffee?",
       "reference_answers": [
-        "Not explicitly marked, but nearby Dining like Beaches & Cream (H) likely serve coffee"
+        "Cape May Cafe"
       ],
       "map_element_category": "dining location"
     },
@@ -6809,7 +6309,7 @@
       "image_filename": "yacht-beach-map.webp",
       "question": "What map direction should I head toward to reach the closest Dining from Epcot?",
       "reference_answers": [
-        "North"
+        "Northwest"
       ],
       "map_element_category": "direction"
     },
@@ -6919,7 +6419,7 @@
       "image_filename": "yacht-beach-map.webp",
       "question": "How many Recreation are near Beach Club Villas?",
       "reference_answers": [
-        "1 (Quiet Pool marked with a swimmer icon)"
+        "1 (Ship Shape Massage, Salon and Fitness (Q))"
       ],
       "map_element_category": "attraction"
     },
@@ -6979,7 +6479,7 @@
       "image_filename": "yacht-beach-map.webp",
       "question": "What is the nearest AED station from Crescent Lake?",
       "reference_answers": [
-        "By the Hurricane Hanna's (I)"
+        "the one near the Volleyball Court area"
       ],
       "map_element_category": "amenity"
     },
@@ -7077,7 +6577,7 @@
       "question_id": "SAMA_RESORT_YACHT_BEACH_MAP_Q0082",
       "image_id": "SAMA_RESORT_YACHT_BEACH_MAP",
       "image_filename": "yacht-beach-map.webp",
-      "question": "Which major Recreation or areas are closest to the Beach ClubEntrance?",
+      "question": "Which major Recreation or areas are closest to the Beach Club Entrance?",
       "reference_answers": [
         "Sandcastle Club (Q) and Volley ball court"
       ],
@@ -7169,7 +6669,7 @@
       "image_filename": "yacht-beach-map.webp",
       "question": "What map direction should I head toward to reach the closest Retail from Beach Club Villas?",
       "reference_answers": [
-        "South west"
+        "South west / west"
       ],
       "map_element_category": "direction"
     },
@@ -7189,7 +6689,7 @@
       "image_filename": "yacht-beach-map.webp",
       "question": "Which direction is the closest Information Center from Stormalong Bay?",
       "reference_answers": [
-        "North East"
+        "North East and north west"
       ],
       "map_element_category": "direction"
     },

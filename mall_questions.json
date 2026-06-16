@@ -1,0 +1,907 @@
+{
+  "dataset": "SAMA",
+  "category": "mall",
+  "question_count": 100,
+  "questions": [
+    {
+      "question_id": "SAMA_MALL_COASTAL_GALLERIA_MALL_Q0001",
+      "image_id": "SAMA_MALL_COASTAL_GALLERIA_MALL",
+      "image_filename": "coastal_galleria.png",
+      "question": "How many Clothing stores are there in the mall?",
+      "reference_answers": [
+        "10.0"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_COASTAL_GALLERIA_MALL_Q0002",
+      "image_id": "SAMA_MALL_COASTAL_GALLERIA_MALL",
+      "image_filename": "coastal_galleria.png",
+      "question": "In which map direction is Swarovski located relative to Sushi Siam?",
+      "reference_answers": [
+        "Southwest"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_COASTAL_GALLERIA_MALL_Q0003",
+      "image_id": "SAMA_MALL_COASTAL_GALLERIA_MALL",
+      "image_filename": "coastal_galleria.png",
+      "question": "Are there any Shoes stores within a short walk of Nordstrom?",
+      "reference_answers": [
+        "Yes (Aldo 116 is adjacent)"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_COASTAL_GALLERIA_MALL_Q0004",
+      "image_id": "SAMA_MALL_COASTAL_GALLERIA_MALL",
+      "image_filename": "coastal_galleria.png",
+      "question": "Which Shoes store will I pass walking from Macy's towards Nordstrom?",
+      "reference_answers": [
+        "bakers (117),Aldo (116)"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_COASTAL_GALLERIA_MALL_Q0005",
+      "image_id": "SAMA_MALL_COASTAL_GALLERIA_MALL",
+      "image_filename": "coastal_galleria.png",
+      "question": "What Elevator is located on the path from Dillard's towards Bloomingdale's?",
+      "reference_answers": [
+        "One in front of Sushi Siam (134)"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_COASTAL_GALLERIA_MALL_Q0006",
+      "image_id": "SAMA_MALL_COASTAL_GALLERIA_MALL",
+      "image_filename": "coastal_galleria.png",
+      "question": "What is the nearest Shoes store to Macy's?",
+      "reference_answers": [
+        "Finish Line (118)"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_COASTAL_GALLERIA_MALL_Q0007",
+      "image_id": "SAMA_MALL_COASTAL_GALLERIA_MALL",
+      "image_filename": "coastal_galleria.png",
+      "question": "Where can I find the nearest ATM relative to Barnes & Noble?",
+      "reference_answers": [
+        "east in front of Bloomingdale's"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_COASTAL_GALLERIA_MALL_Q0008",
+      "image_id": "SAMA_MALL_COASTAL_GALLERIA_MALL",
+      "image_filename": "coastal_galleria.png",
+      "question": "How close is the closest ATM from Nordstrom (short walk)?",
+      "reference_answers": [
+        "Short walk in front of Bloomingdale's"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_COASTAL_GALLERIA_MALL_Q0009",
+      "image_id": "SAMA_MALL_COASTAL_GALLERIA_MALL",
+      "image_filename": "coastal_galleria.png",
+      "question": "What is the closest Shoes store north of Macy's?",
+      "reference_answers": [
+        "None, Finish Line (118) is northwest"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_COASTAL_GALLERIA_MALL_Q0010",
+      "image_id": "SAMA_MALL_COASTAL_GALLERIA_MALL",
+      "image_filename": "coastal_galleria.png",
+      "question": "Where is the closest Restrooms located when heading southwest from Barnes & Noble?",
+      "reference_answers": [
+        "One next to Dillard's"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_COASTAL_GALLERIA_MALL_Q0011",
+      "image_id": "SAMA_MALL_COASTAL_GALLERIA_MALL",
+      "image_filename": "coastal_galleria.png",
+      "question": "What is the closest Entrance/Exit on the route from Neiman Marcus towards Guess?",
+      "reference_answers": [
+        "one at Neiman Marcus itself, one between P.F. Chang's  and Sushi Siam"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_COASTAL_GALLERIA_MALL_Q0012",
+      "image_id": "SAMA_MALL_COASTAL_GALLERIA_MALL",
+      "image_filename": "coastal_galleria.png",
+      "question": "Where is the closest Restrooms between Macy's and Nordstrom?",
+      "reference_answers": [
+        "Near A/X Armani Exchange (106), One near Calvin Klein (110)"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_COASTAL_GALLERIA_MALL_Q0013",
+      "image_id": "SAMA_MALL_COASTAL_GALLERIA_MALL",
+      "image_filename": "coastal_galleria.png",
+      "question": "What does the Blue circle with a wheelchair figure icon represent in this mall's directory?",
+      "reference_answers": [
+        "Accessible"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_COASTAL_GALLERIA_MALL_Q0014",
+      "image_id": "SAMA_MALL_COASTAL_GALLERIA_MALL",
+      "image_filename": "coastal_galleria.png",
+      "question": "Where is the main Anchor Store Entrance located relative to the rest of the map (e.g., top, bottom, central hub)?",
+      "reference_answers": [
+        "Perimeter (edges of the map)"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_COASTAL_GALLERIA_MALL_Q0015",
+      "image_id": "SAMA_MALL_COASTAL_GALLERIA_MALL",
+      "image_filename": "coastal_galleria.png",
+      "question": "Which major Clothing stores are closest to Anchor Store Entrance?",
+      "reference_answers": [
+        "A/X Armani Exchange, Diesel, White House/Black Market, Ann Taylor, Victoria's Secret, Calvin Klein, Coach"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_COASTAL_GALLERIA_MALL_Q0016",
+      "image_id": "SAMA_MALL_COASTAL_GALLERIA_MALL",
+      "image_filename": "coastal_galleria.png",
+      "question": "What Stairs is located on the path from Diesel towards Amy’s Hallmark?",
+      "reference_answers": [
+        "One in front of Bath & Body Works"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_COASTAL_GALLERIA_MALL_Q0017",
+      "image_id": "SAMA_MALL_COASTAL_GALLERIA_MALL",
+      "image_filename": "coastal_galleria.png",
+      "question": "What accessibility amenities are offered according to the mall's legend?",
+      "reference_answers": [
+        "Accessible and Elevators"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_COASTAL_GALLERIA_MALL_Q0018",
+      "image_id": "SAMA_MALL_COASTAL_GALLERIA_MALL",
+      "image_filename": "coastal_galleria.png",
+      "question": "Where can I find ATM near Macy's?",
+      "reference_answers": [
+        "in front of Bloomingdale's"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_COASTAL_GALLERIA_MALL_Q0019",
+      "image_id": "SAMA_MALL_COASTAL_GALLERIA_MALL",
+      "image_filename": "coastal_galleria.png",
+      "question": "Where are the accessible Restrooms located on the map?",
+      "reference_answers": [
+        "Food Court, in Neiman Marcus (104),"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_COASTAL_GALLERIA_MALL_Q0020",
+      "image_id": "SAMA_MALL_COASTAL_GALLERIA_MALL",
+      "image_filename": "coastal_galleria.png",
+      "question": "How to get to the nearest parking to White House/Black Market?",
+      "reference_answers": [
+        "accessible from entrance/exit inside Neiman Marcus"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_COASTAL_GALLERIA_MALL_Q0021",
+      "image_id": "SAMA_MALL_COASTAL_GALLERIA_MALL",
+      "image_filename": "coastal_galleria.png",
+      "question": "I am currently at Apple Store. Where is the closest place I can get electronics?",
+      "reference_answers": [
+        "Brookstone (126)"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_COASTAL_GALLERIA_MALL_Q0022",
+      "image_id": "SAMA_MALL_COASTAL_GALLERIA_MALL",
+      "image_filename": "coastal_galleria.png",
+      "question": "Suggest a walking route starting from Kay Jewelers that visits Calvin Klein and ends at a nearby Escalator.",
+      "reference_answers": [
+        "Walk east past Food Court, turn left to Calvin Klein, then escalators in front of Calvin Klein."
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_COASTAL_GALLERIA_MALL_Q0023",
+      "image_id": "SAMA_MALL_COASTAL_GALLERIA_MALL",
+      "image_filename": "coastal_galleria.png",
+      "question": "Which Clothing store zones are on the way from Nordstrom to Macy's?",
+      "reference_answers": [
+        "Calvin Klein (110), Guess? (113), Banana Republic (108), Diesel (112), A/X Armani Exchange (106), Coach (111)"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_COASTAL_GALLERIA_MALL_Q0024",
+      "image_id": "SAMA_MALL_COASTAL_GALLERIA_MALL",
+      "image_filename": "coastal_galleria.png",
+      "question": "In which map direction is Starbucks located relative to Macy's?",
+      "reference_answers": [
+        "Northwest"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_COASTAL_GALLERIA_MALL_Q0025",
+      "image_id": "SAMA_MALL_COASTAL_GALLERIA_MALL",
+      "image_filename": "coastal_galleria.png",
+      "question": "Are there any Clothing stores within a short walk of Nordstrom?",
+      "reference_answers": [
+        "Yes (Calvin Klein 110)"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_COASTAL_GALLERIA_MALL_Q0026",
+      "image_id": "SAMA_MALL_COASTAL_GALLERIA_MALL",
+      "image_filename": "coastal_galleria.png",
+      "question": "Which Restaurants store will I pass walking from Food Court towards Bloomingdale's?",
+      "reference_answers": [
+        "Sushi Slam (134), P.F. Chang's (133)"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_COASTAL_GALLERIA_MALL_Q0027",
+      "image_id": "SAMA_MALL_COASTAL_GALLERIA_MALL",
+      "image_filename": "coastal_galleria.png",
+      "question": "What ATM is located on the path from Macy's towards Dillard's?",
+      "reference_answers": [
+        "in front of Bloomingdale's"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_COASTAL_GALLERIA_MALL_Q0028",
+      "image_id": "SAMA_MALL_COASTAL_GALLERIA_MALL",
+      "image_filename": "coastal_galleria.png",
+      "question": "Where can I find the nearest Restrooms relative to Wendy's?",
+      "reference_answers": [
+        "Inside the Food Court"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_COASTAL_GALLERIA_MALL_Q0029",
+      "image_id": "SAMA_MALL_COASTAL_GALLERIA_MALL",
+      "image_filename": "coastal_galleria.png",
+      "question": "How close is the closest Escalator from Macy's (moderate walk)?",
+      "reference_answers": [
+        "long walk (in front of P.F. Chang's)"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_COASTAL_GALLERIA_MALL_Q0030",
+      "image_id": "SAMA_MALL_COASTAL_GALLERIA_MALL",
+      "image_filename": "coastal_galleria.png",
+      "question": "Where is the closest Information located when heading from Ann Taylor towards Bath & Body works?",
+      "reference_answers": [
+        "One in front of Bloomingdale's"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_COASTAL_GALLERIA_MALL_Q0031",
+      "image_id": "SAMA_MALL_COASTAL_GALLERIA_MALL",
+      "image_filename": "coastal_galleria.png",
+      "question": "Where is the closest ATM located when heading northwest from Barnes & Noble?",
+      "reference_answers": [
+        "None (Central Hub ATM is Northeast)"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_COASTAL_GALLERIA_MALL_Q0032",
+      "image_id": "SAMA_MALL_COASTAL_GALLERIA_MALL",
+      "image_filename": "coastal_galleria.png",
+      "question": "What is the closest Shoes store on the route from Macy's towards Bloomingdale's?",
+      "reference_answers": [
+        "New Balance (119)"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_COASTAL_GALLERIA_MALL_Q0033",
+      "image_id": "SAMA_MALL_COASTAL_GALLERIA_MALL",
+      "image_filename": "coastal_galleria.png",
+      "question": "Where is the closest elevator between Nordstrom and Macy's?",
+      "reference_answers": [
+        "None, elevator in front of Sushi Siam (134)"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_COASTAL_GALLERIA_MALL_Q0034",
+      "image_id": "SAMA_MALL_COASTAL_GALLERIA_MALL",
+      "image_filename": "coastal_galleria.png",
+      "question": "Suggest a walking route starting from Banana Republic that visits Aldo and ends at The Cheesecake Factory",
+      "reference_answers": [
+        "Banana Republic -> walk right towards Aldo -> walk southwest to reach The Cheesecake Factory"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_COASTAL_GALLERIA_MALL_Q0035",
+      "image_id": "SAMA_MALL_COASTAL_GALLERIA_MALL",
+      "image_filename": "coastal_galleria.png",
+      "question": "In which map direction is CrepeMaker located relative to Brookstone?",
+      "reference_answers": [
+        "Northeast"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_COASTAL_GALLERIA_MALL_Q0036",
+      "image_id": "SAMA_MALL_COASTAL_GALLERIA_MALL",
+      "image_filename": "coastal_galleria.png",
+      "question": "Where can I find Restrooms near Macy's?",
+      "reference_answers": [
+        "Near A/X Armani Exchange (106)"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_COASTAL_GALLERIA_MALL_Q0037",
+      "image_id": "SAMA_MALL_COASTAL_GALLERIA_MALL",
+      "image_filename": "coastal_galleria.png",
+      "question": "Where can I get coffee near New Balance?",
+      "reference_answers": [
+        "Starbucks (139) in the Food Court"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_COASTAL_GALLERIA_MALL_Q0038",
+      "image_id": "SAMA_MALL_COASTAL_GALLERIA_MALL",
+      "image_filename": "coastal_galleria.png",
+      "question": "I am currently at Starbucks. Where is the closest place I can get electronics?",
+      "reference_answers": [
+        "Apple Store (122)"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_COASTAL_GALLERIA_MALL_Q0039",
+      "image_id": "SAMA_MALL_COASTAL_GALLERIA_MALL",
+      "image_filename": "coastal_galleria.png",
+      "question": "Suggest a walking route starting from A/X Armani Exchange that visits Nine West and ends at a nearby Food Court.",
+      "reference_answers": [
+        "Walk southwest to Nine West, then head northeast and turn left into the Food Court."
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_COASTAL_GALLERIA_MALL_Q0040",
+      "image_id": "SAMA_MALL_COASTAL_GALLERIA_MALL",
+      "image_filename": "coastal_galleria.png",
+      "question": "Which Shoes store zones are on the way from Sbarro to Bebe?",
+      "reference_answers": [
+        "Nine West"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_COASTAL_GALLERIA_MALL_Q0041",
+      "image_id": "SAMA_MALL_COASTAL_GALLERIA_MALL",
+      "image_filename": "coastal_galleria.png",
+      "question": "In which map direction is Victoria's Secret located relative to Macy's?",
+      "reference_answers": [
+        "Southwest"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_COASTAL_GALLERIA_MALL_Q0042",
+      "image_id": "SAMA_MALL_COASTAL_GALLERIA_MALL",
+      "image_filename": "coastal_galleria.png",
+      "question": "Are there any Clothing stores within a short walk of P.F. Chang’s?",
+      "reference_answers": [
+        "Yes (Calvin Klein 110, Coach 111)"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_COASTAL_GALLERIA_MALL_Q0043",
+      "image_id": "SAMA_MALL_COASTAL_GALLERIA_MALL",
+      "image_filename": "coastal_galleria.png",
+      "question": "What Elevator is located on the path from Finish Line towards Williams-Sonoma?",
+      "reference_answers": [
+        "None, elevator in front of Sushi Siam (134)"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_COASTAL_GALLERIA_MALL_Q0044",
+      "image_id": "SAMA_MALL_COASTAL_GALLERIA_MALL",
+      "image_filename": "coastal_galleria.png",
+      "question": "In which map direction is Chicken Kitchen located relative to Artefacto?",
+      "reference_answers": [
+        "East"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_COASTAL_GALLERIA_MALL_Q0045",
+      "image_id": "SAMA_MALL_COASTAL_GALLERIA_MALL",
+      "image_filename": "coastal_galleria.png",
+      "question": "Where can I find the nearest Restrooms relative to Calvin Klein?",
+      "reference_answers": [
+        "at Calvin Klein irself"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_COASTAL_GALLERIA_MALL_Q0046",
+      "image_id": "SAMA_MALL_COASTAL_GALLERIA_MALL",
+      "image_filename": "coastal_galleria.png",
+      "question": "How close is the closest Restrooms from Bloomingdale's (moderate walk)?",
+      "reference_answers": [
+        "Short walk at Bloomingdale's itself"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_COASTAL_GALLERIA_MALL_Q0047",
+      "image_id": "SAMA_MALL_COASTAL_GALLERIA_MALL",
+      "image_filename": "coastal_galleria.png",
+      "question": "Suggest a walking route starting from Coach that visits Pottery Barn and ends at Asian Chao",
+      "reference_answers": [
+        "Coach -> walk left towards Pottery Barn -> walt Northeast to Asian Chao"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_COASTAL_GALLERIA_MALL_Q0048",
+      "image_id": "SAMA_MALL_COASTAL_GALLERIA_MALL",
+      "image_filename": "coastal_galleria.png",
+      "question": "Where is the closest Restrooms located when heading northwest from Starbucks?",
+      "reference_answers": [
+        "Inside the Food Court"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_COASTAL_GALLERIA_MALL_Q0049",
+      "image_id": "SAMA_MALL_COASTAL_GALLERIA_MALL",
+      "image_filename": "coastal_galleria.png",
+      "question": "What is the closest Clothing store on the route from Bloomingdale's towards Food Court?",
+      "reference_answers": [
+        "Coach (111), Calvin Klein (110)"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_COASTAL_GALLERIA_MALL_Q0050",
+      "image_id": "SAMA_MALL_COASTAL_GALLERIA_MALL",
+      "image_filename": "coastal_galleria.png",
+      "question": "Where is the closest ATM between Bakers and Lenscrafters?",
+      "reference_answers": [
+        "one in front of Bloomingdale's"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_FLORIDA_MALL_Q0001",
+      "image_id": "SAMA_MALL_FLORIDA_MALL",
+      "image_filename": "The Florida Mall.jpg",
+      "question": "I entered the mall from Macy's entrance, how long of a walk until I arrive at Tilly's?",
+      "reference_answers": [
+        "Short walk (take a right after entering from macy's and after passing Auntie anne's Tilly's will be on the right)"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_FLORIDA_MALL_Q0002",
+      "image_id": "SAMA_MALL_FLORIDA_MALL",
+      "image_filename": "The Florida Mall.jpg",
+      "question": "In which map direction is Sephora located relative to Macy's?",
+      "reference_answers": [
+        "North."
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_FLORIDA_MALL_Q0003",
+      "image_id": "SAMA_MALL_FLORIDA_MALL",
+      "image_filename": "The Florida Mall.jpg",
+      "question": "Are there any Electronics & Tech stores within a short walk of Macy's?",
+      "reference_answers": [
+        "Yes, Apple and Microsoft."
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_FLORIDA_MALL_Q0004",
+      "image_id": "SAMA_MALL_FLORIDA_MALL",
+      "image_filename": "The Florida Mall.jpg",
+      "question": "Which Electronics & Tech store will I pass walking from Dillard's towards Dick's Sporting Goods?",
+      "reference_answers": [
+        "One (Best Buy)"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_FLORIDA_MALL_Q0005",
+      "image_id": "SAMA_MALL_FLORIDA_MALL",
+      "image_filename": "The Florida Mall.jpg",
+      "question": "What ATMs is located on the path from Florida hotel and conference center towards Shake Shack Entrance?",
+      "reference_answers": [
+        "One (shown next to Puma)"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_FLORIDA_MALL_Q0006",
+      "image_id": "SAMA_MALL_FLORIDA_MALL",
+      "image_filename": "The Florida Mall.jpg",
+      "question": "What is the nearest Sporting goods store to Sears?",
+      "reference_answers": [
+        "Fit 2 run"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_FLORIDA_MALL_Q0007",
+      "image_id": "SAMA_MALL_FLORIDA_MALL",
+      "image_filename": "The Florida Mall.jpg",
+      "question": "Where can I find the nearest ATMs relative to ZARA?",
+      "reference_answers": [
+        "Near the corridor entrance between XXI Forever and H&M."
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_FLORIDA_MALL_Q0008",
+      "image_id": "SAMA_MALL_FLORIDA_MALL",
+      "image_filename": "The Florida Mall.jpg",
+      "question": "How close is the closest Restrooms (Men's/Women's) from JCPenney (short walk)?",
+      "reference_answers": [
+        "Directly adjacent to the JCPenney entrance hallway."
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_FLORIDA_MALL_Q0009",
+      "image_id": "SAMA_MALL_FLORIDA_MALL",
+      "image_filename": "The Florida Mall.jpg",
+      "question": "What is the first Electronics & Tech store if I walk northeast of Macy's?",
+      "reference_answers": [
+        "Microsoft"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_FLORIDA_MALL_Q0010",
+      "image_id": "SAMA_MALL_FLORIDA_MALL",
+      "image_filename": "The Florida Mall.jpg",
+      "question": "Where is the closest ATMs located when heading northeast from Apple?",
+      "reference_answers": [
+        "In the Dining Pavilion."
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_FLORIDA_MALL_Q0011",
+      "image_id": "SAMA_MALL_FLORIDA_MALL",
+      "image_filename": "The Florida Mall.jpg",
+      "question": "What is the closest Jewelry & Accessories store on the route from The Florida Hotel and Conference Center towards Dick's Sporting Goods?",
+      "reference_answers": [
+        "Zales Jewelers."
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_FLORIDA_MALL_Q0012",
+      "image_id": "SAMA_MALL_FLORIDA_MALL",
+      "image_filename": "The Florida Mall.jpg",
+      "question": "How many restrooms are there in the grey area?",
+      "reference_answers": [
+        "Three restroom icons"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_FLORIDA_MALL_Q0013",
+      "image_id": "SAMA_MALL_FLORIDA_MALL",
+      "image_filename": "The Florida Mall.jpg",
+      "question": "What does the Wi-Fi Icon icon represent in this mall's directory?",
+      "reference_answers": [
+        "Free Public Wi-Fi Zone."
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_FLORIDA_MALL_Q0014",
+      "image_id": "SAMA_MALL_FLORIDA_MALL",
+      "image_filename": "The Florida Mall.jpg",
+      "question": "What is the name of the shop south of XXI forever?",
+      "reference_answers": [
+        "Steps New York"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_FLORIDA_MALL_Q0015",
+      "image_id": "SAMA_MALL_FLORIDA_MALL",
+      "image_filename": "The Florida Mall.jpg",
+      "question": "Which major Makeup store is the closest to Macy's Entrance?",
+      "reference_answers": [
+        "Sephora"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_FLORIDA_MALL_Q0016",
+      "image_id": "SAMA_MALL_FLORIDA_MALL",
+      "image_filename": "The Florida Mall.jpg",
+      "question": "What accessibility amenities are offered according to the mall's legend?",
+      "reference_answers": [
+        "Accessible Restrooms, Accessible Parking, and Elevators."
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_FLORIDA_MALL_Q0017",
+      "image_id": "SAMA_MALL_FLORIDA_MALL",
+      "image_filename": "The Florida Mall.jpg",
+      "question": "When entering from Sears, walk to the intersection and take a right, what is the name of the perfume stand on the path?",
+      "reference_answers": [
+        "Perfume collections"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_FLORIDA_MALL_Q0018",
+      "image_id": "SAMA_MALL_FLORIDA_MALL",
+      "image_filename": "The Florida Mall.jpg",
+      "question": "I am at the H&M entrance, where is the closest tattoo's shop.",
+      "reference_answers": [
+        "Atomic Tattoos"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_FLORIDA_MALL_Q0019",
+      "image_id": "SAMA_MALL_FLORIDA_MALL",
+      "image_filename": "The Florida Mall.jpg",
+      "question": "Where is the currency echange located at?",
+      "reference_answers": [
+        "South of Sushigami"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_FLORIDA_MALL_Q0020",
+      "image_id": "SAMA_MALL_FLORIDA_MALL",
+      "image_filename": "The Florida Mall.jpg",
+      "question": "I am currently at Foot Locker. Where is the closest place I can get cosmetics?",
+      "reference_answers": [
+        "Sephora."
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_FLORIDA_MALL_Q0021",
+      "image_id": "SAMA_MALL_FLORIDA_MALL",
+      "image_filename": "The Florida Mall.jpg",
+      "question": "What is the closest restaurant from Dillard's?",
+      "reference_answers": [
+        "Kono Pizza"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_FLORIDA_MALL_Q0022",
+      "image_id": "SAMA_MALL_FLORIDA_MALL",
+      "image_filename": "The Florida Mall.jpg",
+      "question": "How many ATM's are there in the Dining Pavilion?",
+      "reference_answers": [
+        "Two"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_FLORIDA_MALL_Q0023",
+      "image_id": "SAMA_MALL_FLORIDA_MALL",
+      "image_filename": "The Florida Mall.jpg",
+      "question": "In which map direction is Apple located relative to Macy's?",
+      "reference_answers": [
+        "North."
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_FLORIDA_MALL_Q0024",
+      "image_id": "SAMA_MALL_FLORIDA_MALL",
+      "image_filename": "The Florida Mall.jpg",
+      "question": "Where is Bubbleology located at?",
+      "reference_answers": [
+        "Dining Pavilion"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_FLORIDA_MALL_Q0025",
+      "image_id": "SAMA_MALL_FLORIDA_MALL",
+      "image_filename": "The Florida Mall.jpg",
+      "question": "Which Electronics & Tech store will I pass walking from Dining Pavilion towards XXI Forever?",
+      "reference_answers": [
+        "GameStop."
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_FLORIDA_MALL_Q0026",
+      "image_id": "SAMA_MALL_FLORIDA_MALL",
+      "image_filename": "The Florida Mall.jpg",
+      "question": "What is the color of the area that Lay Jewelers are located at?",
+      "reference_answers": [
+        "Green"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_FLORIDA_MALL_Q0027",
+      "image_id": "SAMA_MALL_FLORIDA_MALL",
+      "image_filename": "The Florida Mall.jpg",
+      "question": "Where can I find the nearest ATMs relative to Apple?",
+      "reference_answers": [
+        "In the Dining Pavilion."
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_FLORIDA_MALL_Q0028",
+      "image_id": "SAMA_MALL_FLORIDA_MALL",
+      "image_filename": "The Florida Mall.jpg",
+      "question": "How close is the closest Restrooms (Men's/Women's) from JCPenny (moderate walk)?",
+      "reference_answers": [
+        "Right at the H&M's entrance corridor."
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_FLORIDA_MALL_Q0029",
+      "image_id": "SAMA_MALL_FLORIDA_MALL",
+      "image_filename": "The Florida Mall.jpg",
+      "question": "Where is the closest Restrooms (Men's/Women's) located when heading south of Optica?",
+      "reference_answers": [
+        "At the end of the corridor to Florida Hotel and Conference Center"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_FLORIDA_MALL_Q0030",
+      "image_id": "SAMA_MALL_FLORIDA_MALL",
+      "image_filename": "The Florida Mall.jpg",
+      "question": "What is the closest Shoes & Footwear store on the route from Macy's towards Dillard's?",
+      "reference_answers": [
+        "ALDO or Finish Line."
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_FLORIDA_MALL_Q0031",
+      "image_id": "SAMA_MALL_FLORIDA_MALL",
+      "image_filename": "The Florida Mall.jpg",
+      "question": "Is there an ATMs on the path between sears and JCPenney?",
+      "reference_answers": [
+        "No"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_FLORIDA_MALL_Q0032",
+      "image_id": "SAMA_MALL_FLORIDA_MALL",
+      "image_filename": "The Florida Mall.jpg",
+      "question": "Where is the Shake Shack Entrance located relative to the rest of the map (e.g., top, bottom, central hub)?",
+      "reference_answers": [
+        "Center north"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_FLORIDA_MALL_Q0033",
+      "image_id": "SAMA_MALL_FLORIDA_MALL",
+      "image_filename": "The Florida Mall.jpg",
+      "question": "What is the cloesest eyewear shop when entering from the H&M entrance?",
+      "reference_answers": [
+        "Sunglass hut at Play"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_FLORIDA_MALL_Q0034",
+      "image_id": "SAMA_MALL_FLORIDA_MALL",
+      "image_filename": "The Florida Mall.jpg",
+      "question": "What is the color of the area that Churromania shop located at?",
+      "reference_answers": [
+        "Yellow"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_FLORIDA_MALL_Q0035",
+      "image_id": "SAMA_MALL_FLORIDA_MALL",
+      "image_filename": "The Florida Mall.jpg",
+      "question": "Where can I get a fresh baked bread near Old Navy?",
+      "reference_answers": [
+        "Woof Gang Bakery"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_FLORIDA_MALL_Q0036",
+      "image_id": "SAMA_MALL_FLORIDA_MALL",
+      "image_filename": "The Florida Mall.jpg",
+      "question": "I want to repair my phone, where is the phone repair shop located at?",
+      "reference_answers": [
+        "iFix and Repair at the Dick's sporting goods corridor"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_FLORIDA_MALL_Q0037",
+      "image_id": "SAMA_MALL_FLORIDA_MALL",
+      "image_filename": "The Florida Mall.jpg",
+      "question": "Is there an accessible ramp at the Macy's entrance?",
+      "reference_answers": [
+        "No"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_FLORIDA_MALL_Q0038",
+      "image_id": "SAMA_MALL_FLORIDA_MALL",
+      "image_filename": "The Florida Mall.jpg",
+      "question": "Which Dining & Food store zones are on the way from Macy's to Sears?",
+      "reference_answers": [
+        "None."
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_FLORIDA_MALL_Q0039",
+      "image_id": "SAMA_MALL_FLORIDA_MALL",
+      "image_filename": "The Florida Mall.jpg",
+      "question": "In which map direction is Apple located relative to Dillard's?",
+      "reference_answers": [
+        "West."
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_FLORIDA_MALL_Q0040",
+      "image_id": "SAMA_MALL_FLORIDA_MALL",
+      "image_filename": "The Florida Mall.jpg",
+      "question": "Which Electronics & Tech store will I pass walking from ZARA towards Sears?",
+      "reference_answers": [
+        "Best Buy Mobile, ThinkGeek, GameStop, and T-Mobile."
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_FLORIDA_MALL_Q0041",
+      "image_id": "SAMA_MALL_FLORIDA_MALL",
+      "image_filename": "The Florida Mall.jpg",
+      "question": "What Wi-Fi Areas is located on the path from Dining Pavilion towards ZARA / H&M / American Girl?",
+      "reference_answers": [
+        "Near the entrance by XXI Forever."
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_FLORIDA_MALL_Q0042",
+      "image_id": "SAMA_MALL_FLORIDA_MALL",
+      "image_filename": "The Florida Mall.jpg",
+      "question": "What is the nearest Electronics & Tech store to Dick's Sporting Goods?",
+      "reference_answers": [
+        "Apple or Microsoft."
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_FLORIDA_MALL_Q0043",
+      "image_id": "SAMA_MALL_FLORIDA_MALL",
+      "image_filename": "The Florida Mall.jpg",
+      "question": "Where can I find the nearest ATMs relative to CVS Pharmacy?",
+      "reference_answers": [
+        "Near the Information desk."
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_FLORIDA_MALL_Q0044",
+      "image_id": "SAMA_MALL_FLORIDA_MALL",
+      "image_filename": "The Florida Mall.jpg",
+      "question": "How close is the closest Wi-Fi Areas from Dick's Sporting Goods (moderate walk)?",
+      "reference_answers": [
+        "Central Hub or Dining Pavilion (moderate walk)."
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_FLORIDA_MALL_Q0045",
+      "image_id": "SAMA_MALL_FLORIDA_MALL",
+      "image_filename": "The Florida Mall.jpg",
+      "question": "What is the closest Electronics & Tech store east of Dillard's?",
+      "reference_answers": [
+        "None (Dillard's is on the East edge)."
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_FLORIDA_MALL_Q0046",
+      "image_id": "SAMA_MALL_FLORIDA_MALL",
+      "image_filename": "The Florida Mall.jpg",
+      "question": "Where is the closest ATMs located when heading southwest from Foot Locker?",
+      "reference_answers": [
+        "Near the Information desk."
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_FLORIDA_MALL_Q0047",
+      "image_id": "SAMA_MALL_FLORIDA_MALL",
+      "image_filename": "The Florida Mall.jpg",
+      "question": "What is the closest Jewelry & Accessories store on the route from Dick's Sporting Goods towards Sears?",
+      "reference_answers": [
+        "Zales Jewelers."
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_FLORIDA_MALL_Q0048",
+      "image_id": "SAMA_MALL_FLORIDA_MALL",
+      "image_filename": "The Florida Mall.jpg",
+      "question": "Where is CVS pharmacy located at?",
+      "reference_answers": [
+        "In the yellow corridor, adjacent to JCPenney"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_FLORIDA_MALL_Q0049",
+      "image_id": "SAMA_MALL_FLORIDA_MALL",
+      "image_filename": "The Florida Mall.jpg",
+      "question": "What is the entrance closest to the electrical chargin station?",
+      "reference_answers": [
+        "Shake Shack entrance"
+      ]
+    },
+    {
+      "question_id": "SAMA_MALL_FLORIDA_MALL_Q0050",
+      "image_id": "SAMA_MALL_FLORIDA_MALL",
+      "image_filename": "The Florida Mall.jpg",
+      "question": "What is the entrance cloest to the taxi icon?",
+      "reference_answers": [
+        "Dining Pavilion entrance"
+      ]
+    }
+  ]
+}

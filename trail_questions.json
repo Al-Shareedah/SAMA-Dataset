@@ -1,0 +1,1507 @@
+{
+  "dataset": "SAMA",
+  "category": "trail",
+  "question_count": 150,
+  "questions": [
+    {
+      "question_id": "SAMA_TRAIL_CEDARVILLE_TRAIL_Q0001",
+      "image_id": "SAMA_TRAIL_CEDARVILLE_TRAIL",
+      "image_filename": "cedarville.png",
+      "question": "Which trailhead is closest to Bee Oak Road?",
+      "reference_answers": [
+        "Orange Trail"
+      ],
+      "map_element_category": "facility"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CEDARVILLE_TRAIL_Q0002",
+      "image_id": "SAMA_TRAIL_CEDARVILLE_TRAIL",
+      "image_filename": "cedarville.png",
+      "question": "Is there a parking area on Bee Oak Road?",
+      "reference_answers": [
+        "Yes"
+      ],
+      "map_element_category": "facility"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CEDARVILLE_TRAIL_Q0003",
+      "image_id": "SAMA_TRAIL_CEDARVILLE_TRAIL",
+      "image_filename": "cedarville.png",
+      "question": "Which trails does Orange Trail connect with along its path?",
+      "reference_answers": [
+        "Blue Trail, Orange and White Trail"
+      ],
+      "map_element_category": "path"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CEDARVILLE_TRAIL_Q0004",
+      "image_id": "SAMA_TRAIL_CEDARVILLE_TRAIL",
+      "image_filename": "cedarville.png",
+      "question": "List all trailheads that are accessible from Blue Trail without leaving marked paths.",
+      "reference_answers": [
+        "Orange Trail, White Trail"
+      ],
+      "map_element_category": "facility"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CEDARVILLE_TRAIL_Q0005",
+      "image_id": "SAMA_TRAIL_CEDARVILLE_TRAIL",
+      "image_filename": "cedarville.png",
+      "question": "How many different trails intersect the Blue Trail?",
+      "reference_answers": [
+        "2.0"
+      ],
+      "map_element_category": "path"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CEDARVILLE_TRAIL_Q0006",
+      "image_id": "SAMA_TRAIL_CEDARVILLE_TRAIL",
+      "image_filename": "cedarville.png",
+      "question": "How many Amenities are located along Blue Trail?",
+      "reference_answers": [
+        "3 (Parking Area, Picnic Area, Portable Toilet)"
+      ],
+      "map_element_category": "amenity"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CEDARVILLE_TRAIL_Q0007",
+      "image_id": "SAMA_TRAIL_CEDARVILLE_TRAIL",
+      "image_filename": "cedarville.png",
+      "question": "What are the compass directions for this map?",
+      "reference_answers": [
+        "West (left), North (top), East (right), South (down)"
+      ],
+      "map_element_category": "direction"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CEDARVILLE_TRAIL_Q0008",
+      "image_id": "SAMA_TRAIL_CEDARVILLE_TRAIL",
+      "image_filename": "cedarville.png",
+      "question": "At which junctions do Orange Trail and Blue Trail meet?",
+      "reference_answers": [
+        "Near the Charcoal Kiln"
+      ],
+      "map_element_category": "location"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CEDARVILLE_TRAIL_Q0009",
+      "image_id": "SAMA_TRAIL_CEDARVILLE_TRAIL",
+      "image_filename": "cedarville.png",
+      "question": "What is the total distance along marked trails from Blue Trail to Recreation?",
+      "reference_answers": [
+        "Cannot be determined from the map"
+      ],
+      "map_element_category": "path"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CEDARVILLE_TRAIL_Q0010",
+      "image_id": "SAMA_TRAIL_CEDARVILLE_TRAIL",
+      "image_filename": "cedarville.png",
+      "question": "Does Orange Trail form a loop that starts and ends at Orange Trail, or is it an out‑and‑back trail?",
+      "reference_answers": [
+        "Loop"
+      ],
+      "map_element_category": "path"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CEDARVILLE_TRAIL_Q0011",
+      "image_id": "SAMA_TRAIL_CEDARVILLE_TRAIL",
+      "image_filename": "cedarville.png",
+      "question": "What is the nearest trailhead to Forest Road (North) parking area?",
+      "reference_answers": [
+        "Orange Trail"
+      ],
+      "map_element_category": "facility"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CEDARVILLE_TRAIL_Q0012",
+      "image_id": "SAMA_TRAIL_CEDARVILLE_TRAIL",
+      "image_filename": "cedarville.png",
+      "question": "How many Amenities (e.g., overlooks, picnic areas, shelters) are located along Green Trail?",
+      "reference_answers": [
+        "0.0"
+      ],
+      "map_element_category": "amenity"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CEDARVILLE_TRAIL_Q0013",
+      "image_id": "SAMA_TRAIL_CEDARVILLE_TRAIL",
+      "image_filename": "cedarville.png",
+      "question": "Who do I call if I need emergency assistance?",
+      "reference_answers": [
+        "911.0"
+      ],
+      "map_element_category": "map information"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CEDARVILLE_TRAIL_Q0014",
+      "image_id": "SAMA_TRAIL_CEDARVILLE_TRAIL",
+      "image_filename": "cedarville.png",
+      "question": "At which junctions do Orange Trail and White Trail meet?",
+      "reference_answers": [
+        "They do not meet directly (connected via Orange and White Trail)"
+      ],
+      "map_element_category": "location"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CEDARVILLE_TRAIL_Q0015",
+      "image_id": "SAMA_TRAIL_CEDARVILLE_TRAIL",
+      "image_filename": "cedarville.png",
+      "question": "What does the darker green area marked on the map mean?",
+      "reference_answers": [
+        "Hunting is allowed"
+      ],
+      "map_element_category": "map legend"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CEDARVILLE_TRAIL_Q0016",
+      "image_id": "SAMA_TRAIL_CEDARVILLE_TRAIL",
+      "image_filename": "cedarville.png",
+      "question": "What trail is adjacent to the brown trail?",
+      "reference_answers": [
+        "Green Trail"
+      ],
+      "map_element_category": "path"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CEDARVILLE_TRAIL_Q0017",
+      "image_id": "SAMA_TRAIL_CEDARVILLE_TRAIL",
+      "image_filename": "cedarville.png",
+      "question": "Which trailhead is closest to Forest Road (South)?",
+      "reference_answers": [
+        "Brown Trail"
+      ],
+      "map_element_category": "facility"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CEDARVILLE_TRAIL_Q0018",
+      "image_id": "SAMA_TRAIL_CEDARVILLE_TRAIL",
+      "image_filename": "cedarville.png",
+      "question": "What is the nearest trailhead to Pond Access Road (SE) parking area?",
+      "reference_answers": [
+        "Blue, Green, and Brown Trails"
+      ],
+      "map_element_category": "facility"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CEDARVILLE_TRAIL_Q0019",
+      "image_id": "SAMA_TRAIL_CEDARVILLE_TRAIL",
+      "image_filename": "cedarville.png",
+      "question": "What number do I call for park information or assistance?",
+      "reference_answers": [
+        "Duty Ranger (443-975-4356)"
+      ],
+      "map_element_category": "map information"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CEDARVILLE_TRAIL_Q0020",
+      "image_id": "SAMA_TRAIL_CEDARVILLE_TRAIL",
+      "image_filename": "cedarville.png",
+      "question": "How many different trails are there?",
+      "reference_answers": [
+        "5.0"
+      ],
+      "map_element_category": "path"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CEDARVILLE_TRAIL_Q0021",
+      "image_id": "SAMA_TRAIL_CEDARVILLE_TRAIL",
+      "image_filename": "cedarville.png",
+      "question": "How many Amenities (e.g., overlooks, picnic areas, shelters) are located along Blue Trail?",
+      "reference_answers": [
+        "7.0"
+      ],
+      "map_element_category": "amenity"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CEDARVILLE_TRAIL_Q0022",
+      "image_id": "SAMA_TRAIL_CEDARVILLE_TRAIL",
+      "image_filename": "cedarville.png",
+      "question": "At which junctions do Blue Trail and Green Trail meet?",
+      "reference_answers": [
+        "Cedarville Pond parking area"
+      ],
+      "map_element_category": "location"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CEDARVILLE_TRAIL_Q0023",
+      "image_id": "SAMA_TRAIL_CEDARVILLE_TRAIL",
+      "image_filename": "cedarville.png",
+      "question": "Where is the park entrance located on the map?",
+      "reference_answers": [
+        "Top Left"
+      ],
+      "map_element_category": "location"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CEDARVILLE_TRAIL_Q0024",
+      "image_id": "SAMA_TRAIL_CEDARVILLE_TRAIL",
+      "image_filename": "cedarville.png",
+      "question": "Does the White Trail form a loop that starts and ends at the Orange and White Trail, or is it an out-and-back trail?",
+      "reference_answers": [
+        "Out-and-back"
+      ],
+      "map_element_category": "path"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CEDARVILLE_TRAIL_Q0025",
+      "image_id": "SAMA_TRAIL_CEDARVILLE_TRAIL",
+      "image_filename": "cedarville.png",
+      "question": "Which trailhead is closest to Hidden Springs Road?",
+      "reference_answers": [
+        "Orange Trail"
+      ],
+      "map_element_category": "facility"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CEDARVILLE_TRAIL_Q0026",
+      "image_id": "SAMA_TRAIL_CEDARVILLE_TRAIL",
+      "image_filename": "cedarville.png",
+      "question": "What is the Natural Resources Police phone number?",
+      "reference_answers": [
+        "410-269-8888 or 1-520-425-7275"
+      ],
+      "map_element_category": "map information"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CEDARVILLE_TRAIL_Q0027",
+      "image_id": "SAMA_TRAIL_CEDARVILLE_TRAIL",
+      "image_filename": "cedarville.png",
+      "question": "Which trails intersect or merge with Orange Trail near Blue Trail?",
+      "reference_answers": [
+        "Blue and White Trail"
+      ],
+      "map_element_category": "path"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CEDARVILLE_TRAIL_Q0028",
+      "image_id": "SAMA_TRAIL_CEDARVILLE_TRAIL",
+      "image_filename": "cedarville.png",
+      "question": "If I am on Sunset Road, what is located West?",
+      "reference_answers": [
+        "Fish Hatchery"
+      ],
+      "map_element_category": "attraction"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CEDARVILLE_TRAIL_Q0029",
+      "image_id": "SAMA_TRAIL_CEDARVILLE_TRAIL",
+      "image_filename": "cedarville.png",
+      "question": "What diability servies does this trail provide?",
+      "reference_answers": [
+        "Disabled accessible pavilion, disabled assesible hunting"
+      ],
+      "map_element_category": "accessibility feature"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CEDARVILLE_TRAIL_Q0030",
+      "image_id": "SAMA_TRAIL_CEDARVILLE_TRAIL",
+      "image_filename": "cedarville.png",
+      "question": "Does the Blue Trail form a loop that starts and ends at Green Trail, or is it an out-and-back trail?",
+      "reference_answers": [
+        "loop"
+      ],
+      "map_element_category": "path"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CEDARVILLE_TRAIL_Q0031",
+      "image_id": "SAMA_TRAIL_CEDARVILLE_TRAIL",
+      "image_filename": "cedarville.png",
+      "question": "Where is the fishing pond located?",
+      "reference_answers": [
+        "Cedarville Pond"
+      ],
+      "map_element_category": "location"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CEDARVILLE_TRAIL_Q0032",
+      "image_id": "SAMA_TRAIL_CEDARVILLE_TRAIL",
+      "image_filename": "cedarville.png",
+      "question": "How many Recreation (e.g., overlooks, picnic areas, shelters) are located along White Trail?",
+      "reference_answers": [
+        "0.0"
+      ],
+      "map_element_category": "amenity"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CEDARVILLE_TRAIL_Q0033",
+      "image_id": "SAMA_TRAIL_CEDARVILLE_TRAIL",
+      "image_filename": "cedarville.png",
+      "question": "What trail are the camping loops located in?",
+      "reference_answers": [
+        "Orange Trail"
+      ],
+      "map_element_category": "path"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CEDARVILLE_TRAIL_Q0034",
+      "image_id": "SAMA_TRAIL_CEDARVILLE_TRAIL",
+      "image_filename": "cedarville.png",
+      "question": "At which junctions do Orange Trail and Green Trail meet?",
+      "reference_answers": [
+        "They do not meet"
+      ],
+      "map_element_category": "location"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CEDARVILLE_TRAIL_Q0035",
+      "image_id": "SAMA_TRAIL_CEDARVILLE_TRAIL",
+      "image_filename": "cedarville.png",
+      "question": "On what road is the park entrance located?",
+      "reference_answers": [
+        "Dent Road and Bee Oak Road"
+      ],
+      "map_element_category": "path"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CEDARVILLE_TRAIL_Q0036",
+      "image_id": "SAMA_TRAIL_CEDARVILLE_TRAIL",
+      "image_filename": "cedarville.png",
+      "question": "What is the closest road to the playground?",
+      "reference_answers": [
+        "Forest Road"
+      ],
+      "map_element_category": "path"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CEDARVILLE_TRAIL_Q0037",
+      "image_id": "SAMA_TRAIL_CEDARVILLE_TRAIL",
+      "image_filename": "cedarville.png",
+      "question": "What is the nearest trailhead to Hidden Springs Road parking area?",
+      "reference_answers": [
+        "Orange Trail"
+      ],
+      "map_element_category": "facility"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CEDARVILLE_TRAIL_Q0038",
+      "image_id": "SAMA_TRAIL_CEDARVILLE_TRAIL",
+      "image_filename": "cedarville.png",
+      "question": "What does the dot with a line and ends with a dot mean?",
+      "reference_answers": [
+        "Gate"
+      ],
+      "map_element_category": "map legend"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CEDARVILLE_TRAIL_Q0039",
+      "image_id": "SAMA_TRAIL_CEDARVILLE_TRAIL",
+      "image_filename": "cedarville.png",
+      "question": "At which junctions do Green Trail and Blue Trail meet?",
+      "reference_answers": [
+        "They do not meet"
+      ],
+      "map_element_category": "location"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CEDARVILLE_TRAIL_Q0040",
+      "image_id": "SAMA_TRAIL_CEDARVILLE_TRAIL",
+      "image_filename": "cedarville.png",
+      "question": "Which trailhead is closest to Pond Access Road (SE)?",
+      "reference_answers": [
+        "Blue, Green, and Brown Trails"
+      ],
+      "map_element_category": "facility"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CEDARVILLE_TRAIL_Q0041",
+      "image_id": "SAMA_TRAIL_CEDARVILLE_TRAIL",
+      "image_filename": "cedarville.png",
+      "question": "What water way runs near the Blue Trail?",
+      "reference_answers": [
+        "Zekiah Swamp Run, Wolf Den Branch"
+      ],
+      "map_element_category": "attraction"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CEDARVILLE_TRAIL_Q0042",
+      "image_id": "SAMA_TRAIL_CEDARVILLE_TRAIL",
+      "image_filename": "cedarville.png",
+      "question": "On what road can disabled accessible hunting be found?",
+      "reference_answers": [
+        "Mistletoe Road"
+      ],
+      "map_element_category": "accessibility feature"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CEDARVILLE_TRAIL_Q0043",
+      "image_id": "SAMA_TRAIL_CEDARVILLE_TRAIL",
+      "image_filename": "cedarville.png",
+      "question": "If I am at the Park Entrance, which way should I go to get to route 5?",
+      "reference_answers": [
+        "Left"
+      ],
+      "map_element_category": "direction"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CEDARVILLE_TRAIL_Q0044",
+      "image_id": "SAMA_TRAIL_CEDARVILLE_TRAIL",
+      "image_filename": "cedarville.png",
+      "question": "If I am at the Park Entrance, which way should I go to get to route 381?",
+      "reference_answers": [
+        "Right"
+      ],
+      "map_element_category": "direction"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CEDARVILLE_TRAIL_Q0045",
+      "image_id": "SAMA_TRAIL_CEDARVILLE_TRAIL",
+      "image_filename": "cedarville.png",
+      "question": "Which trails does Brown Trail connect with along its path?",
+      "reference_answers": [
+        "Green Trail"
+      ],
+      "map_element_category": "path"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CEDARVILLE_TRAIL_Q0046",
+      "image_id": "SAMA_TRAIL_CEDARVILLE_TRAIL",
+      "image_filename": "cedarville.png",
+      "question": "What is the closest service to the playground?",
+      "reference_answers": [
+        "Parking and disabled accessible pavillion"
+      ],
+      "map_element_category": "facility"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CEDARVILLE_TRAIL_Q0047",
+      "image_id": "SAMA_TRAIL_CEDARVILLE_TRAIL",
+      "image_filename": "cedarville.png",
+      "question": "What does solid black line stand for?",
+      "reference_answers": [
+        "Roads"
+      ],
+      "map_element_category": "map legend"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CEDARVILLE_TRAIL_Q0048",
+      "image_id": "SAMA_TRAIL_CEDARVILLE_TRAIL",
+      "image_filename": "cedarville.png",
+      "question": "How are Gravel/Dirt roads represented on the map?",
+      "reference_answers": [
+        "Gray dashed lines"
+      ],
+      "map_element_category": "map legend"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CEDARVILLE_TRAIL_Q0049",
+      "image_id": "SAMA_TRAIL_CEDARVILLE_TRAIL",
+      "image_filename": "cedarville.png",
+      "question": "Which trailhead is closest to Cedarville Road?",
+      "reference_answers": [
+        "Orange Trail (near Park Entrance)"
+      ],
+      "map_element_category": "facility"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CEDARVILLE_TRAIL_Q0050",
+      "image_id": "SAMA_TRAIL_CEDARVILLE_TRAIL",
+      "image_filename": "cedarville.png",
+      "question": "Which trails does White Trail connect with along its path?",
+      "reference_answers": [
+        "Orange and Blue Trail"
+      ],
+      "map_element_category": "path"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS_Q0001",
+      "image_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS",
+      "image_filename": "Cuyahoga_Valley_Trails.jpg",
+      "question": "Which trailhead is closest to SR 303?",
+      "reference_answers": [
+        "Pine Lane Trailhead"
+      ],
+      "map_element_category": "facility"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS_Q0002",
+      "image_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS",
+      "image_filename": "Cuyahoga_Valley_Trails.jpg",
+      "question": "What is the nearest trailhead to Riverview Road parking area?",
+      "reference_answers": [
+        "Riverview Road is not labeled on this map."
+      ],
+      "map_element_category": "facility"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS_Q0003",
+      "image_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS",
+      "image_filename": "Cuyahoga_Valley_Trails.jpg",
+      "question": "Which trails are within 1.0 mi (by walking distance) from Oak Hill / Plateau?",
+      "reference_answers": [
+        "Oak Hill Trail and Plateau Trail"
+      ],
+      "map_element_category": "path"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS_Q0004",
+      "image_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS",
+      "image_filename": "Cuyahoga_Valley_Trails.jpg",
+      "question": "Suggest a hiking route with a total distance of about 1.8 mi that starts from Truxell Road Ledges parking area.",
+      "reference_answers": [
+        "Take the Valley Trail south from Truxell Road to Wetmore Trailhead (marked as 1.8 miles)."
+      ],
+      "map_element_category": "path"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS_Q0005",
+      "image_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS",
+      "image_filename": "Cuyahoga_Valley_Trails.jpg",
+      "question": "Which trails does Valley Trail connect with along its path?",
+      "reference_answers": [
+        "Buckeye & Towpath Trails, Wetmore Trail, Butlers Trail"
+      ],
+      "map_element_category": "path"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS_Q0006",
+      "image_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS",
+      "image_filename": "Cuyahoga_Valley_Trails.jpg",
+      "question": "What is the loop distance from Boston to Peninsula using Buckeye and Towpath trails?",
+      "reference_answers": [
+        "7.4 miles"
+      ],
+      "map_element_category": "path"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS_Q0007",
+      "image_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS",
+      "image_filename": "Cuyahoga_Valley_Trails.jpg",
+      "question": "How many different trails intersect Buckeye Trail?",
+      "reference_answers": [
+        "3 main trails (Valley Trail, Towpath Trail, Bike & Hike Trail)"
+      ],
+      "map_element_category": "path"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS_Q0008",
+      "image_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS",
+      "image_filename": "Cuyahoga_Valley_Trails.jpg",
+      "question": "How many Recreation & Nature (e.g., overlooks, picnic areas, shelters) are located along Oak Hill Trail?",
+      "reference_answers": [
+        "Picnic, restrooms, parking, cross country skiing"
+      ],
+      "map_element_category": "amenity"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS_Q0009",
+      "image_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS",
+      "image_filename": "Cuyahoga_Valley_Trails.jpg",
+      "question": "What does the green highlighted areas on the map mean?",
+      "reference_answers": [
+        "Park boundary"
+      ],
+      "map_element_category": "map legend"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS_Q0010",
+      "image_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS",
+      "image_filename": "Cuyahoga_Valley_Trails.jpg",
+      "question": "At which junctions do Valley Trail and East Rim Trails meet?",
+      "reference_answers": [
+        "They do not meet on this map."
+      ],
+      "map_element_category": "location"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS_Q0011",
+      "image_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS",
+      "image_filename": "Cuyahoga_Valley_Trails.jpg",
+      "question": "What is the total distance along marked trails from Oak Hill to Historical Locks?",
+      "reference_answers": [
+        "Cannot be calculated (distances are not marked on Oak Hill Trail)."
+      ],
+      "map_element_category": "path"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS_Q0012",
+      "image_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS",
+      "image_filename": "Cuyahoga_Valley_Trails.jpg",
+      "question": "What is the loop distance from Peninsula to Hunt Farm using Valley, Towpath, and Buckeye trails?",
+      "reference_answers": [
+        "9.4 miles"
+      ],
+      "map_element_category": "path"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS_Q0013",
+      "image_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS",
+      "image_filename": "Cuyahoga_Valley_Trails.jpg",
+      "question": "Does Cross Country Trail form a loop that starts and ends at Cross Country Trail, or is it an out-and-back trail?",
+      "reference_answers": [
+        "It forms a loop."
+      ],
+      "map_element_category": "path"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS_Q0014",
+      "image_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS",
+      "image_filename": "Cuyahoga_Valley_Trails.jpg",
+      "question": "Which trailhead is closest to Riverview Road?",
+      "reference_answers": [
+        "Riverview Road is not labeled on this map."
+      ],
+      "map_element_category": "facility"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS_Q0015",
+      "image_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS",
+      "image_filename": "Cuyahoga_Valley_Trails.jpg",
+      "question": "What is the nearest trailhead to Wetmore Road parking area?",
+      "reference_answers": [
+        "Wetmore Trailhead"
+      ],
+      "map_element_category": "facility"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS_Q0016",
+      "image_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS",
+      "image_filename": "Cuyahoga_Valley_Trails.jpg",
+      "question": "Which trails are within 0.9 mi (by walking distance) from East Rim Trails?",
+      "reference_answers": [
+        "Bike & Hike Trail"
+      ],
+      "map_element_category": "path"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS_Q0017",
+      "image_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS",
+      "image_filename": "Cuyahoga_Valley_Trails.jpg",
+      "question": "Where is the train station located?",
+      "reference_answers": [
+        "Everett, Peninsula, Boston"
+      ],
+      "map_element_category": "location"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS_Q0018",
+      "image_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS",
+      "image_filename": "Cuyahoga_Valley_Trails.jpg",
+      "question": "Which trails does Oak Hill Trail connect with along its path?",
+      "reference_answers": [
+        "Plateau Trail"
+      ],
+      "map_element_category": "path"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS_Q0019",
+      "image_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS",
+      "image_filename": "Cuyahoga_Valley_Trails.jpg",
+      "question": "What trail is North of Perkins Trail?",
+      "reference_answers": [
+        "Riding Run Trail"
+      ],
+      "map_element_category": "path"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS_Q0020",
+      "image_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS",
+      "image_filename": "Cuyahoga_Valley_Trails.jpg",
+      "question": "How many different trails intersect East Rim Trails?",
+      "reference_answers": [
+        "1 (Bike & Hike Trail)"
+      ],
+      "map_element_category": "path"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS_Q0021",
+      "image_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS",
+      "image_filename": "Cuyahoga_Valley_Trails.jpg",
+      "question": "How many Recreation & Nature sites are located along East Rim Trails?",
+      "reference_answers": [
+        "0 (Only a parking area is shown)."
+      ],
+      "map_element_category": "amenity"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS_Q0022",
+      "image_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS",
+      "image_filename": "Cuyahoga_Valley_Trails.jpg",
+      "question": "If I am on the 303, what trail is nearby?",
+      "reference_answers": [
+        "Ledges Trail"
+      ],
+      "map_element_category": "path"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS_Q0023",
+      "image_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS",
+      "image_filename": "Cuyahoga_Valley_Trails.jpg",
+      "question": "What services are near Kendall Lake?",
+      "reference_answers": [
+        "Parking, restroom, picnic area, cross country skiing"
+      ],
+      "map_element_category": "amenity"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS_Q0024",
+      "image_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS",
+      "image_filename": "Cuyahoga_Valley_Trails.jpg",
+      "question": "What is the total distance along marked trails from Oak Hill / Plateau to Historical Locks?",
+      "reference_answers": [
+        "Cannot be calculated (missing distance markers on connecting trails)."
+      ],
+      "map_element_category": "path"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS_Q0025",
+      "image_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS",
+      "image_filename": "Cuyahoga_Valley_Trails.jpg",
+      "question": "Which Recreation & Nature can I reach within 0.9 mi of walking from Boston Mills Road parking area?",
+      "reference_answers": [
+        "Blue Hen Falls (0.9 miles away)"
+      ],
+      "map_element_category": "attraction"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS_Q0026",
+      "image_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS",
+      "image_filename": "Cuyahoga_Valley_Trails.jpg",
+      "question": "Does Towpath Trail form a loop that starts and ends at Towpath Trail, or is it an out-and-back trail?",
+      "reference_answers": [
+        "It is a linear (point-to-point) trail."
+      ],
+      "map_element_category": "path"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS_Q0027",
+      "image_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS",
+      "image_filename": "Cuyahoga_Valley_Trails.jpg",
+      "question": "Which landmark is closest to Boston Mills Road?",
+      "reference_answers": [
+        "Boston Mill Visitor Center"
+      ],
+      "map_element_category": "attraction"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS_Q0028",
+      "image_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS",
+      "image_filename": "Cuyahoga_Valley_Trails.jpg",
+      "question": "What is the nearest trailhead to Wetmore parking area?",
+      "reference_answers": [
+        "Wetmore Trail or Butlers Trail"
+      ],
+      "map_element_category": "facility"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS_Q0029",
+      "image_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS",
+      "image_filename": "Cuyahoga_Valley_Trails.jpg",
+      "question": "What trail is South of Butlers Trail?",
+      "reference_answers": [
+        "Langes Trail"
+      ],
+      "map_element_category": "path"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS_Q0030",
+      "image_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS",
+      "image_filename": "Cuyahoga_Valley_Trails.jpg",
+      "question": "Where is the closest dining if I am at Lock 32?",
+      "reference_answers": [
+        "Boston Store"
+      ],
+      "map_element_category": "dining location"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS_Q0031",
+      "image_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS",
+      "image_filename": "Cuyahoga_Valley_Trails.jpg",
+      "question": "What services are found in Wetmore?",
+      "reference_answers": [
+        "Parking, Horse Trailer Parking, Restroom"
+      ],
+      "map_element_category": "amenity"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS_Q0032",
+      "image_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS",
+      "image_filename": "Cuyahoga_Valley_Trails.jpg",
+      "question": "List all trailheads that are accessible from Valley Trail without leaving marked paths.",
+      "reference_answers": [
+        "Boston Mill Visitor Center, Pine Lane Trailhead, Peninsula Depot, and Wetmore Trailhead"
+      ],
+      "map_element_category": "facility"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS_Q0033",
+      "image_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS",
+      "image_filename": "Cuyahoga_Valley_Trails.jpg",
+      "question": "What major freeways/highways are shown on the map?",
+      "reference_answers": [
+        "271, 80, 303"
+      ],
+      "map_element_category": "path"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS_Q0034",
+      "image_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS",
+      "image_filename": "Cuyahoga_Valley_Trails.jpg",
+      "question": "How many Historical Locks are located along Buckeye Trail?",
+      "reference_answers": [
+        "2 (Locks 28, 27)"
+      ],
+      "map_element_category": "attraction"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS_Q0035",
+      "image_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS",
+      "image_filename": "Cuyahoga_Valley_Trails.jpg",
+      "question": "At which junctions do Valley Trail and Buckeye Trail meet?",
+      "reference_answers": [
+        "Near Boston Mill Visitor Center and Peninsula Depot"
+      ],
+      "map_element_category": "location"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS_Q0036",
+      "image_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS",
+      "image_filename": "Cuyahoga_Valley_Trails.jpg",
+      "question": "What is the total distance along marked trails from East Rim Trails to Historical Locks?",
+      "reference_answers": [
+        "Cannot be calculated (incomplete distance markers)."
+      ],
+      "map_element_category": "path"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS_Q0037",
+      "image_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS",
+      "image_filename": "Cuyahoga_Valley_Trails.jpg",
+      "question": "Which Historical Locks can I reach within 1.8 mi of walking from Wetmore Road parking area?",
+      "reference_answers": [
+        "Lock 27, 28, 32"
+      ],
+      "map_element_category": "attraction"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS_Q0038",
+      "image_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS",
+      "image_filename": "Cuyahoga_Valley_Trails.jpg",
+      "question": "How are bike trails represented on the map?",
+      "reference_answers": [
+        "Dashed black lines"
+      ],
+      "map_element_category": "map legend"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS_Q0039",
+      "image_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS",
+      "image_filename": "Cuyahoga_Valley_Trails.jpg",
+      "question": "Which trailhead is closest to Truxell Road?",
+      "reference_answers": [
+        "Pine Hollow Trailhead"
+      ],
+      "map_element_category": "facility"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS_Q0040",
+      "image_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS",
+      "image_filename": "Cuyahoga_Valley_Trails.jpg",
+      "question": "What is the nearest trailhead to East Rim Trails parking area?",
+      "reference_answers": [
+        "East Rim Trails"
+      ],
+      "map_element_category": "facility"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS_Q0041",
+      "image_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS",
+      "image_filename": "Cuyahoga_Valley_Trails.jpg",
+      "question": "If I am at Cross Country Trail, what trail is to the West?",
+      "reference_answers": [
+        "Wetmore Trail"
+      ],
+      "map_element_category": "path"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS_Q0042",
+      "image_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS",
+      "image_filename": "Cuyahoga_Valley_Trails.jpg",
+      "question": "What trail is located on Major Road?",
+      "reference_answers": [
+        "Tree Farm Trail"
+      ],
+      "map_element_category": "path"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS_Q0043",
+      "image_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS",
+      "image_filename": "Cuyahoga_Valley_Trails.jpg",
+      "question": "How many Recreation & Nature (e.g., overlooks, picnic areas, shelters) are located along Riding Run Trail?",
+      "reference_answers": [
+        "None explicitly shown outside of the connecting major trailheads."
+      ],
+      "map_element_category": "amenity"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS_Q0044",
+      "image_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS",
+      "image_filename": "Cuyahoga_Valley_Trails.jpg",
+      "question": "Is there parking near Boston Store?",
+      "reference_answers": [
+        "Yes but it is disability parking only"
+      ],
+      "map_element_category": "facility"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS_Q0045",
+      "image_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS",
+      "image_filename": "Cuyahoga_Valley_Trails.jpg",
+      "question": "Is the Furnace Run Trail far from Lock 32?",
+      "reference_answers": [
+        "Yes far walk"
+      ],
+      "map_element_category": "location"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS_Q0046",
+      "image_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS",
+      "image_filename": "Cuyahoga_Valley_Trails.jpg",
+      "question": "What is the total distance along marked trails from Wetmore / Salt Run to Historical Locks?",
+      "reference_answers": [
+        "Cannot be calculated (incomplete distance markers)."
+      ],
+      "map_element_category": "path"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS_Q0047",
+      "image_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS",
+      "image_filename": "Cuyahoga_Valley_Trails.jpg",
+      "question": "What is the nearest trailhead to SR 303 parking area?",
+      "reference_answers": [
+        "Pine Lane Trailhead"
+      ],
+      "map_element_category": "facility"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS_Q0048",
+      "image_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS",
+      "image_filename": "Cuyahoga_Valley_Trails.jpg",
+      "question": "Which trails are within 1.0 mi (by walking distance) from East Rim Trails?",
+      "reference_answers": [
+        "Bike & Hike Trail"
+      ],
+      "map_element_category": "path"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS_Q0049",
+      "image_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS",
+      "image_filename": "Cuyahoga_Valley_Trails.jpg",
+      "question": "Are there any entrances to a trail on Northampton Road?",
+      "reference_answers": [
+        "No"
+      ],
+      "map_element_category": "facility"
+    },
+    {
+      "question_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS_Q0050",
+      "image_id": "SAMA_TRAIL_CUYAHOGA_VALLEY_TRAILS",
+      "image_filename": "Cuyahoga_Valley_Trails.jpg",
+      "question": "Which trails does Cross Country Trail connect with along its path?",
+      "reference_answers": [
+        "Wetmore Trail and Salt Run Trail"
+      ],
+      "map_element_category": "path"
+    },
+    {
+      "question_id": "SAMA_TRAIL_YOSEMITE_TRAILS_Q0001",
+      "image_id": "SAMA_TRAIL_YOSEMITE_TRAILS",
+      "image_filename": "Yosemite_trail.jpg",
+      "question": "Which trailhead is closest to Glacier Point Road?",
+      "reference_answers": [
+        "Taft Point / Sentinel Dome Trailhead (or Glacier Point)"
+      ],
+      "map_element_category": "facility"
+    },
+    {
+      "question_id": "SAMA_TRAIL_YOSEMITE_TRAILS_Q0002",
+      "image_id": "SAMA_TRAIL_YOSEMITE_TRAILS",
+      "image_filename": "Yosemite_trail.jpg",
+      "question": "What is the nearest trailhead to Curry Village Visitor Parking?",
+      "reference_answers": [
+        "Trailhead for Vernal, Fall, Nevada Fall, and John Muir Trail"
+      ],
+      "map_element_category": "facility"
+    },
+    {
+      "question_id": "SAMA_TRAIL_YOSEMITE_TRAILS_Q0003",
+      "image_id": "SAMA_TRAIL_YOSEMITE_TRAILS",
+      "image_filename": "Yosemite_trail.jpg",
+      "question": "Which trails does Mist Trail connect with along its path?",
+      "reference_answers": [
+        "John Muir Trail"
+      ],
+      "map_element_category": "path"
+    },
+    {
+      "question_id": "SAMA_TRAIL_YOSEMITE_TRAILS_Q0004",
+      "image_id": "SAMA_TRAIL_YOSEMITE_TRAILS",
+      "image_filename": "Yosemite_trail.jpg",
+      "question": "List all trailheads that are accessible from Mist Trail without leaving marked paths.",
+      "reference_answers": [
+        "Trailhead for Vernal, Fall, Nevada Fall, and John Muir Trail"
+      ],
+      "map_element_category": "facility"
+    },
+    {
+      "question_id": "SAMA_TRAIL_YOSEMITE_TRAILS_Q0005",
+      "image_id": "SAMA_TRAIL_YOSEMITE_TRAILS",
+      "image_filename": "Yosemite_trail.jpg",
+      "question": "How many different trails intersect John Muir Trail?",
+      "reference_answers": [
+        "Two marked trails (Mist Trail, Half Dome Trail)"
+      ],
+      "map_element_category": "path"
+    },
+    {
+      "question_id": "SAMA_TRAIL_YOSEMITE_TRAILS_Q0006",
+      "image_id": "SAMA_TRAIL_YOSEMITE_TRAILS",
+      "image_filename": "Yosemite_trail.jpg",
+      "question": "How many Scenic Viewpoints are located along Mist Trail?",
+      "reference_answers": [
+        "None explicitly marked with viewpoint icons (only the falls are named)"
+      ],
+      "map_element_category": "attraction"
+    },
+    {
+      "question_id": "SAMA_TRAIL_YOSEMITE_TRAILS_Q0007",
+      "image_id": "SAMA_TRAIL_YOSEMITE_TRAILS",
+      "image_filename": "Yosemite_trail.jpg",
+      "question": "Which trails intersect or merge with Mist Trail?",
+      "reference_answers": [
+        "John Muir Trail"
+      ],
+      "map_element_category": "path"
+    },
+    {
+      "question_id": "SAMA_TRAIL_YOSEMITE_TRAILS_Q0008",
+      "image_id": "SAMA_TRAIL_YOSEMITE_TRAILS",
+      "image_filename": "Yosemite_trail.jpg",
+      "question": "At which junctions do Mist Trail and John Muir Trail meet?",
+      "reference_answers": [
+        "Near Vernal Fall footbridge and above Nevada Fall"
+      ],
+      "map_element_category": "location"
+    },
+    {
+      "question_id": "SAMA_TRAIL_YOSEMITE_TRAILS_Q0009",
+      "image_id": "SAMA_TRAIL_YOSEMITE_TRAILS",
+      "image_filename": "Yosemite_trail.jpg",
+      "question": "What is the total distance along marked trails from Mist Trail to Waterfalls?",
+      "reference_answers": [
+        "Cannot be determined (trail passes directly by Vernal and Nevada Falls)"
+      ],
+      "map_element_category": "map information"
+    },
+    {
+      "question_id": "SAMA_TRAIL_YOSEMITE_TRAILS_Q0010",
+      "image_id": "SAMA_TRAIL_YOSEMITE_TRAILS",
+      "image_filename": "Yosemite_trail.jpg",
+      "question": "Does Paved bikeway and Foot trail form a loop that starts and ends at Valley Floor Trail / Bikeway, or is it an out-and-back trail?",
+      "reference_answers": [
+        "Loop"
+      ],
+      "map_element_category": "path"
+    },
+    {
+      "question_id": "SAMA_TRAIL_YOSEMITE_TRAILS_Q0011",
+      "image_id": "SAMA_TRAIL_YOSEMITE_TRAILS",
+      "image_filename": "Yosemite_trail.jpg",
+      "question": "Which trailhead is closest to Wawona Road?",
+      "reference_answers": [
+        "None"
+      ],
+      "map_element_category": "facility"
+    },
+    {
+      "question_id": "SAMA_TRAIL_YOSEMITE_TRAILS_Q0012",
+      "image_id": "SAMA_TRAIL_YOSEMITE_TRAILS",
+      "image_filename": "Yosemite_trail.jpg",
+      "question": "How many different trails intersect Mist Trail?",
+      "reference_answers": [
+        "One main trail (John Muir Trail)"
+      ],
+      "map_element_category": "path"
+    },
+    {
+      "question_id": "SAMA_TRAIL_YOSEMITE_TRAILS_Q0013",
+      "image_id": "SAMA_TRAIL_YOSEMITE_TRAILS",
+      "image_filename": "Yosemite_trail.jpg",
+      "question": "How many Restrooms are near Yosemite Valley Welcome Center?",
+      "reference_answers": [
+        "nearest one is at Lower Yosemite fall Trail"
+      ],
+      "map_element_category": "amenity"
+    },
+    {
+      "question_id": "SAMA_TRAIL_YOSEMITE_TRAILS_Q0014",
+      "image_id": "SAMA_TRAIL_YOSEMITE_TRAILS",
+      "image_filename": "Yosemite_trail.jpg",
+      "question": "Which Picnic Area can I find on Valleywide Shuttle route?",
+      "reference_answers": [
+        "One at El Capitan stop, One at Cathedral Beach Stop, One at Trailhead for Four Mile Trail Stop, One near Lower Yosemite Fall Trail Stop, One between the The Ahwahnee Stop and Yosemite Village Stop"
+      ],
+      "map_element_category": "amenity"
+    },
+    {
+      "question_id": "SAMA_TRAIL_YOSEMITE_TRAILS_Q0015",
+      "image_id": "SAMA_TRAIL_YOSEMITE_TRAILS",
+      "image_filename": "Yosemite_trail.jpg",
+      "question": "Which creeks are along Merced river?",
+      "reference_answers": [
+        "Bridalveil creek, Ribbon Creek, Sentinel Creek, Yosemite Creek, Indian Canyon Creek, Royal Arch Creek, Tenaya Creek"
+      ],
+      "map_element_category": "attraction"
+    },
+    {
+      "question_id": "SAMA_TRAIL_YOSEMITE_TRAILS_Q0016",
+      "image_id": "SAMA_TRAIL_YOSEMITE_TRAILS",
+      "image_filename": "Yosemite_trail.jpg",
+      "question": "Does Mirror Lake Trail form a loop that starts and ends at Mirror Lake Trail, or is it an out-and-back trail?",
+      "reference_answers": [
+        "Loop"
+      ],
+      "map_element_category": "path"
+    },
+    {
+      "question_id": "SAMA_TRAIL_YOSEMITE_TRAILS_Q0017",
+      "image_id": "SAMA_TRAIL_YOSEMITE_TRAILS",
+      "image_filename": "Yosemite_trail.jpg",
+      "question": "What is the nearest trailhead to Yosemite Falls / Camp 4 Parking?",
+      "reference_answers": [
+        "Upper Yosemite Fall Trailhead"
+      ],
+      "map_element_category": "facility"
+    },
+    {
+      "question_id": "SAMA_TRAIL_YOSEMITE_TRAILS_Q0018",
+      "image_id": "SAMA_TRAIL_YOSEMITE_TRAILS",
+      "image_filename": "Yosemite_trail.jpg",
+      "question": "How many Waterfalls are located along Mist Trail?",
+      "reference_answers": [
+        "Two (Vernal Fall, Nevada Fall)"
+      ],
+      "map_element_category": "attraction"
+    },
+    {
+      "question_id": "SAMA_TRAIL_YOSEMITE_TRAILS_Q0019",
+      "image_id": "SAMA_TRAIL_YOSEMITE_TRAILS",
+      "image_filename": "Yosemite_trail.jpg",
+      "question": "Does Half Dome Trail form a loop that starts and ends at Half Dome Trail, or is it an out-and-back trail?",
+      "reference_answers": [
+        "Out-and-back"
+      ],
+      "map_element_category": "path"
+    },
+    {
+      "question_id": "SAMA_TRAIL_YOSEMITE_TRAILS_Q0020",
+      "image_id": "SAMA_TRAIL_YOSEMITE_TRAILS",
+      "image_filename": "Yosemite_trail.jpg",
+      "question": "Which bridge is connecting El Capitan to Cathedral Spires?",
+      "reference_answers": [
+        "El Capitan Bridge"
+      ],
+      "map_element_category": "attraction"
+    },
+    {
+      "question_id": "SAMA_TRAIL_YOSEMITE_TRAILS_Q0021",
+      "image_id": "SAMA_TRAIL_YOSEMITE_TRAILS",
+      "image_filename": "Yosemite_trail.jpg",
+      "question": "How many Points are located along the Four Mile Trail?",
+      "reference_answers": [
+        "3 (Union Point, Moran Point)"
+      ],
+      "map_element_category": "attraction"
+    },
+    {
+      "question_id": "SAMA_TRAIL_YOSEMITE_TRAILS_Q0022",
+      "image_id": "SAMA_TRAIL_YOSEMITE_TRAILS",
+      "image_filename": "Yosemite_trail.jpg",
+      "question": "Where can I find Ranger Station From Grizzly Peak towards Half Dome?",
+      "reference_answers": [
+        "at Little Yosemite Valley"
+      ],
+      "map_element_category": "facility"
+    },
+    {
+      "question_id": "SAMA_TRAIL_YOSEMITE_TRAILS_Q0023",
+      "image_id": "SAMA_TRAIL_YOSEMITE_TRAILS",
+      "image_filename": "Yosemite_trail.jpg",
+      "question": "Does Four Mile Trail form a loop that starts and ends at Four Mile Trail, or is it an out-and-back trail?",
+      "reference_answers": [
+        "Out-and-back"
+      ],
+      "map_element_category": "path"
+    },
+    {
+      "question_id": "SAMA_TRAIL_YOSEMITE_TRAILS_Q0024",
+      "image_id": "SAMA_TRAIL_YOSEMITE_TRAILS",
+      "image_filename": "Yosemite_trail.jpg",
+      "question": "In which map direction is Wilderness permit station located from Happy Isles Art and Nature Center?",
+      "reference_answers": [
+        "Northwest"
+      ],
+      "map_element_category": "direction"
+    },
+    {
+      "question_id": "SAMA_TRAIL_YOSEMITE_TRAILS_Q0025",
+      "image_id": "SAMA_TRAIL_YOSEMITE_TRAILS",
+      "image_filename": "Yosemite_trail.jpg",
+      "question": "Which creeks can I find from Pohono Bridge towards Swinging Bridge?",
+      "reference_answers": [
+        "Bridalveil creek, Ribbon creek, Sentinel Creek"
+      ],
+      "map_element_category": "attraction"
+    },
+    {
+      "question_id": "SAMA_TRAIL_YOSEMITE_TRAILS_Q0026",
+      "image_id": "SAMA_TRAIL_YOSEMITE_TRAILS",
+      "image_filename": "Yosemite_trail.jpg",
+      "question": "Where can I find Medical Clinic from Colombia Rock towards The Ahwahnee?",
+      "reference_answers": [
+        "near Yosemite Valley Welcome Center"
+      ],
+      "map_element_category": "facility"
+    },
+    {
+      "question_id": "SAMA_TRAIL_YOSEMITE_TRAILS_Q0027",
+      "image_id": "SAMA_TRAIL_YOSEMITE_TRAILS",
+      "image_filename": "Yosemite_trail.jpg",
+      "question": "which Food service and lodging can I find from Sentinel Beach to Vernal Fall?",
+      "reference_answers": [
+        "One at Yosemite Valley Lodge, One at Curry Village, One at The Ahwahnee"
+      ],
+      "map_element_category": "dining location"
+    },
+    {
+      "question_id": "SAMA_TRAIL_YOSEMITE_TRAILS_Q0028",
+      "image_id": "SAMA_TRAIL_YOSEMITE_TRAILS",
+      "image_filename": "Yosemite_trail.jpg",
+      "question": "Which trails intersect or merge with Mist Trail near Upper Yosemite Fall Trail?",
+      "reference_answers": [
+        "None (they are on opposite sides of the valley)"
+      ],
+      "map_element_category": "path"
+    },
+    {
+      "question_id": "SAMA_TRAIL_YOSEMITE_TRAILS_Q0029",
+      "image_id": "SAMA_TRAIL_YOSEMITE_TRAILS",
+      "image_filename": "Yosemite_trail.jpg",
+      "question": "Which campground can I find from Sentinel Bridge towards Clark Point?",
+      "reference_answers": [
+        "Lower Pines, and Upper Pines"
+      ],
+      "map_element_category": "facility"
+    },
+    {
+      "question_id": "SAMA_TRAIL_YOSEMITE_TRAILS_Q0030",
+      "image_id": "SAMA_TRAIL_YOSEMITE_TRAILS",
+      "image_filename": "Yosemite_trail.jpg",
+      "question": "Which trailhead is closest to Southside Drive?",
+      "reference_answers": [
+        "Trailhead for Four Mile Trail"
+      ],
+      "map_element_category": "facility"
+    },
+    {
+      "question_id": "SAMA_TRAIL_YOSEMITE_TRAILS_Q0031",
+      "image_id": "SAMA_TRAIL_YOSEMITE_TRAILS",
+      "image_filename": "Yosemite_trail.jpg",
+      "question": "How many Peaks (e.g., overlooks, picnic areas, shelters) are located along Mist Trail?",
+      "reference_answers": [
+        "Zero directly on the trail (Liberty Cap and Mt. Broderick are adjacent)"
+      ],
+      "map_element_category": "attraction"
+    },
+    {
+      "question_id": "SAMA_TRAIL_YOSEMITE_TRAILS_Q0032",
+      "image_id": "SAMA_TRAIL_YOSEMITE_TRAILS",
+      "image_filename": "Yosemite_trail.jpg",
+      "question": "List all trailheads that are accessible from Mirror Lake Trail without leaving marked paths.",
+      "reference_answers": [
+        "None"
+      ],
+      "map_element_category": "facility"
+    },
+    {
+      "question_id": "SAMA_TRAIL_YOSEMITE_TRAILS_Q0033",
+      "image_id": "SAMA_TRAIL_YOSEMITE_TRAILS",
+      "image_filename": "Yosemite_trail.jpg",
+      "question": "Which trails intersect or merge with John Muir Trail near Four Mile Trail?",
+      "reference_answers": [
+        "None (they do not intersect)"
+      ],
+      "map_element_category": "path"
+    },
+    {
+      "question_id": "SAMA_TRAIL_YOSEMITE_TRAILS_Q0034",
+      "image_id": "SAMA_TRAIL_YOSEMITE_TRAILS",
+      "image_filename": "Yosemite_trail.jpg",
+      "question": "Does Mist Trail form a loop that starts and ends at Mist Trail, or is it an out-and-back trail?",
+      "reference_answers": [
+        "Out-and-back (though it forms a loop when combined with John Muir Trail)"
+      ],
+      "map_element_category": "path"
+    },
+    {
+      "question_id": "SAMA_TRAIL_YOSEMITE_TRAILS_Q0035",
+      "image_id": "SAMA_TRAIL_YOSEMITE_TRAILS",
+      "image_filename": "Yosemite_trail.jpg",
+      "question": "How long is the Roosevelt Point?",
+      "reference_answers": [
+        "7380ft, 2250m"
+      ],
+      "map_element_category": "map information"
+    },
+    {
+      "question_id": "SAMA_TRAIL_YOSEMITE_TRAILS_Q0036",
+      "image_id": "SAMA_TRAIL_YOSEMITE_TRAILS",
+      "image_filename": "Yosemite_trail.jpg",
+      "question": "List the attractions that can be accessed by East Valley Shuttle",
+      "reference_answers": [
+        "Yosemite Valley Welcome center, Yosemite Conservation Heritage Center, visitor parking Curry village, Lower Pines, Upper Pines, Happy Isles Art and Nature Center,"
+      ],
+      "map_element_category": "attraction"
+    },
+    {
+      "question_id": "SAMA_TRAIL_YOSEMITE_TRAILS_Q0037",
+      "image_id": "SAMA_TRAIL_YOSEMITE_TRAILS",
+      "image_filename": "Yosemite_trail.jpg",
+      "question": "How many Waterfalls are located along Yosemite Creek?",
+      "reference_answers": [
+        "2(Upper Yosemite Fall, Lower Yosemite Fall )"
+      ],
+      "map_element_category": "attraction"
+    },
+    {
+      "question_id": "SAMA_TRAIL_YOSEMITE_TRAILS_Q0038",
+      "image_id": "SAMA_TRAIL_YOSEMITE_TRAILS",
+      "image_filename": "Yosemite_trail.jpg",
+      "question": "What Food service and lodging can I find from Sentinel Creek to Illilouette Falls?",
+      "reference_answers": [
+        "Curry Village"
+      ],
+      "map_element_category": "dining location"
+    },
+    {
+      "question_id": "SAMA_TRAIL_YOSEMITE_TRAILS_Q0039",
+      "image_id": "SAMA_TRAIL_YOSEMITE_TRAILS",
+      "image_filename": "Yosemite_trail.jpg",
+      "question": "Which trails does Four Mile Trail connect with along its path?",
+      "reference_answers": [
+        "None marked mid-path (connects valley to Glacier Point)"
+      ],
+      "map_element_category": "path"
+    },
+    {
+      "question_id": "SAMA_TRAIL_YOSEMITE_TRAILS_Q0040",
+      "image_id": "SAMA_TRAIL_YOSEMITE_TRAILS",
+      "image_filename": "Yosemite_trail.jpg",
+      "question": "in which map direction is the museum located from Leaning Tower?",
+      "reference_answers": [
+        "Northeast"
+      ],
+      "map_element_category": "direction"
+    },
+    {
+      "question_id": "SAMA_TRAIL_YOSEMITE_TRAILS_Q0041",
+      "image_id": "SAMA_TRAIL_YOSEMITE_TRAILS",
+      "image_filename": "Yosemite_trail.jpg",
+      "question": "Where is Glacier Point located from Yosemite Conservation Heritage Center?",
+      "reference_answers": [
+        "Southeast"
+      ],
+      "map_element_category": "location"
+    },
+    {
+      "question_id": "SAMA_TRAIL_YOSEMITE_TRAILS_Q0042",
+      "image_id": "SAMA_TRAIL_YOSEMITE_TRAILS",
+      "image_filename": "Yosemite_trail.jpg",
+      "question": "How many different trails intersect Half Dome Trail?",
+      "reference_answers": [
+        "One (John Muir Trail)"
+      ],
+      "map_element_category": "path"
+    },
+    {
+      "question_id": "SAMA_TRAIL_YOSEMITE_TRAILS_Q0043",
+      "image_id": "SAMA_TRAIL_YOSEMITE_TRAILS",
+      "image_filename": "Yosemite_trail.jpg",
+      "question": "How many Highlands are located from Cathedral Beach towards US court?",
+      "reference_answers": [
+        "7 (Eagle peak, Middle Brother, Lower brother, Taft point, Roosevelt point, Sentinel Dome, Yosemite point)"
+      ],
+      "map_element_category": "attraction"
+    },
+    {
+      "question_id": "SAMA_TRAIL_YOSEMITE_TRAILS_Q0044",
+      "image_id": "SAMA_TRAIL_YOSEMITE_TRAILS",
+      "image_filename": "Yosemite_trail.jpg",
+      "question": "Where is Little Yosemite Valley located from Yosemite Exploration Center and Theater?",
+      "reference_answers": [
+        "Southeast"
+      ],
+      "map_element_category": "location"
+    },
+    {
+      "question_id": "SAMA_TRAIL_YOSEMITE_TRAILS_Q0045",
+      "image_id": "SAMA_TRAIL_YOSEMITE_TRAILS",
+      "image_filename": "Yosemite_trail.jpg",
+      "question": "in which map direction is the El Capitan Bridge located from Royal Arch Creek?",
+      "reference_answers": [
+        "Southwest"
+      ],
+      "map_element_category": "direction"
+    },
+    {
+      "question_id": "SAMA_TRAIL_YOSEMITE_TRAILS_Q0046",
+      "image_id": "SAMA_TRAIL_YOSEMITE_TRAILS",
+      "image_filename": "Yosemite_trail.jpg",
+      "question": "Which trails intersect or merge with John Muir Trail near Upper Yosemite Fall Trail?",
+      "reference_answers": [
+        "None"
+      ],
+      "map_element_category": "path"
+    },
+    {
+      "question_id": "SAMA_TRAIL_YOSEMITE_TRAILS_Q0047",
+      "image_id": "SAMA_TRAIL_YOSEMITE_TRAILS",
+      "image_filename": "Yosemite_trail.jpg",
+      "question": "Which trails does John Muir Trail connect with along its path?",
+      "reference_answers": [
+        "Mist Trail, Half Dome Trail"
+      ],
+      "map_element_category": "path"
+    },
+    {
+      "question_id": "SAMA_TRAIL_YOSEMITE_TRAILS_Q0048",
+      "image_id": "SAMA_TRAIL_YOSEMITE_TRAILS",
+      "image_filename": "Yosemite_trail.jpg",
+      "question": "Which trails intersect or merge with Half Dome Trail near Upper Yosemite Fall Trail?",
+      "reference_answers": [
+        "None"
+      ],
+      "map_element_category": "path"
+    },
+    {
+      "question_id": "SAMA_TRAIL_YOSEMITE_TRAILS_Q0049",
+      "image_id": "SAMA_TRAIL_YOSEMITE_TRAILS",
+      "image_filename": "Yosemite_trail.jpg",
+      "question": "Does Lower Yosemite Fall Trail form a loop that starts and ends at Lower Yosemite Fall Trail, or is it an out-and-back trail?",
+      "reference_answers": [
+        "Loop"
+      ],
+      "map_element_category": "path"
+    },
+    {
+      "question_id": "SAMA_TRAIL_YOSEMITE_TRAILS_Q0050",
+      "image_id": "SAMA_TRAIL_YOSEMITE_TRAILS",
+      "image_filename": "Yosemite_trail.jpg",
+      "question": "List all trailheads that are accessible from John Muir Trail without leaving marked paths.",
+      "reference_answers": [
+        "Trailhead for Vernal, Fall, Nevada Fall, and John Muir Trail"
+      ],
+      "map_element_category": "facility"
+    }
+  ]
+}

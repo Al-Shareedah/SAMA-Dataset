@@ -1,0 +1,2257 @@
+{
+  "dataset": "SAMA",
+  "category": "museum",
+  "question_count": 250,
+  "questions": [
+    {
+      "question_id": "SAMA_MUSEUM_AMERICAN_MUSEUM_Q0001",
+      "image_id": "SAMA_MUSEUM_AMERICAN_MUSEUM",
+      "image_filename": "American_musuem_natural_history.avif",
+      "question": "How many lifts are in the Rose center?",
+      "reference_answers": [
+        "2.0"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_AMERICAN_MUSEUM_Q0002",
+      "image_id": "SAMA_MUSEUM_AMERICAN_MUSEUM",
+      "image_filename": "American_musuem_natural_history.avif",
+      "question": "In which map direction is Planet Earth located relative to Planetarium?",
+      "reference_answers": [
+        "South"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_AMERICAN_MUSEUM_Q0003",
+      "image_id": "SAMA_MUSEUM_AMERICAN_MUSEUM",
+      "image_filename": "American_musuem_natural_history.avif",
+      "question": "Are there any Retail within a short walk of Rose Center for Earth and Space?",
+      "reference_answers": [
+        "No, the closest is a moderate walk near the Giant Screen Theater."
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_AMERICAN_MUSEUM_Q0004",
+      "image_id": "SAMA_MUSEUM_AMERICAN_MUSEUM",
+      "image_filename": "American_musuem_natural_history.avif",
+      "question": "Which Dining is located in the south of Rose Center for Earth and Space?",
+      "reference_answers": [
+        "None"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_AMERICAN_MUSEUM_Q0005",
+      "image_id": "SAMA_MUSEUM_AMERICAN_MUSEUM",
+      "image_filename": "American_musuem_natural_history.avif",
+      "question": "Where can I find an accessible restroom west of Planet Earth?",
+      "reference_answers": [
+        "In north american mammals"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_AMERICAN_MUSEUM_Q0006",
+      "image_id": "SAMA_MUSEUM_AMERICAN_MUSEUM",
+      "image_filename": "American_musuem_natural_history.avif",
+      "question": "Which Dining can I find from Futter Gallery towards Planetarium?",
+      "reference_answers": [
+        "None"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_AMERICAN_MUSEUM_Q0007",
+      "image_id": "SAMA_MUSEUM_AMERICAN_MUSEUM",
+      "image_filename": "American_musuem_natural_history.avif",
+      "question": "How many restaurant are there in the museum?",
+      "reference_answers": [
+        "one"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_AMERICAN_MUSEUM_Q0008",
+      "image_id": "SAMA_MUSEUM_AMERICAN_MUSEUM",
+      "image_filename": "American_musuem_natural_history.avif",
+      "question": "Where is the nearest restroom of Planetarium?",
+      "reference_answers": [
+        "West of Planetarium"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_AMERICAN_MUSEUM_Q0009",
+      "image_id": "SAMA_MUSEUM_AMERICAN_MUSEUM",
+      "image_filename": "American_musuem_natural_history.avif",
+      "question": "Where can I find the nearest accesible restroom from Planetarium?",
+      "reference_answers": [
+        "West of Planetarium"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_AMERICAN_MUSEUM_Q0010",
+      "image_id": "SAMA_MUSEUM_AMERICAN_MUSEUM",
+      "image_filename": "American_musuem_natural_history.avif",
+      "question": "What map direction should I head toward to reach the closest Parking from the Planetarium?",
+      "reference_answers": [
+        "North"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_AMERICAN_MUSEUM_Q0011",
+      "image_id": "SAMA_MUSEUM_AMERICAN_MUSEUM",
+      "image_filename": "American_musuem_natural_history.avif",
+      "question": "How close is the closest Dining from Planetarium (short/moderate/long walk)?",
+      "reference_answers": [
+        "Long walk"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_AMERICAN_MUSEUM_Q0012",
+      "image_id": "SAMA_MUSEUM_AMERICAN_MUSEUM",
+      "image_filename": "American_musuem_natural_history.avif",
+      "question": "What is the closest restroom from Rose Center for Earth and Space?",
+      "reference_answers": [
+        "shortwalk towards north and the restroom is west of the planeterium"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_AMERICAN_MUSEUM_Q0013",
+      "image_id": "SAMA_MUSEUM_AMERICAN_MUSEUM",
+      "image_filename": "American_musuem_natural_history.avif",
+      "question": "Where is the closest Retail east of Rose Center for Earth and Space?",
+      "reference_answers": [
+        "None"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_AMERICAN_MUSEUM_Q0014",
+      "image_id": "SAMA_MUSEUM_AMERICAN_MUSEUM",
+      "image_filename": "American_musuem_natural_history.avif",
+      "question": "What is the closest Retail from North American Forests towards Theodore Roosevelt Memorial Hall?",
+      "reference_answers": [
+        "None directly on path; closest is near Ocean Life"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_AMERICAN_MUSEUM_Q0015",
+      "image_id": "SAMA_MUSEUM_AMERICAN_MUSEUM",
+      "image_filename": "American_musuem_natural_history.avif",
+      "question": "What is the name of the street that I can access the parking lot from?",
+      "reference_answers": [
+        "81st street"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_AMERICAN_MUSEUM_Q0016",
+      "image_id": "SAMA_MUSEUM_AMERICAN_MUSEUM",
+      "image_filename": "American_musuem_natural_history.avif",
+      "question": "Are there any classroom in the Human Origins room?",
+      "reference_answers": [
+        "Yes"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_AMERICAN_MUSEUM_Q0017",
+      "image_id": "SAMA_MUSEUM_AMERICAN_MUSEUM",
+      "image_filename": "American_musuem_natural_history.avif",
+      "question": "What is the nearest Stairs Icon to Rose Center for Earth and Space?",
+      "reference_answers": [
+        "Inside the Rose Center (Planetarium and Planet Earth)"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_AMERICAN_MUSEUM_Q0018",
+      "image_id": "SAMA_MUSEUM_AMERICAN_MUSEUM",
+      "image_filename": "American_musuem_natural_history.avif",
+      "question": "How many Accesible amenities are in Rose Center for Earth and Space?",
+      "reference_answers": [
+        "One , elevators"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_AMERICAN_MUSEUM_Q0019",
+      "image_id": "SAMA_MUSEUM_AMERICAN_MUSEUM",
+      "image_filename": "American_musuem_natural_history.avif",
+      "question": "What does the Wheelchair Figure icon represent on this map?",
+      "reference_answers": [
+        "Accessible restroom"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_AMERICAN_MUSEUM_Q0020",
+      "image_id": "SAMA_MUSEUM_AMERICAN_MUSEUM",
+      "image_filename": "American_musuem_natural_history.avif",
+      "question": "How many entrances are shown in the map?",
+      "reference_answers": [
+        "three."
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_AMERICAN_MUSEUM_Q0021",
+      "image_id": "SAMA_MUSEUM_AMERICAN_MUSEUM",
+      "image_filename": "American_musuem_natural_history.avif",
+      "question": "Where is the main entrance located relative to the rest of the map (e.g., top, bottom, specific zone)?",
+      "reference_answers": [
+        "East side (\"Access from 81st st.\") and bottom center (Theodore Roosevelt Memorial Hall)"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_AMERICAN_MUSEUM_Q0022",
+      "image_id": "SAMA_MUSEUM_AMERICAN_MUSEUM",
+      "image_filename": "American_musuem_natural_history.avif",
+      "question": "Which major Dining or areas are closest to the Entrance?",
+      "reference_answers": [
+        "Only dining is near Flutter gallery"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_AMERICAN_MUSEUM_Q0023",
+      "image_id": "SAMA_MUSEUM_AMERICAN_MUSEUM",
+      "image_filename": "American_musuem_natural_history.avif",
+      "question": "List the main Venue that are the closest to the primary path from the Access from 81st St.",
+      "reference_answers": [
+        "Gilder Center"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_AMERICAN_MUSEUM_Q0024",
+      "image_id": "SAMA_MUSEUM_AMERICAN_MUSEUM",
+      "image_filename": "American_musuem_natural_history.avif",
+      "question": "If I enter from the parking lot entrance what are the exhibits or galleries I will encounter?",
+      "reference_answers": [
+        "Giant screen theater and Insectarium"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_AMERICAN_MUSEUM_Q0025",
+      "image_id": "SAMA_MUSEUM_AMERICAN_MUSEUM",
+      "image_filename": "American_musuem_natural_history.avif",
+      "question": "What are the attractions that have a classroom?",
+      "reference_answers": [
+        "Human Origins and Northwest Coast"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_AMERICAN_MUSEUM_Q0026",
+      "image_id": "SAMA_MUSEUM_AMERICAN_MUSEUM",
+      "image_filename": "American_musuem_natural_history.avif",
+      "question": "What accessibility amenities are offered according to the map legend?",
+      "reference_answers": [
+        "Lift, Accessible restroom"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_AMERICAN_MUSEUM_Q0027",
+      "image_id": "SAMA_MUSEUM_AMERICAN_MUSEUM",
+      "image_filename": "American_musuem_natural_history.avif",
+      "question": "What is the attraction/exhibit south of New York State Environment?",
+      "reference_answers": [
+        "North American Forests"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_AMERICAN_MUSEUM_Q0028",
+      "image_id": "SAMA_MUSEUM_AMERICAN_MUSEUM",
+      "image_filename": "American_musuem_natural_history.avif",
+      "question": "Where are the family/inclusive restrooms on the map?",
+      "reference_answers": [
+        "Only near Flutter Gallery and Northwest Coast"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_AMERICAN_MUSEUM_Q0029",
+      "image_id": "SAMA_MUSEUM_AMERICAN_MUSEUM",
+      "image_filename": "American_musuem_natural_history.avif",
+      "question": "What is the illustration above North american mammals for?",
+      "reference_answers": [
+        "Bear to indicate that similar animals will be shown there"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_AMERICAN_MUSEUM_Q0030",
+      "image_id": "SAMA_MUSEUM_AMERICAN_MUSEUM",
+      "image_filename": "American_musuem_natural_history.avif",
+      "question": "I am currently at Gems and Minerals, where is the closest shop I can get to?",
+      "reference_answers": [
+        "Shop at Giant screen theater"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_AMERICAN_MUSEUM_Q0031",
+      "image_id": "SAMA_MUSEUM_AMERICAN_MUSEUM",
+      "image_filename": "American_musuem_natural_history.avif",
+      "question": "Suggest a walking route starting from the Insectarium that visits the Gems and Minerals and ends at a nearby café or food court.",
+      "reference_answers": [
+        "Walk west to Gems and Minerals, then continue west past Meteorites to the Restaurant"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_AMERICAN_MUSEUM_Q0032",
+      "image_id": "SAMA_MUSEUM_AMERICAN_MUSEUM",
+      "image_filename": "American_musuem_natural_history.avif",
+      "question": "Which Dining are on the way from Planetarium to Giant Screen Theater?",
+      "reference_answers": [
+        "None"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_AMERICAN_MUSEUM_Q0033",
+      "image_id": "SAMA_MUSEUM_AMERICAN_MUSEUM",
+      "image_filename": "American_musuem_natural_history.avif",
+      "question": "Are there any Dining within a short walk of Rose Center for Earth and Space?",
+      "reference_answers": [
+        "No"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_AMERICAN_MUSEUM_Q0034",
+      "image_id": "SAMA_MUSEUM_AMERICAN_MUSEUM",
+      "image_filename": "American_musuem_natural_history.avif",
+      "question": "Which Dining is close to Theodre Roosevelt Memorial Hall?",
+      "reference_answers": [
+        "Only food place according to the map is near Flutter Gallery"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_AMERICAN_MUSEUM_Q0035",
+      "image_id": "SAMA_MUSEUM_AMERICAN_MUSEUM",
+      "image_filename": "American_musuem_natural_history.avif",
+      "question": "How many classrooms are shown in the map?",
+      "reference_answers": [
+        "Only one near the Meteorites"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_AMERICAN_MUSEUM_Q0036",
+      "image_id": "SAMA_MUSEUM_AMERICAN_MUSEUM",
+      "image_filename": "American_musuem_natural_history.avif",
+      "question": "Which Dining can I find from Meteorite towards Planetarium?",
+      "reference_answers": [
+        "Only food place according to the map is near Flutter Gallery"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_AMERICAN_MUSEUM_Q0037",
+      "image_id": "SAMA_MUSEUM_AMERICAN_MUSEUM",
+      "image_filename": "American_musuem_natural_history.avif",
+      "question": "What location has Dining from Planetarium towards North American Mammals?",
+      "reference_answers": [
+        "None"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_AMERICAN_MUSEUM_Q0038",
+      "image_id": "SAMA_MUSEUM_AMERICAN_MUSEUM",
+      "image_filename": "American_musuem_natural_history.avif",
+      "question": "What map direction should I head toward to reach the closest Dining from Rose Center for Earth and Space?",
+      "reference_answers": [
+        "West"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_AMERICAN_MUSEUM_Q0039",
+      "image_id": "SAMA_MUSEUM_AMERICAN_MUSEUM",
+      "image_filename": "American_musuem_natural_history.avif",
+      "question": "What is the closest Service southeast of Giant Screen Theater?",
+      "reference_answers": [
+        "Info desk and restrooms in Theodore Roosevelt Memorial Hall"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_AMERICAN_MUSEUM_Q0040",
+      "image_id": "SAMA_MUSEUM_AMERICAN_MUSEUM",
+      "image_filename": "American_musuem_natural_history.avif",
+      "question": "Where is the closest Dining north of Ocean Life?",
+      "reference_answers": [
+        "Only food place according to the map is near Flutter Gallery"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_AMERICAN_MUSEUM_Q0041",
+      "image_id": "SAMA_MUSEUM_AMERICAN_MUSEUM",
+      "image_filename": "American_musuem_natural_history.avif",
+      "question": "Where can I find accesible restroom close to North American Forest?",
+      "reference_answers": [
+        "Walk east towards the Ocean Life ( two there) and One by the Flutter Gallery (walk north)"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_AMERICAN_MUSEUM_Q0042",
+      "image_id": "SAMA_MUSEUM_AMERICAN_MUSEUM",
+      "image_filename": "American_musuem_natural_history.avif",
+      "question": "Where is the closest information center from Planetarium towards North American Mammals?",
+      "reference_answers": [
+        "One by the Theodore Roosevelt Memorial Hall"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_AMERICAN_MUSEUM_Q0043",
+      "image_id": "SAMA_MUSEUM_AMERICAN_MUSEUM",
+      "image_filename": "American_musuem_natural_history.avif",
+      "question": "Where can I find the Wheelchair Figure/ Accesible restroom  icon on the map?",
+      "reference_answers": [
+        "Near Ocean Life (4), Between Human Origins and Northwest Coast , Between Planeterium and North American mammals"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_AMERICAN_MUSEUM_Q0044",
+      "image_id": "SAMA_MUSEUM_AMERICAN_MUSEUM",
+      "image_filename": "American_musuem_natural_history.avif",
+      "question": "What is the nearest Lift Icon (Up/Down Arrows) icon to Planetarium?",
+      "reference_answers": [
+        "Inside the Planetarium"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_AMERICAN_MUSEUM_Q0045",
+      "image_id": "SAMA_MUSEUM_AMERICAN_MUSEUM",
+      "image_filename": "American_musuem_natural_history.avif",
+      "question": "How many Lift Icon (Up/Down Arrows) icons are in Rose Center for Earth and Space?",
+      "reference_answers": [
+        "2.0"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_AMERICAN_MUSEUM_Q0046",
+      "image_id": "SAMA_MUSEUM_AMERICAN_MUSEUM",
+      "image_filename": "American_musuem_natural_history.avif",
+      "question": "What does the Stairs Icon represent on this map?",
+      "reference_answers": [
+        "Stairs"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_AMERICAN_MUSEUM_Q0047",
+      "image_id": "SAMA_MUSEUM_AMERICAN_MUSEUM",
+      "image_filename": "American_musuem_natural_history.avif",
+      "question": "Which major Service or areas are closest to the Entrance?",
+      "reference_answers": [
+        "Info desk and restrooms near Theodore Roosevelt Memorial Hall"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_AMERICAN_MUSEUM_Q0048",
+      "image_id": "SAMA_MUSEUM_AMERICAN_MUSEUM",
+      "image_filename": "American_musuem_natural_history.avif",
+      "question": "List the main exhibits or galleries that are the closest to the primary path from the Entrance?",
+      "reference_answers": [
+        "Gilder Center, Giant Screen, planetarium, North American Mammals"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_AMERICAN_MUSEUM_Q0049",
+      "image_id": "SAMA_MUSEUM_AMERICAN_MUSEUM",
+      "image_filename": "American_musuem_natural_history.avif",
+      "question": "Suggest a walking route starting from Ocean Life that visits Biodiversity and ends at a nearby café or food court?",
+      "reference_answers": [
+        "Walk south to Biodiversity, then west towards the North American Forest keep walking north to past Futter Gallery to the Restaurant"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_AMERICAN_MUSEUM_Q0050",
+      "image_id": "SAMA_MUSEUM_AMERICAN_MUSEUM",
+      "image_filename": "American_musuem_natural_history.avif",
+      "question": "Is there an exist from North American Forests?",
+      "reference_answers": [
+        "No"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM_Q0001",
+      "image_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM",
+      "image_filename": "Discovery_Museum.webp",
+      "question": "In which map direction is Retail located relative to Main Entrance?",
+      "reference_answers": [
+        "North and West"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM_Q0002",
+      "image_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM",
+      "image_filename": "Discovery_Museum.webp",
+      "question": "Are there any Retail within a short walk of The Red Balloon Toy Store?",
+      "reference_answers": [
+        "No"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM_Q0003",
+      "image_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM",
+      "image_filename": "Discovery_Museum.webp",
+      "question": "Which Service is located in the northwest of Main Entrance?",
+      "reference_answers": [
+        "First Aid (Red Cross)"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM_Q0004",
+      "image_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM",
+      "image_filename": "Discovery_Museum.webp",
+      "question": "What services are provided at this museum?",
+      "reference_answers": [
+        "Stairs, elevator, restrooms, first-aid, lockers"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM_Q0005",
+      "image_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM",
+      "image_filename": "Discovery_Museum.webp",
+      "question": "What location has Service from Admissions Desk towards The Bee Garden?",
+      "reference_answers": [
+        "First Aid (Red Cross)"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM_Q0006",
+      "image_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM",
+      "image_filename": "Discovery_Museum.webp",
+      "question": "If I heard East from the entrance, where will I end up?",
+      "reference_answers": [
+        "Parking garage"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM_Q0007",
+      "image_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM",
+      "image_filename": "Discovery_Museum.webp",
+      "question": "What will I find at Level 0?",
+      "reference_answers": [
+        "Lower Atrium, The Learning Center, Musical Stairs"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM_Q0008",
+      "image_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM",
+      "image_filename": "Discovery_Museum.webp",
+      "question": "What map direction should I head toward to reach the closest Retail from the STEAM Lab?",
+      "reference_answers": [
+        "You must change levels to the Main Level"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM_Q0009",
+      "image_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM",
+      "image_filename": "Discovery_Museum.webp",
+      "question": "How close is the closest Retail from The Bee Garden (short/moderate/long walk)?",
+      "reference_answers": [
+        "Short walk"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM_Q0010",
+      "image_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM",
+      "image_filename": "Discovery_Museum.webp",
+      "question": "What is the closest exhibit North of The Red Balloon Toy Store?",
+      "reference_answers": [
+        "The Honey Climber"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM_Q0011",
+      "image_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM",
+      "image_filename": "Discovery_Museum.webp",
+      "question": "Where is the closest exhibit East of Busy Bee Playhouse?",
+      "reference_answers": [
+        "Mark Miller Subaru Express Service"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM_Q0012",
+      "image_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM",
+      "image_filename": "Discovery_Museum.webp",
+      "question": "How many stairs take me to the Upper Level?",
+      "reference_answers": [
+        "There are 4 stairs you can take to the Upper Level"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM_Q0013",
+      "image_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM",
+      "image_filename": "Discovery_Museum.webp",
+      "question": "Where is the closest restroom if I am at I Dig Dinos?",
+      "reference_answers": [
+        "The restroom West of Birthday Room"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM_Q0014",
+      "image_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM",
+      "image_filename": "Discovery_Museum.webp",
+      "question": "Where can I find the Elevator Icon (Up/Down Arrows) icon on the map?",
+      "reference_answers": [
+        "Main Level (near Kids Eye View/Restrooms) & Upper Level (near DG Derby)"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM_Q0015",
+      "image_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM",
+      "image_filename": "Discovery_Museum.webp",
+      "question": "What is the nearest Stairs Icon (Zig-zag) icon to STEAM Lab?",
+      "reference_answers": [
+        "Immediately adjacent to the STEAM Lab"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM_Q0016",
+      "image_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM",
+      "image_filename": "Discovery_Museum.webp",
+      "question": "How many Wheelchair Figure icons are in Upper Atrium?",
+      "reference_answers": [
+        "0.0"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM_Q0017",
+      "image_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM",
+      "image_filename": "Discovery_Museum.webp",
+      "question": "What does the Red Cross icon represent on this map?",
+      "reference_answers": [
+        "First Aid"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM_Q0018",
+      "image_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM",
+      "image_filename": "Discovery_Museum.webp",
+      "question": "How many entrances are shown in the map?",
+      "reference_answers": [
+        "2 (Main Entrance and I Dig Dinos Entrance)"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM_Q0019",
+      "image_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM",
+      "image_filename": "Discovery_Museum.webp",
+      "question": "Where is the main entrance located relative to the rest of the map (e.g., top, bottom, specific zone)?",
+      "reference_answers": [
+        "South edge (far left side of the map)"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM_Q0020",
+      "image_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM",
+      "image_filename": "Discovery_Museum.webp",
+      "question": "Which major Retail or areas are closest to the Entrance?",
+      "reference_answers": [
+        "Admissions Desk, The Red Balloon Toy Store, Kem & Carolyn Gardner Theater"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM_Q0021",
+      "image_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM",
+      "image_filename": "Discovery_Museum.webp",
+      "question": "What is the closest exhibit to Story Factory?",
+      "reference_answers": [
+        "Colors in Motion"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM_Q0022",
+      "image_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM",
+      "image_filename": "Discovery_Museum.webp",
+      "question": "If I turn right at the Entrance and follow the path, what are the exhibits or galleries I will encounter?",
+      "reference_answers": [
+        "Kem & Carolyn Gardner Theater"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM_Q0023",
+      "image_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM",
+      "image_filename": "Discovery_Museum.webp",
+      "question": "What exhibit is in front of the Sensory Room?",
+      "reference_answers": [
+        "Colors in Motion, DG Derby"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM_Q0024",
+      "image_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM",
+      "image_filename": "Discovery_Museum.webp",
+      "question": "Where is the Nursing Room located on the map?",
+      "reference_answers": [
+        "Main Level, top right"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM_Q0025",
+      "image_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM",
+      "image_filename": "Discovery_Museum.webp",
+      "question": "What service is East of The Honey Climber?",
+      "reference_answers": [
+        "Lockers"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM_Q0026",
+      "image_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM",
+      "image_filename": "Discovery_Museum.webp",
+      "question": "Where are the family/inclusive restrooms on the map?",
+      "reference_answers": [
+        "Near Kem & Carolyn Theater, Lockers, Kids Eye View, and I Dig Dinos, The Learning Center"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM_Q0027",
+      "image_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM",
+      "image_filename": "Discovery_Museum.webp",
+      "question": "Where can I get beverages near The Red Balloon Toy Store?",
+      "reference_answers": [
+        "None but there are many snack themed exhibits"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM_Q0028",
+      "image_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM",
+      "image_filename": "Discovery_Museum.webp",
+      "question": "I am currently at Upper Atrium. Where is the closest place I can get ice cream?",
+      "reference_answers": [
+        "None shown on the map"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM_Q0029",
+      "image_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM",
+      "image_filename": "Discovery_Museum.webp",
+      "question": "Suggest a walking route starting from The Bee Garden that visits Story Factory and ends at a nearby café or food court.",
+      "reference_answers": [
+        "Take nearby stairs to Upper Level, walk North to Story Factory, but there are no dining area listed on the map"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM_Q0030",
+      "image_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM",
+      "image_filename": "Discovery_Museum.webp",
+      "question": "Which Service are on the way from Admissions Desk to Upper Atrium?",
+      "reference_answers": [
+        "Elevator"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM_Q0031",
+      "image_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM",
+      "image_filename": "Discovery_Museum.webp",
+      "question": "What exhbit is East of First Utah Bank Discovery Branch?",
+      "reference_answers": [
+        "Utah Family Farm"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM_Q0032",
+      "image_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM",
+      "image_filename": "Discovery_Museum.webp",
+      "question": "In which map direction is Service located relative to Main Entrance?",
+      "reference_answers": [
+        "East (Restrooms) and Northwest (First Aid)"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM_Q0033",
+      "image_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM",
+      "image_filename": "Discovery_Museum.webp",
+      "question": "Are there any Retail within a short walk of DG Derby?",
+      "reference_answers": [
+        "No"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM_Q0034",
+      "image_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM",
+      "image_filename": "Discovery_Museum.webp",
+      "question": "Which Retail is located in the northeast of STEAM Lab?",
+      "reference_answers": [
+        "None"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM_Q0035",
+      "image_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM",
+      "image_filename": "Discovery_Museum.webp",
+      "question": "What service is South of Stillson River?",
+      "reference_answers": [
+        "Restroom, stairs"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM_Q0036",
+      "image_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM",
+      "image_filename": "Discovery_Museum.webp",
+      "question": "How many restrooms does the Discovery Museum have?",
+      "reference_answers": [
+        "5.0"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM_Q0037",
+      "image_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM",
+      "image_filename": "Discovery_Museum.webp",
+      "question": "Are there lockers on the upper level?",
+      "reference_answers": [
+        "No, there is a locker on the main level"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM_Q0038",
+      "image_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM",
+      "image_filename": "Discovery_Museum.webp",
+      "question": "Where is the Intermountain Healthcare Saving Lives located on the map?",
+      "reference_answers": [
+        "Top left (upper level)"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM_Q0039",
+      "image_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM",
+      "image_filename": "Discovery_Museum.webp",
+      "question": "What map direction should I head toward to reach the closest restroom from Sensory Room?",
+      "reference_answers": [
+        "South"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM_Q0040",
+      "image_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM",
+      "image_filename": "Discovery_Museum.webp",
+      "question": "How many levels does this museum have?",
+      "reference_answers": [
+        "3.0"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM_Q0041",
+      "image_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM",
+      "image_filename": "Discovery_Museum.webp",
+      "question": "What is the closest Retail from Admissions Desk towards The Bee Garden?",
+      "reference_answers": [
+        "The Red Balloon Toy Store"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM_Q0042",
+      "image_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM",
+      "image_filename": "Discovery_Museum.webp",
+      "question": "Where is the closest Service from Upper Atrium towards The Red Balloon Toy Store?",
+      "reference_answers": [
+        "First Aid (Red Cross)"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM_Q0043",
+      "image_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM",
+      "image_filename": "Discovery_Museum.webp",
+      "question": "What is the nearest Red Cross icon to Admissions Desk?",
+      "reference_answers": [
+        "Between The Red Balloon Toy Store and The Bee Garden"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM_Q0044",
+      "image_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM",
+      "image_filename": "Discovery_Museum.webp",
+      "question": "What does the Elevator Icon (Up/Down Arrows) icon represent on this map?",
+      "reference_answers": [
+        "Elevators for moving between levels"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM_Q0045",
+      "image_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM",
+      "image_filename": "Discovery_Museum.webp",
+      "question": "If I turn left at the Entrance and follow the path, what are the exhibits or galleries I will encounter?",
+      "reference_answers": [
+        "Upper Atrium, Musical Stairs"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM_Q0046",
+      "image_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM",
+      "image_filename": "Discovery_Museum.webp",
+      "question": "What are the directions on the compass?",
+      "reference_answers": [
+        "West (top), North (right), East (down), South (left)"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM_Q0047",
+      "image_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM",
+      "image_filename": "Discovery_Museum.webp",
+      "question": "I am currently at Story Factory. Where is the closest place I can get ice cream?",
+      "reference_answers": [
+        "None shown on the map"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM_Q0048",
+      "image_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM",
+      "image_filename": "Discovery_Museum.webp",
+      "question": "Suggest a walking route starting from The Bee Garden that visits Kids Eye View and ends at a nearby café or food court.",
+      "reference_answers": [
+        "Walk North past The Pollinator to Kids Eye View, then North to Ruby Snap Cookie Shop"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM_Q0049",
+      "image_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM",
+      "image_filename": "Discovery_Museum.webp",
+      "question": "How far is the walk from Art Studio to I Dig Dinos?",
+      "reference_answers": [
+        "Far walk (different levels)"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM_Q0050",
+      "image_id": "SAMA_MUSEUM_DISCOVERY_MUSEUM",
+      "image_filename": "Discovery_Museum.webp",
+      "question": "How many Retail are near The Bee Garden?",
+      "reference_answers": [
+        "1 (The Red Balloon Toy Store)"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA_Q0001",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA",
+      "image_filename": "natural_history_muesum_santa_barbara.jpg",
+      "question": "How many Retail are near Admissions?",
+      "reference_answers": [
+        "1 (Museum Store)."
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA_Q0002",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA",
+      "image_filename": "natural_history_muesum_santa_barbara.jpg",
+      "question": "In which map direction is Retail located relative to Admissions?",
+      "reference_answers": [
+        "East"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA_Q0003",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA",
+      "image_filename": "natural_history_muesum_santa_barbara.jpg",
+      "question": "Is there parking at this museum?",
+      "reference_answers": [
+        "Yes, there is parking"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA_Q0004",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA",
+      "image_filename": "natural_history_muesum_santa_barbara.jpg",
+      "question": "Which Facility is located in the north of Admissions?",
+      "reference_answers": [
+        "No facilities is located North of admission"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA_Q0005",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA",
+      "image_filename": "natural_history_muesum_santa_barbara.jpg",
+      "question": "What is located North of Blue Whale Skeleton?",
+      "reference_answers": [
+        "Parking lot"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA_Q0006",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA",
+      "image_filename": "natural_history_muesum_santa_barbara.jpg",
+      "question": "Which Facility can I find from Admissions towards Bird Hall?",
+      "reference_answers": [
+        "Santa Barbara Gallery and Mammal Hall."
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA_Q0007",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA",
+      "image_filename": "natural_history_muesum_santa_barbara.jpg",
+      "question": "What location has Service from Fleischmann Auditorium towards Blue Whale Skeleton?",
+      "reference_answers": [
+        "Restroom/(Gate/Keypad (code 2559#))"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA_Q0008",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA",
+      "image_filename": "natural_history_muesum_santa_barbara.jpg",
+      "question": "What is the nearest Service from Admissions?",
+      "reference_answers": [
+        "The Restrooms (Northeast) or Gate/Keypad (East)."
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA_Q0009",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA",
+      "image_filename": "natural_history_muesum_santa_barbara.jpg",
+      "question": "Are there designated smoking areas?",
+      "reference_answers": [
+        "No, the museum is a non-smoking campus"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA_Q0010",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA",
+      "image_filename": "natural_history_muesum_santa_barbara.jpg",
+      "question": "What map direction should I head toward to reach the closest Service from Admissions?",
+      "reference_answers": [
+        "Southwest"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA_Q0011",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA",
+      "image_filename": "natural_history_muesum_santa_barbara.jpg",
+      "question": "How close is the closest Retail from Bird Hall (short walk)?",
+      "reference_answers": [
+        "It is a short walk."
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA_Q0012",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA",
+      "image_filename": "natural_history_muesum_santa_barbara.jpg",
+      "question": "Am I allowed to bring my pets into the museum?",
+      "reference_answers": [
+        "No, the museum is pet-free"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA_Q0013",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA",
+      "image_filename": "natural_history_muesum_santa_barbara.jpg",
+      "question": "What facility is near Nature Club House?",
+      "reference_answers": [
+        "Live Birds"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA_Q0014",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA",
+      "image_filename": "natural_history_muesum_santa_barbara.jpg",
+      "question": "Where is the MacVeagh House located on the map?",
+      "reference_answers": [
+        "West (center-right)"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA_Q0015",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA",
+      "image_filename": "natural_history_muesum_santa_barbara.jpg",
+      "question": "Where can I find the Dodo / Bird Illustration icon on the map?",
+      "reference_answers": [
+        "Inside the Maximus Art Gallery."
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA_Q0016",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA",
+      "image_filename": "natural_history_muesum_santa_barbara.jpg",
+      "question": "What is the nearest Dinosaur Silhouette icon to Admissions?",
+      "reference_answers": [
+        "At the Prehistoric Forest (across Mission Creek)."
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA_Q0017",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA",
+      "image_filename": "natural_history_muesum_santa_barbara.jpg",
+      "question": "What is near Sprague Butterfly Pavillion?",
+      "reference_answers": [
+        "Space Sciences & Planetarium"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA_Q0018",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA",
+      "image_filename": "natural_history_muesum_santa_barbara.jpg",
+      "question": "How many entrances are shown in the map?",
+      "reference_answers": [
+        "1 main Entrance (plus a coded gate)."
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA_Q0019",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA",
+      "image_filename": "natural_history_muesum_santa_barbara.jpg",
+      "question": "Where is the main entrance located relative to the rest of the map (e.g., top, bottom, specific zone)?",
+      "reference_answers": [
+        "Bottom / North"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA_Q0020",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA",
+      "image_filename": "natural_history_muesum_santa_barbara.jpg",
+      "question": "Which major Retail or areas are closest to the Entrance?",
+      "reference_answers": [
+        "Blue Whale Skeleton and Admissions."
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA_Q0021",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA",
+      "image_filename": "natural_history_muesum_santa_barbara.jpg",
+      "question": "List the main exhibits or galleries that are the closest to the primary path from the Entrance.",
+      "reference_answers": [
+        "Admissions, Museum Store, Courtyard"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA_Q0022",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA",
+      "image_filename": "natural_history_muesum_santa_barbara.jpg",
+      "question": "If I turn left at Admissions and follow the path, what are the exhibits or galleries I will encounter?",
+      "reference_answers": [
+        "Museum Sotre, Santa Barbara Gallery, Mammal Hall"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA_Q0023",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA",
+      "image_filename": "natural_history_muesum_santa_barbara.jpg",
+      "question": "I am standing at Blue Whale Skeleton. List the major zones or areas I can access directly from here.",
+      "reference_answers": [
+        "Fleischmann Auditorium, Gate/Keypad, and the Entrance/Exit parking area."
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA_Q0024",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA",
+      "image_filename": "natural_history_muesum_santa_barbara.jpg",
+      "question": "What accessibility amenities are offered according to the map legend?",
+      "reference_answers": [
+        "Wheelchair-accessible restrooms."
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA_Q0025",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA",
+      "image_filename": "natural_history_muesum_santa_barbara.jpg",
+      "question": "Where can I find wheelchair/stroller-friendly services near Bird Hall?",
+      "reference_answers": [
+        "Nearest one is in Chumash Baskets"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA_Q0026",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA",
+      "image_filename": "natural_history_muesum_santa_barbara.jpg",
+      "question": "Where are the family/inclusive restrooms on the map?",
+      "reference_answers": [
+        "Chumash Baskets, Fleischmann Auditorium, Nature Club House"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA_Q0027",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA",
+      "image_filename": "natural_history_muesum_santa_barbara.jpg",
+      "question": "Where can I get beverages near Museum Backyard?",
+      "reference_answers": [
+        "None are explicitly listed on the map."
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA_Q0028",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA",
+      "image_filename": "natural_history_muesum_santa_barbara.jpg",
+      "question": "I am currently at Bird Hall. Where is the closest place I can get coffee?",
+      "reference_answers": [
+        "No coffee locations are listed on the map."
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA_Q0029",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA",
+      "image_filename": "natural_history_muesum_santa_barbara.jpg",
+      "question": "Where are the bridges to cross over the Mission Creek?",
+      "reference_answers": [
+        "Near Paleo Dig and Sukinanik'oy Garden"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA_Q0030",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA",
+      "image_filename": "natural_history_muesum_santa_barbara.jpg",
+      "question": "Which Retail are on the way from Admissions to Courtyard?",
+      "reference_answers": [
+        "Museum Store."
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA_Q0031",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA",
+      "image_filename": "natural_history_muesum_santa_barbara.jpg",
+      "question": "What is near Earth & Marine Sciences?",
+      "reference_answers": [
+        "Courtyard Gallery"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA_Q0032",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA",
+      "image_filename": "natural_history_muesum_santa_barbara.jpg",
+      "question": "Where is the Oak Tree located on the map?",
+      "reference_answers": [
+        "Center left"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA_Q0033",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA",
+      "image_filename": "natural_history_muesum_santa_barbara.jpg",
+      "question": "Are there any Retail within a short walk of Blue Whale Skeleton?",
+      "reference_answers": [
+        "Yes, the Museum Store."
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA_Q0034",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA",
+      "image_filename": "natural_history_muesum_santa_barbara.jpg",
+      "question": "Which Facility is located in the southwest of Bird Hall?",
+      "reference_answers": [
+        "Library"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA_Q0035",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA",
+      "image_filename": "natural_history_muesum_santa_barbara.jpg",
+      "question": "Where can I find Retail in the northwest of Observatory?",
+      "reference_answers": [
+        "None are shown in that direction."
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA_Q0036",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA",
+      "image_filename": "natural_history_muesum_santa_barbara.jpg",
+      "question": "How many bike icons are at this museum?",
+      "reference_answers": [
+        "2.0"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA_Q0037",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA",
+      "image_filename": "natural_history_muesum_santa_barbara.jpg",
+      "question": "What location has Service from Admissions towards Blue Whale Skeleton?",
+      "reference_answers": [
+        "The Gate/Keypad."
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA_Q0038",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA",
+      "image_filename": "natural_history_muesum_santa_barbara.jpg",
+      "question": "What is west of Gem & Minerals?",
+      "reference_answers": [
+        "Chumash Baskets"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA_Q0039",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA",
+      "image_filename": "natural_history_muesum_santa_barbara.jpg",
+      "question": "How many restrooms does this meseum have?",
+      "reference_answers": [
+        "3.0"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA_Q0040",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA",
+      "image_filename": "natural_history_muesum_santa_barbara.jpg",
+      "question": "What is South of Broder?",
+      "reference_answers": [
+        "Prehistoric Forest"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA_Q0041",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA",
+      "image_filename": "natural_history_muesum_santa_barbara.jpg",
+      "question": "When was the Museum of Comparative Oology founded?",
+      "reference_answers": [
+        "1916.0"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA_Q0042",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA",
+      "image_filename": "natural_history_muesum_santa_barbara.jpg",
+      "question": "What is the closest Facility from Admissions towards Sprague Butterfly Pavilion?",
+      "reference_answers": [
+        "Fleischmann Auditorium or Earth & Marine Sciences."
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA_Q0043",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA",
+      "image_filename": "natural_history_muesum_santa_barbara.jpg",
+      "question": "What is East of Macveagh House?",
+      "reference_answers": [
+        "Observatory"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA_Q0044",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA",
+      "image_filename": "natural_history_muesum_santa_barbara.jpg",
+      "question": "What are the directions on the compass?",
+      "reference_answers": [
+        "East (left), South (top), West (right), North (bottom)"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA_Q0045",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA",
+      "image_filename": "natural_history_muesum_santa_barbara.jpg",
+      "question": "Is this museum large?",
+      "reference_answers": [
+        "No, this museum is on the small-medium sized"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA_Q0046",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA",
+      "image_filename": "natural_history_muesum_santa_barbara.jpg",
+      "question": "What area is near prehistoric forest?",
+      "reference_answers": [
+        "Coggeshall Bowl"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA_Q0047",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA",
+      "image_filename": "natural_history_muesum_santa_barbara.jpg",
+      "question": "Which major Service or areas are closest to Courtyard?",
+      "reference_answers": [
+        "Restrooms, Gate/Keypad, and Museum Store."
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA_Q0048",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA",
+      "image_filename": "natural_history_muesum_santa_barbara.jpg",
+      "question": "Where is the Museum Backyard located on the map?",
+      "reference_answers": [
+        "Top right"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA_Q0049",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA",
+      "image_filename": "natural_history_muesum_santa_barbara.jpg",
+      "question": "If I turn right at the Entrance and follow the path, what are the exhibits or galleries I will encounter?",
+      "reference_answers": [
+        "Gem & Minerals, Chumash Baskets"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA_Q0050",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_SANTA_BARBRA",
+      "image_filename": "natural_history_muesum_santa_barbara.jpg",
+      "question": "Which location provides access to the Wildlife Garden?",
+      "reference_answers": [
+        "Courtyard"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_Q0001",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM",
+      "image_filename": "natural-history-museum-london-map.jpg",
+      "question": "In which map direction is Dining located relative to Hintze Hall?",
+      "reference_answers": [
+        "Northeast (T. rex Grill, The Coffee House, the kitchen). North (Central Cafe), west (Darwin Centre Cafe),Southeast in Lower Ground Floor (Snack Bar)"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_Q0002",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM",
+      "image_filename": "natural-history-museum-london-map.jpg",
+      "question": "Are there any Dining within a short walk of Cromwell Road Entrance?",
+      "reference_answers": [
+        "No"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_Q0003",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM",
+      "image_filename": "natural-history-museum-london-map.jpg",
+      "question": "Which Shop is located in the northeast of East Pavilion?",
+      "reference_answers": [
+        "The Cronbourne Boutique next to Human Evaluation"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_Q0004",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM",
+      "image_filename": "natural-history-museum-london-map.jpg",
+      "question": "Where can I find Dining in the north of Hintze Hall?",
+      "reference_answers": [
+        "Central Cafe"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_Q0005",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM",
+      "image_filename": "natural-history-museum-london-map.jpg",
+      "question": "Which Service can I find from Waterhouse Gallery towards Earth Hall?",
+      "reference_answers": [
+        "None, but nearby there are Baby Change Room, Accessible Toilets, Information and Tickets, Water bottle Refill point, and Cloakroom"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_Q0006",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM",
+      "image_filename": "natural-history-museum-london-map.jpg",
+      "question": "What location has Retail from Darwin Centre towards Central Cafe?",
+      "reference_answers": [
+        "Dino Store"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_Q0007",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM",
+      "image_filename": "natural-history-museum-london-map.jpg",
+      "question": "What is the nearest Dining from Hintze Hall?",
+      "reference_answers": [
+        "Central Cafe"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_Q0008",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM",
+      "image_filename": "natural-history-museum-london-map.jpg",
+      "question": "Where can I find Snack bar in Lower Ground Floor?",
+      "reference_answers": [
+        "near Investigate Centre"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_Q0009",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM",
+      "image_filename": "natural-history-museum-london-map.jpg",
+      "question": "What map direction should I head toward to reach the closest Dining from Earth Hall?",
+      "reference_answers": [
+        "North (The kitchen, The Coffee House)"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_Q0010",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM",
+      "image_filename": "natural-history-museum-london-map.jpg",
+      "question": "How close is the closest Dining from The Cronbourne Boutique (short/moderate/long walk)?",
+      "reference_answers": [
+        "Moderate walk"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_Q0011",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM",
+      "image_filename": "natural-history-museum-london-map.jpg",
+      "question": "Where is the closest Restaurant from Creepy Crawlies?",
+      "reference_answers": [
+        "T.rex Grill"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_Q0012",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM",
+      "image_filename": "natural-history-museum-london-map.jpg",
+      "question": "What is the closest Flett Events Theatre from Darwin centre cafe towards Mammalsl?",
+      "reference_answers": [
+        "None, the only one is near From the Begenning"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_Q0013",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM",
+      "image_filename": "natural-history-museum-london-map.jpg",
+      "question": "Where is the Information and tickets from Zoology Spirit Building towards Fossil Marine Reptiles?",
+      "reference_answers": [
+        "One in front of Attenborough Studio, One at Hintze Hall"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_Q0014",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM",
+      "image_filename": "natural-history-museum-london-map.jpg",
+      "question": "Where can I find the Wheelchair Figure icon on the map?",
+      "reference_answers": [
+        "Accessible Toilets (One at Zoology Sirit Building, One next to Images of Nature, One behind Human Biology, One near Central Cafe, One near Investigate Centre, One near The kitchen)\nAccessible Entrance (Queen's Gate, Exhibition Road)"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_Q0015",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM",
+      "image_filename": "natural-history-museum-london-map.jpg",
+      "question": "What is the nearest Wheelchair Figure icon to Hintze Hall?",
+      "reference_answers": [
+        "In the side corridors immediately east and west of the hall"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_Q0016",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM",
+      "image_filename": "natural-history-museum-london-map.jpg",
+      "question": "How many Accessible entrance are near Museum Shop?",
+      "reference_answers": [
+        "0 (nearest entrance is Step-free entrance, Cromwell Entrance)"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_Q0017",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM",
+      "image_filename": "natural-history-museum-london-map.jpg",
+      "question": "What does the Wheelchair Figure icon represent on this map?",
+      "reference_answers": [
+        "Accessible toilets and Accessible entrances"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_Q0018",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM",
+      "image_filename": "natural-history-museum-london-map.jpg",
+      "question": "How many entrances are shown in the map?",
+      "reference_answers": [
+        "3.0"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_Q0019",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM",
+      "image_filename": "natural-history-museum-london-map.jpg",
+      "question": "Where is the main entrance located relative to the rest of the map (e.g., top, bottom, specific zone)?",
+      "reference_answers": [
+        "Bottom center (Cromwell Road Entrance), Right Center(Exhibition Road), Left Center (Queen's Gate)"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_Q0020",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM",
+      "image_filename": "natural-history-museum-london-map.jpg",
+      "question": "Which major Facility are closest to the Cromwell Road Entrance?",
+      "reference_answers": [
+        "Information Desk at Hintze Hall, Cloakroom near Entrance, Water bottle refill point near Hintze Hall, Toilets, baby care room, and accessible toilets near Hintze Hall"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_Q0021",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM",
+      "image_filename": "natural-history-museum-london-map.jpg",
+      "question": "List the main exhibits or galleries that are the closest to the primary path from the Queen's Gate Entrance?",
+      "reference_answers": [
+        "Ground Floor:  Left(Darwin Centre, Attenborough, Zoology Soirit Building), Center (Cocoon, Dinasours, Images of Nature, Jerwood Gallery,Mammals, Human Biology)\nCourtyard: Right(Wildlife Garden)"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_Q0022",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM",
+      "image_filename": "natural-history-museum-london-map.jpg",
+      "question": "If I turn left at the Cromwell Road Entrance and follow the path, what are the exhibits or galleries I will encounter?",
+      "reference_answers": [
+        "Blue Zone(Dinasours, Human Biology, Mammals, Jerwood Gallery, Images of Nature)"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_Q0023",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM",
+      "image_filename": "natural-history-museum-london-map.jpg",
+      "question": "I am standing at Hintze Hall. List the major zones or areas I can access directly from here.",
+      "reference_answers": [
+        "Blue Zone (Dinasours, Human Biology, Mammals, Jerwood Gallery, Images of Nature) and Green Zone (Fossil Marine Reptiles, Creepy Crawlies, Waterhouse Gallery)"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_Q0024",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM",
+      "image_filename": "natural-history-museum-london-map.jpg",
+      "question": "What accessibility amenities are offered according to the map legend?",
+      "reference_answers": [
+        "Accessible toilets, accessible entrances, and lifts"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_Q0025",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM",
+      "image_filename": "natural-history-museum-london-map.jpg",
+      "question": "Suggest a walking route starting from West Lawn that visits School Reception and ends at The vault",
+      "reference_answers": [
+        "West Lawn -> cromwell Road Entrance -> Hintze Hall -> use lifts to get down to Lower Ground Floor to School Reception -> use lifts to get up to Floor1 to The Vault"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_Q0026",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM",
+      "image_filename": "natural-history-museum-london-map.jpg",
+      "question": "Where are the family/inclusive restrooms on the map?",
+      "reference_answers": [
+        "near Zoology Spirit Building, Near Darwin Centre, Near Marine Invertebrates, near Central Cafe, near Investigate Centre, in the Mezzanine"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_Q0027",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM",
+      "image_filename": "natural-history-museum-london-map.jpg",
+      "question": "Where is the closest Water bottle refill point from Losting Impressions?",
+      "reference_answers": [
+        "next to T. rex Grill or next to The kitchen"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_Q0028",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM",
+      "image_filename": "natural-history-museum-london-map.jpg",
+      "question": "Where is the Cloakroom from Attenborough Studio towards birds?",
+      "reference_answers": [
+        "one at the Cramwell road Entrance"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_Q0029",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM",
+      "image_filename": "natural-history-museum-london-map.jpg",
+      "question": "Suggest a walking route starting from Dinosaurs that visits Marine Invertebrates and ends at The Anning Rooms for Members and Patrons at Floor 2",
+      "reference_answers": [
+        "Dinosaurs -> pass through Mammals -> Marine Invertebrates -> use lifts to get to The Anning Rooms for Members and PatronsThe Anning Rooms for Members and Patrons in Floor 2"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_Q0030",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM",
+      "image_filename": "natural-history-museum-london-map.jpg",
+      "question": "Which Lifts are on the way from Fishes, Amphibians & Reptiles to Human evaluation?",
+      "reference_answers": [
+        "One next to Fossil Marine Reptiles, another one in front of  Fossil Marine Reptiles"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_Q0031",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM",
+      "image_filename": "natural-history-museum-london-map.jpg",
+      "question": "How many Service are near Central Cafe?",
+      "reference_answers": [
+        "4 (Toilets, Accessible toilets, Lifts, Baby care room)"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_Q0032",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM",
+      "image_filename": "natural-history-museum-london-map.jpg",
+      "question": "Are there any Dining within a short walk of Hintze Hall?",
+      "reference_answers": [
+        "Yes"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_Q0033",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM",
+      "image_filename": "natural-history-museum-london-map.jpg",
+      "question": "Suggest a walking route starting from Cocoon that visits Giant Sequoia and ends at a nearby Contemplation Room",
+      "reference_answers": [
+        "Cocoon -> use lifts up to DarwinCentre Cafe -> use lifts near Hintz Hall to go up to Giant Sequoia in Floor 2 -> use lifts to go down to Ground Floor -> Contemplation Room"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_Q0034",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM",
+      "image_filename": "natural-history-museum-london-map.jpg",
+      "question": "Where can I find Dining in the southwest of Dino store?",
+      "reference_answers": [
+        "Darwin Centre Cafe"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_Q0035",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM",
+      "image_filename": "natural-history-museum-london-map.jpg",
+      "question": "Which Cafe can I find from Human Biology towards Mammals (blue whale)?",
+      "reference_answers": [
+        "Central Cafe"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_Q0036",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM",
+      "image_filename": "natural-history-museum-london-map.jpg",
+      "question": "What location has Dining from Hintze Hall towards Waterhouse Gallery?",
+      "reference_answers": [
+        "None, T rex Grill is near Waterhouse Gallery"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_Q0037",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM",
+      "image_filename": "natural-history-museum-london-map.jpg",
+      "question": "What map direction should I head toward to reach the closest Picnic Area from Images of nature?",
+      "reference_answers": [
+        "east but in Lower Ground Floor"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_Q0038",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM",
+      "image_filename": "natural-history-museum-london-map.jpg",
+      "question": "How close is the closest Dining from Exhibition Road Entrance (short/moderate/long walk)?",
+      "reference_answers": [
+        "Short walk"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_Q0039",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM",
+      "image_filename": "natural-history-museum-london-map.jpg",
+      "question": "What is the closest Baby change room from Volcanes & Earthquakes Gallery?",
+      "reference_answers": [
+        "One at ground Floor at Earth Hall"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_Q0040",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM",
+      "image_filename": "natural-history-museum-london-map.jpg",
+      "question": "What is the closest Toilet from The Coffee House towards Restless surface?",
+      "reference_answers": [
+        "One at The Mezzanine"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_Q0041",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM",
+      "image_filename": "natural-history-museum-london-map.jpg",
+      "question": "How many Wheelchair Figure icons are in Earth Hall?",
+      "reference_answers": [
+        "1 (in the adjacent corridor)"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_Q0042",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM",
+      "image_filename": "natural-history-museum-london-map.jpg",
+      "question": "Which Baby care rooms are closest to Earth’s treasury at Floor 1?",
+      "reference_answers": [
+        "One at the Ground Floor In the adjacent side corridor to Hintze Hall"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_Q0043",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM",
+      "image_filename": "natural-history-museum-london-map.jpg",
+      "question": "List the main exhibits or galleries that are the closest to the primary path from the Exhibition Road Entrance?",
+      "reference_answers": [
+        "Ground Floor: Earth Hall, Human evaluation\nFloor 1: From The Beginning, Earth's Treasury\nFloor 2: Restless Surface, Volcanes & Earthquakes"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_Q0044",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM",
+      "image_filename": "natural-history-museum-london-map.jpg",
+      "question": "I am standing at Central Cafe. List the major zones or areas I can access directly from here.",
+      "reference_answers": [
+        "Blue Zone, Green Zone, and Hintze Hall"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_Q0045",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM",
+      "image_filename": "natural-history-museum-london-map.jpg",
+      "question": "Where can I find wheelchair/stroller-friendly services near Darwin Centre?",
+      "reference_answers": [
+        "Lifts and accessible toilets inside Darwin Centre"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_Q0046",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM",
+      "image_filename": "natural-history-museum-london-map.jpg",
+      "question": "Suggest a walking route starting from East Lawn that visits British Geological Survey and shop and ends at Building Nature’s Treasure House",
+      "reference_answers": [
+        "East Lawn -> Exhibition Road Entrance -> British Geological Survey and shop next to Losting Impressions -> Hintze Hall -> use lifts to get to Floor 1 to Building Nature’s Treasure House"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_Q0047",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM",
+      "image_filename": "natural-history-museum-london-map.jpg",
+      "question": "Which Accessible toilets are on the way from Jerwood Gallery to From the beginning Gallery?",
+      "reference_answers": [
+        "Central Cafe itself"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_Q0048",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM",
+      "image_filename": "natural-history-museum-london-map.jpg",
+      "question": "Suggest a walking route starting from Dinosaurs that visits Minerals and ends at T rex Grill at Ground Floor",
+      "reference_answers": [
+        "Dinasours -> Hintze Hall -> use lifts to get to minerals in Floor 1 -> use lifts to get back to ground floor and go to T rex Grill"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_Q0049",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM",
+      "image_filename": "natural-history-museum-london-map.jpg",
+      "question": "Which Dining are on the way fromTreasures Codogon Gallery to Wildlife Garden at Courtyard?",
+      "reference_answers": [
+        "Darwin Centre Cafe"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM_Q0050",
+      "image_id": "SAMA_MUSEUM_NATURAL_HISTORY_MUSEUM",
+      "image_filename": "natural-history-museum-london-map.jpg",
+      "question": "How many Facility are near Cromwell Road Entrance?",
+      "reference_answers": [
+        "6 (Information, Toilets, Cloakroom, Accessible Toilets, baby care room, water bottle refill point)"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NY_MUSEUM_Q0001",
+      "image_id": "SAMA_MUSEUM_NY_MUSEUM",
+      "image_filename": "NYSM_map.jpg",
+      "question": "In which map direction is Facility located relative to Main Lobby?",
+      "reference_answers": [
+        "North (Student Center, Restrooms, Elevators,escalators)\nFire exits at east, west, northeast,northwest\nsouth (Information desk, lost and found)"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NY_MUSEUM_Q0002",
+      "image_id": "SAMA_MUSEUM_NY_MUSEUM",
+      "image_filename": "NYSM_map.jpg",
+      "question": "Are there any Educational Facility within a short walk of Discovery Place?",
+      "reference_answers": [
+        "Yes, the Student Center/Classrooms are located to the west."
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NY_MUSEUM_Q0003",
+      "image_id": "SAMA_MUSEUM_NY_MUSEUM",
+      "image_filename": "NYSM_map.jpg",
+      "question": "What are the working hours of the Discovery Palace?",
+      "reference_answers": [
+        "10 AM - 4 PM"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NY_MUSEUM_Q0004",
+      "image_id": "SAMA_MUSEUM_NY_MUSEUM",
+      "image_filename": "NYSM_map.jpg",
+      "question": "How many Fire exit are on the map?",
+      "reference_answers": [
+        "8 Fire Exits (2 are not equiped for wheelchairs)"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NY_MUSEUM_Q0005",
+      "image_id": "SAMA_MUSEUM_NY_MUSEUM",
+      "image_filename": "NYSM_map.jpg",
+      "question": "Which Service can I find from Student Center towards West Gallery?",
+      "reference_answers": [
+        "Restrooms, Public Elevators, and Escalators."
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NY_MUSEUM_Q0006",
+      "image_id": "SAMA_MUSEUM_NY_MUSEUM",
+      "image_filename": "NYSM_map.jpg",
+      "question": "What location has Service from Main Lobby towards Huxley Theater?",
+      "reference_answers": [
+        "Information Desk and Lost and Found (inside Main Lobby)."
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NY_MUSEUM_Q0007",
+      "image_id": "SAMA_MUSEUM_NY_MUSEUM",
+      "image_filename": "NYSM_map.jpg",
+      "question": "What is the nearest Service from Main Lobby?",
+      "reference_answers": [
+        "Information Desk and Lost and Found."
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NY_MUSEUM_Q0008",
+      "image_id": "SAMA_MUSEUM_NY_MUSEUM",
+      "image_filename": "NYSM_map.jpg",
+      "question": "What map direction should I head toward to reach the closest Service from Main Lobby?",
+      "reference_answers": [
+        "Center/Inside Main Lobby (for Info Desk) or North (for Elevators/Restrooms)."
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NY_MUSEUM_Q0009",
+      "image_id": "SAMA_MUSEUM_NY_MUSEUM",
+      "image_filename": "NYSM_map.jpg",
+      "question": "How close is the closest Service from Main Lobby (short/moderate/long walk)?",
+      "reference_answers": [
+        "Short walk."
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NY_MUSEUM_Q0010",
+      "image_id": "SAMA_MUSEUM_NY_MUSEUM",
+      "image_filename": "NYSM_map.jpg",
+      "question": "What map direction should I head toward to reach Beneath the City from Birds of New York?",
+      "reference_answers": [
+        "southeast"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NY_MUSEUM_Q0011",
+      "image_id": "SAMA_MUSEUM_NY_MUSEUM",
+      "image_filename": "NYSM_map.jpg",
+      "question": "Where is the closest Service north of Main Lobby?",
+      "reference_answers": [
+        "Public Elevators and Escalators."
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NY_MUSEUM_Q0012",
+      "image_id": "SAMA_MUSEUM_NY_MUSEUM",
+      "image_filename": "NYSM_map.jpg",
+      "question": "What is the closest Service from Main Lobby towards West Gallery?",
+      "reference_answers": [
+        "Information Desk / Lost and Found."
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NY_MUSEUM_Q0013",
+      "image_id": "SAMA_MUSEUM_NY_MUSEUM",
+      "image_filename": "NYSM_map.jpg",
+      "question": "Where is the closest Fire Exit from Weitsman Stoneware towards Camping?",
+      "reference_answers": [
+        "one east of Camping"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NY_MUSEUM_Q0014",
+      "image_id": "SAMA_MUSEUM_NY_MUSEUM",
+      "image_filename": "NYSM_map.jpg",
+      "question": "Where can I find the Mastodon Skeleton icon on the map?",
+      "reference_answers": [
+        "North-center, in the South Hall Lobby."
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NY_MUSEUM_Q0015",
+      "image_id": "SAMA_MUSEUM_NY_MUSEUM",
+      "image_filename": "NYSM_map.jpg",
+      "question": "What is the nearest Bird in Flight icon to Discovery Place?",
+      "reference_answers": [
+        "West, in the \"Birds of New York\" exhibit."
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NY_MUSEUM_Q0016",
+      "image_id": "SAMA_MUSEUM_NY_MUSEUM",
+      "image_filename": "NYSM_map.jpg",
+      "question": "How many animal related exhibits are on the map?",
+      "reference_answers": [
+        "6 (Mastodon, first Peoples, Open Spaces, Moose and deer near Minearls of New York, Elk Pond)"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NY_MUSEUM_Q0017",
+      "image_id": "SAMA_MUSEUM_NY_MUSEUM",
+      "image_filename": "NYSM_map.jpg",
+      "question": "What does the Mastodon Skeleton icon represent on this map?",
+      "reference_answers": [
+        "The Mastodon exhibit in the South Hall Lobby / Ice Ages area."
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NY_MUSEUM_Q0018",
+      "image_id": "SAMA_MUSEUM_NY_MUSEUM",
+      "image_filename": "NYSM_map.jpg",
+      "question": "How many entrances are shown in the map?",
+      "reference_answers": [
+        "Two main entrance arrows at the bottom, plus a school group escalator entrance."
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NY_MUSEUM_Q0019",
+      "image_id": "SAMA_MUSEUM_NY_MUSEUM",
+      "image_filename": "NYSM_map.jpg",
+      "question": "Where is the main entrance located relative to the rest of the map (e.g., top, bottom, specific zone)?",
+      "reference_answers": [
+        "Bottom, leading into the Main Lobby."
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NY_MUSEUM_Q0020",
+      "image_id": "SAMA_MUSEUM_NY_MUSEUM",
+      "image_filename": "NYSM_map.jpg",
+      "question": "Which major Educational Facility or areas are closest to the Entrance?",
+      "reference_answers": [
+        "Student Center / Classrooms."
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NY_MUSEUM_Q0021",
+      "image_id": "SAMA_MUSEUM_NY_MUSEUM",
+      "image_filename": "NYSM_map.jpg",
+      "question": "List the main exhibits or galleries that are the closest to the primary path from the Main Lobby.",
+      "reference_answers": [
+        "Here Is New York, Beneath the City, West Gallery."
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NY_MUSEUM_Q0022",
+      "image_id": "SAMA_MUSEUM_NY_MUSEUM",
+      "image_filename": "NYSM_map.jpg",
+      "question": "If I turn left at the Entrance and follow the path, what are the exhibits or galleries I will encounter?",
+      "reference_answers": [
+        "Here Is New York, Metropolis on the Move, World Trade Center, Fire Engine Hall."
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NY_MUSEUM_Q0023",
+      "image_id": "SAMA_MUSEUM_NY_MUSEUM",
+      "image_filename": "NYSM_map.jpg",
+      "question": "I am standing at Main Lobby. List the major zones or areas I can access directly from here.",
+      "reference_answers": [
+        "West Gallery Corridor, Huxley Theater, West Gallery, Here Is New York, Weitsman Stoneware, Central Elevators"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NY_MUSEUM_Q0024",
+      "image_id": "SAMA_MUSEUM_NY_MUSEUM",
+      "image_filename": "NYSM_map.jpg",
+      "question": "What accessibility amenities are offered according to the map legend?",
+      "reference_answers": [
+        "There is no map legend, but there are icons or places that are marked as accessibility amenities"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NY_MUSEUM_Q0025",
+      "image_id": "SAMA_MUSEUM_NY_MUSEUM",
+      "image_filename": "NYSM_map.jpg",
+      "question": "Where can I find wheelchair/stroller-friendly services near Main Lobby?",
+      "reference_answers": [
+        "Central Public Elevators and accessible restrooms to the north."
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NY_MUSEUM_Q0026",
+      "image_id": "SAMA_MUSEUM_NY_MUSEUM",
+      "image_filename": "NYSM_map.jpg",
+      "question": "Where are the family/inclusive restrooms on the map?",
+      "reference_answers": [
+        "Central area near Student Center, and near Discovery Place."
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NY_MUSEUM_Q0027",
+      "image_id": "SAMA_MUSEUM_NY_MUSEUM",
+      "image_filename": "NYSM_map.jpg",
+      "question": "Where can I get beverages near Main Lobby?",
+      "reference_answers": [
+        "None shown on map."
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NY_MUSEUM_Q0028",
+      "image_id": "SAMA_MUSEUM_NY_MUSEUM",
+      "image_filename": "NYSM_map.jpg",
+      "question": "I am currently at Outcasts: Mary Banning's Mushroom. In which map direction should I head towards to reach Prehistoric Wilderness?",
+      "reference_answers": [
+        "Southeast"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NY_MUSEUM_Q0029",
+      "image_id": "SAMA_MUSEUM_NY_MUSEUM",
+      "image_filename": "NYSM_map.jpg",
+      "question": "Suggest a walking route starting from Mastodon that visits Longhouse and ends at a nearby café or food court.",
+      "reference_answers": [
+        "Head to northeast to Longhouse. No café or food court is shown on map."
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NY_MUSEUM_Q0030",
+      "image_id": "SAMA_MUSEUM_NY_MUSEUM",
+      "image_filename": "NYSM_map.jpg",
+      "question": "Which Service are on the way from West Gallery Corridor to World Trade Center?",
+      "reference_answers": [
+        "Information Desk and Lost and Found."
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NY_MUSEUM_Q0031",
+      "image_id": "SAMA_MUSEUM_NY_MUSEUM",
+      "image_filename": "NYSM_map.jpg",
+      "question": "Suggest a walking route starting from Metropolis on the Move that visits Open Spaces and ends at Adirondack Gallery.",
+      "reference_answers": [
+        "Metropolis on the Move -> north to Open Space -> Northeast to First Peoples -> South to Adirondack Gallery"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NY_MUSEUM_Q0032",
+      "image_id": "SAMA_MUSEUM_NY_MUSEUM",
+      "image_filename": "NYSM_map.jpg",
+      "question": "In which map direction is Public Elevators located relative to Adirondack Wilderness?",
+      "reference_answers": [
+        "west of Adirondack Wilderness"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NY_MUSEUM_Q0033",
+      "image_id": "SAMA_MUSEUM_NY_MUSEUM",
+      "image_filename": "NYSM_map.jpg",
+      "question": "Are there any Service within a short walk of Main Lobby?",
+      "reference_answers": [
+        "Yes (Information Desk, Lost and Found, Public Elevators)."
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NY_MUSEUM_Q0034",
+      "image_id": "SAMA_MUSEUM_NY_MUSEUM",
+      "image_filename": "NYSM_map.jpg",
+      "question": "Which Service is located in the northeast of Main Lobby?",
+      "reference_answers": [
+        "Restrooms at the center, and at Discovery Place"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NY_MUSEUM_Q0035",
+      "image_id": "SAMA_MUSEUM_NY_MUSEUM",
+      "image_filename": "NYSM_map.jpg",
+      "question": "In which map direction is Escalators located relative to Ice Ages?",
+      "reference_answers": [
+        "Southeast"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NY_MUSEUM_Q0036",
+      "image_id": "SAMA_MUSEUM_NY_MUSEUM",
+      "image_filename": "NYSM_map.jpg",
+      "question": "Which Service can I find from Harlem in the 1920s towards First Peoples?",
+      "reference_answers": [
+        "Northeast"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NY_MUSEUM_Q0037",
+      "image_id": "SAMA_MUSEUM_NY_MUSEUM",
+      "image_filename": "NYSM_map.jpg",
+      "question": "What location has Facility from South Hall Lobby towards Discovery Place?",
+      "reference_answers": [
+        "None directly between them; just exhibits (First Peoples)."
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NY_MUSEUM_Q0038",
+      "image_id": "SAMA_MUSEUM_NY_MUSEUM",
+      "image_filename": "NYSM_map.jpg",
+      "question": "Where can I find the nearest Information Desk from Logging?",
+      "reference_answers": [
+        "the only one is at the Main lobby, southwest of Logging"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NY_MUSEUM_Q0039",
+      "image_id": "SAMA_MUSEUM_NY_MUSEUM",
+      "image_filename": "NYSM_map.jpg",
+      "question": "Suggest a walking route starting from West Gallery Corridor that visits Adirondack Recreation and ends at NYC Tenements",
+      "reference_answers": [
+        "West Gallery Corridor -> North to Adirondack Recreation -> Northwest to South Hall ->Southwest to NYC Tenements"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NY_MUSEUM_Q0040",
+      "image_id": "SAMA_MUSEUM_NY_MUSEUM",
+      "image_filename": "NYSM_map.jpg",
+      "question": "What is the closest Service from South Hall Lobby towards Main Lobby?",
+      "reference_answers": [
+        "Restrooms, Public Elevators, and Escalators."
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NY_MUSEUM_Q0041",
+      "image_id": "SAMA_MUSEUM_NY_MUSEUM",
+      "image_filename": "NYSM_map.jpg",
+      "question": "Where is the closest Service from Elk Pond towards South Street Seaport?",
+      "reference_answers": [
+        "Public Elevators, Escalators, and Restrooms."
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NY_MUSEUM_Q0042",
+      "image_id": "SAMA_MUSEUM_NY_MUSEUM",
+      "image_filename": "NYSM_map.jpg",
+      "question": "What is the nearest Fire Engine icon to the Main Lobby?",
+      "reference_answers": [
+        "West, inside Fire Engine Hall."
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NY_MUSEUM_Q0043",
+      "image_id": "SAMA_MUSEUM_NY_MUSEUM",
+      "image_filename": "NYSM_map.jpg",
+      "question": "In which map direction is Lost and Found located relative to New York Metropolis?",
+      "reference_answers": [
+        "Southeast"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NY_MUSEUM_Q0044",
+      "image_id": "SAMA_MUSEUM_NY_MUSEUM",
+      "image_filename": "NYSM_map.jpg",
+      "question": "Where is the Main Lobby located relative to the rest of the map?",
+      "reference_answers": [
+        "Bottom/South Center."
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NY_MUSEUM_Q0045",
+      "image_id": "SAMA_MUSEUM_NY_MUSEUM",
+      "image_filename": "NYSM_map.jpg",
+      "question": "Which Service are on the way from Colvin Tower to Here is New York?",
+      "reference_answers": [
+        "Public Elevators, Escalators, and Restrooms."
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NY_MUSEUM_Q0046",
+      "image_id": "SAMA_MUSEUM_NY_MUSEUM",
+      "image_filename": "NYSM_map.jpg",
+      "question": "Suggest a walking route starting from Minerals of New York that visits WTC Family Trailer and ends at Fifth Avenue",
+      "reference_answers": [
+        "Minerals of New York -> Northeast to WTC Family Trailer -> Northwest South Hall Lobby -> Southwest to Fifth Avenue"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NY_MUSEUM_Q0047",
+      "image_id": "SAMA_MUSEUM_NY_MUSEUM",
+      "image_filename": "NYSM_map.jpg",
+      "question": "If I turn right at the Entrance and follow the path, what are the exhibits or galleries I will encounter?",
+      "reference_answers": [
+        "West Gallery Corridor, Huxley Theater, New York Discoveries, West Gallery, beneath the city"
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NY_MUSEUM_Q0048",
+      "image_id": "SAMA_MUSEUM_NY_MUSEUM",
+      "image_filename": "NYSM_map.jpg",
+      "question": "Where can I get beverages near West Gallery?",
+      "reference_answers": [
+        "None shown on map."
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NY_MUSEUM_Q0049",
+      "image_id": "SAMA_MUSEUM_NY_MUSEUM",
+      "image_filename": "NYSM_map.jpg",
+      "question": "I am currently at Student Center. Where is the closest place I can get water?",
+      "reference_answers": [
+        "None shown on map."
+      ]
+    },
+    {
+      "question_id": "SAMA_MUSEUM_NY_MUSEUM_Q0050",
+      "image_id": "SAMA_MUSEUM_NY_MUSEUM",
+      "image_filename": "NYSM_map.jpg",
+      "question": "Suggest a walking route starting from Skyscraper City that visits The Gunboat at Ground Zero and ends at a nearby café or food court.",
+      "reference_answers": [
+        "Head north through New York Metropolis to The Gunboat. No café shown."
+      ]
+    }
+  ]
+}
