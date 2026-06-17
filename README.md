@@ -1,7 +1,7 @@
 # SAMA: A Visual Question Answering Benchmark for Stylized Wayfinding Maps
 
-[![Dataset]([https://img.shields.io/badge/Dataset-Release-blue.svg](https://github.com/Al-Shareedah/SAMA-Dataset/tree/main/data))](#)
-[![License: MIT]([https://img.shields.io/badge/License-MIT-green.svg](https://github.com/Al-Shareedah/SAMA-Dataset/blob/main/LICENSE))](#) 
+[![Dataset](https://img.shields.io/badge/Dataset-Release-blue.svg)](https://github.com/Al-Shareedah/SAMA-Dataset/tree/main/data)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Al-Shareedah/SAMA-Dataset/blob/main/LICENSE)
 
 
 **SAMA** is the first large-scale, manually revised Visual Question Answering (VQA) dataset specifically designed to evaluate Vision-Language Model (VLM) spatial reasoning over stylized, non-standard indoor and outdoor wayfinding maps. Developed at the University of California, Riverside, this dataset pushes the boundaries of spatial comprehension in AI.
