@@ -9,7 +9,7 @@
 Unlike standard cartographic maps, the attraction maps in SAMA (such as theme parks, zoos, and resorts) are not drawn to scale and lack standard geographic coordinates, presenting a unique and challenging benchmark for multimodal spatial intelligence.
 
 This repository contains the dataset resources corresponding to our short paper:
-📄 **[SAMA: Natural Language QA Benchmark for Spatial Answering over Maps of Attractions [Experiments]]**
+📄 **[SAMA: Spatial Question Answering over Maps of Attractions [Experiments]]**
 
 ## 📊 Dataset Overview
 
